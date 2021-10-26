@@ -1,9 +1,27 @@
 {
-    "category": "people",
+    "category_en": "people",
+    "category_cn": "人",
     "is_live": true,
     "details": [
         {
-            "title": "body"
+            "title_en": "body",
+            "title_cn": "身体",
+            "image": "https://github.com/standingmind/chinese_learner_resources/blob/main/vocabulary/people/body.jpg"
+        },
+        {
+            "title_en": "foot",
+            "title_cn": "脚丫子",
+            "image": "https://github.com/standingmind/chinese_learner_resources/blob/main/vocabulary/people/foot.jpg"
+        },
+        {
+            "title_en": "hand",
+            "title_cn": "手",
+            "image": "https://github.com/standingmind/chinese_learner_resources/blob/main/vocabulary/people/hand.png"
+        },
+        {
+            "title_en": "relationship",
+            "title_cn": "关系",
+            "image": "https://github.com/standingmind/chinese_learner_resources/blob/main/vocabulary/people/relationship.jpg"
         }
     ]
 }
