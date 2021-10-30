@@ -8,154 +8,155 @@
             "title_cn": "身体",
             "image": "body.jpg",
             "details": [
-                [
-                    {
-                        "title_en": "chest",
-                        "title_cn": "胸",
-                        "image": "abdomen.jpg"
-                    },
-                    {
-                        "title_en": "thigh",
-                        "title_cn": "大腿",
-                        "image": "back.jpg"
-                    },
-                    {
-                        "title_en": "elbow",
-                        "title_cn": "胳膊肘子",
-                        "image": "elbow.png"
-                    },
-                    {
-                        "title_en": "wrist",
-                        "title_cn": "手腕子",
-                        "image": "wrist.jpg"
-                    },
-                    {
-                        "title_en": "hand",
-                        "title_cn": "手",
-                        "image": "hand.jpg"
-                    },
-                    {
-                        "title_en": "neck",
-                        "title_cn": "脖子",
-                        "image": "neck.jpg"
-                    },
-                    {
-                        "title_en": "abdomen",
-                        "title_cn": "肚子",
-                        "image": "abdomen.jpg"
-                    },
-                    {
-                        "title_en": "hip",
-                        "title_cn": "臀部",
-                        "image": "hip.jpg"
-                    },
-                    {
-                        "title_en": "shin",
-                        "title_cn": "外小腿",
-                        "image": "shin.jpg"
-                    },
-                    {
-                        "title_en": "head",
-                        "title_cn": "头",
-                        "image": "head.jpg"
-                    },
-                    {
-                        "title_en": "waist",
-                        "title_cn": "腰部",
-                        "image": "waist.jpg"
-                    },
-                    {
-                        "title_en": "navel",
-                        "title_cn": "肚脐",
-                        "image": "navel.jpg"
-                    },
-                    {
-                        "title_en": "forearm",
-                        "title_cn": "前臂",
-                        "image": "forearm.jpg"
-                    },
-                    {
-                        "title_en": "knee",
-                        "title_cn": "膝盖",
-                        "image": "knee.jpg"
-                    },
-                    {
-                        "title_en": "leg",
-                        "title_cn": "腿",
-                        "image": "leg.png"
-                    },
-                    {
-                        "title_en": "foot",
-                        "title_cn": "脚掌",
-                        "image": "foot.png"
-                    },
-                    {
-                        "title_en": "nape",
-                        "title_cn": "颈背",
-                        "image": "nape.jpg"
-                    },
-                    {
-                        "title_en": "shoulder",
-                        "title_cn": "肩膀",
-                        "image": "shoulder.jpg"
-                    },
-                    {
-                        "title_en": "arm",
-                        "title_cn": "胳膊",
-                        "image": "arm.jpg"
-                    },
-                    {
-                        "title_en": "ankle",
-                        "title_cn": "脚脖子",
-                        "image": "ankle.jpg"
-                    },
-                    {
-                        "title_en": "back",
-                        "title_cn": "背",
-                        "image": "back.jpg"
-                    },
-                    {
-                        "title_en": "armpit",
-                        "title_cn": "腋窝",
-                        "image": "armpit.jpg"
-                    },
-                    {
-                        "title_en": "small of back",
-                        "title_cn": "后腰",
-                        "image": "small of back.jpg"
-                    },
-                    {
-                        "title_en": "buttock",
-                        "title_cn": "屁股",
-                        "image": "buttock.jpg"
-                    },
-                    {
-                        "title_en": "calf",
-                        "title_cn": "小腿",
-                        "image": "calf.jpg"
-                    },
-                    {
-                        "title_en": "heel",
-                        "title_cn": "脚跟",
-                        "image": "heel.jpg"
-                    }
-                ]
+                {
+                    "title_en": "chest",
+                    "title_cn": "胸",
+                    "image": "abdomen.jpg"
+                },
+                {
+                    "title_en": "thigh",
+                    "title_cn": "大腿",
+                    "image": "back.jpg"
+                },
+                {
+                    "title_en": "elbow",
+                    "title_cn": "胳膊肘子",
+                    "image": "elbow.png"
+                },
+                {
+                    "title_en": "wrist",
+                    "title_cn": "手腕子",
+                    "image": "wrist.jpg"
+                },
+                {
+                    "title_en": "hand",
+                    "title_cn": "手",
+                    "image": "hand.jpg"
+                },
+                {
+                    "title_en": "neck",
+                    "title_cn": "脖子",
+                    "image": "neck.jpg"
+                },
+                {
+                    "title_en": "abdomen",
+                    "title_cn": "肚子",
+                    "image": "abdomen.jpg"
+                },
+                {
+                    "title_en": "hip",
+                    "title_cn": "臀部",
+                    "image": "hip.jpg"
+                },
+                {
+                    "title_en": "shin",
+                    "title_cn": "外小腿",
+                    "image": "shin.jpg"
+                },
+                {
+                    "title_en": "head",
+                    "title_cn": "头",
+                    "image": "head.jpg"
+                },
+                {
+                    "title_en": "waist",
+                    "title_cn": "腰部",
+                    "image": "waist.jpg"
+                },
+                {
+                    "title_en": "navel",
+                    "title_cn": "肚脐",
+                    "image": "navel.jpg"
+                },
+                {
+                    "title_en": "forearm",
+                    "title_cn": "前臂",
+                    "image": "forearm.jpg"
+                },
+                {
+                    "title_en": "knee",
+                    "title_cn": "膝盖",
+                    "image": "knee.jpg"
+                },
+                {
+                    "title_en": "leg",
+                    "title_cn": "腿",
+                    "image": "leg.png"
+                },
+                {
+                    "title_en": "foot",
+                    "title_cn": "脚掌",
+                    "image": "foot.png"
+                },
+                {
+                    "title_en": "nape",
+                    "title_cn": "颈背",
+                    "image": "nape.jpg"
+                },
+                {
+                    "title_en": "shoulder",
+                    "title_cn": "肩膀",
+                    "image": "shoulder.jpg"
+                },
+                {
+                    "title_en": "arm",
+                    "title_cn": "胳膊",
+                    "image": "arm.jpg"
+                },
+                {
+                    "title_en": "ankle",
+                    "title_cn": "脚脖子",
+                    "image": "ankle.jpg"
+                },
+                {
+                    "title_en": "back",
+                    "title_cn": "背",
+                    "image": "back.jpg"
+                },
+                {
+                    "title_en": "armpit",
+                    "title_cn": "腋窝",
+                    "image": "armpit.jpg"
+                },
+                {
+                    "title_en": "small of back",
+                    "title_cn": "后腰",
+                    "image": "small of back.jpg"
+                },
+                {
+                    "title_en": "buttock",
+                    "title_cn": "屁股",
+                    "image": "buttock.jpg"
+                },
+                {
+                    "title_en": "calf",
+                    "title_cn": "小腿",
+                    "image": "calf.jpg"
+                },
+                {
+                    "title_en": "heel",
+                    "title_cn": "脚跟",
+                    "image": "heel.jpg"
+                }
             ]
         },
         {
             "title_en": "foot",
             "title_cn": "脚丫子",
-            "image": "foot.jpg"
+            "image": "foot.jpg",
+            "details": []
         },
         {
             "title_en": "hand",
             "title_cn": "手",
-            "image": "hand.png"
+            "image": "hand.png",
+            "details": []
         },
         {
             "title_en": "relationship",
             "title_cn": "关系",
-            "image": "relationship.jpg"
+            "image": "relationship.jpg",
+            "details": []
         }
     ]
 }
