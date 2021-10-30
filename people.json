@@ -11,28 +11,19 @@
                 {
                     "title_en": "chest",
                     "title_cn": "胸",
-                    "image": "abdomen.jpg"
+                    "image": "chest.jpg"
                 },
                 {
                     "title_en": "thigh",
                     "title_cn": "大腿",
-                    "image": "back.jpg"
+                    "image": "thigh.jpg"
                 },
                 {
                     "title_en": "elbow",
                     "title_cn": "胳膊肘子",
                     "image": "elbow.png"
                 },
-                {
-                    "title_en": "wrist",
-                    "title_cn": "手腕子",
-                    "image": "wrist.jpg"
-                },
-                {
-                    "title_en": "hand",
-                    "title_cn": "手",
-                    "image": "hand.jpg"
-                },
+              
                 {
                     "title_en": "neck",
                     "title_cn": "脖子",
@@ -88,11 +79,7 @@
                     "title_cn": "脚掌",
                     "image": "foot.png"
                 },
-                {
-                    "title_en": "nape",
-                    "title_cn": "颈背",
-                    "image": "nape.jpg"
-                },
+             
                 {
                     "title_en": "shoulder",
                     "title_cn": "肩膀",
@@ -121,7 +108,7 @@
                 {
                     "title_en": "small of back",
                     "title_cn": "后腰",
-                    "image": "small of back.jpg"
+                    "image": "small_of_back.jpg"
                 },
                 {
                     "title_en": "buttock",
