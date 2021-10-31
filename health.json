@@ -1,0 +1,159 @@
+{
+    "category_en": "health",
+    "category_cn": "健康",
+    "is_live": true,
+    "details": [
+        {
+            "title_en": "illness",
+            "title_cn": "疾病",
+            "image": "illness.jpg",
+            "details": [
+                {
+                  "title_en": "nausea",
+                  "title_cn": "恶心",
+                  "image": "nausea.png"
+                },
+                {
+                  "title_en": "fever",
+                  "title_cn": "发烧",
+                  "image": "fever.png"
+                },
+                {
+                  "title_en": "inhaler",
+                  "title_cn": "吸入器",
+                  "image": "inhaler.png"
+                },
+                {
+                  "title_en": "asthma",
+                  "title_cn": "哮喘",
+                  "image": "asthma.png"
+                },
+                {
+                  "title_en": "cramps",
+                  "title_cn": "抽筋",
+                  "image": "cramps.png"
+                },
+                {
+                  "title_en": "headache",
+                  "title_cn": "头痛",
+                  "image": "headache.png"
+                },
+                {
+                  "title_en": "nosebleed",
+                  "title_cn": "鼻出血",
+                  "image": "nosebleed.png"
+                },
+                {
+                  "title_en": "cough",
+                  "title_cn": "咳嗽",
+                  "image": "cough.png"
+                },
+                {
+                  "title_en": "sneeze",
+                  "title_cn": "喷嚏",
+                  "image": "sneeze.png"
+                },
+                {
+                  "title_en": "cold",
+                  "title_cn": "感冒",
+                  "image": "cold.png"
+                },
+                {
+                  "title_en": "flu",
+                  "title_cn": "流感",
+                  "image": "flu.png"
+                },
+                {
+                  "title_en": "chickenpox",
+                  "title_cn": "水痘",
+                  "image": "chickenpox.png"
+                },
+                {
+                  "title_en": "rash",
+                  "title_cn": "皮疹",
+                  "image": "rash.png"
+                },
+                {
+                  "title_en": "stroke",
+                  "title_cn": "中风",
+                  "image": "stroke.png"
+                },
+                {
+                  "title_en": "blood pressure",
+                  "title_cn": "血压",
+                  "image": "blood pressure.png"
+                },
+                {
+                  "title_en": "heart attack",
+                  "title_cn": "心脏病",
+                  "image": "heart attack.png"
+                },
+                {
+                  "title_en": "diabetes",
+                  "title_cn": "糖尿病",
+                  "image": "diabetes.png"
+                },
+                {
+                  "title_en": "allergy",
+                  "title_cn": "过敏",
+                  "image": "allergy.png"
+                },
+                {
+                  "title_en": "hayfever",
+                  "title_cn": "花粉症",
+                  "image": "hayfever.png"
+                },
+                {
+                  "title_en": "eczema",
+                  "title_cn": "湿疹",
+                  "image": "eczema.png"
+                },
+                {
+                  "title_en": "infection",
+                  "title_cn": "感染",
+                  "image": "infection.png"
+                },
+                {
+                  "title_en": "virus",
+                  "title_cn": "病毒",
+                  "image": "virus.png"
+                },
+                {
+                  "title_en": "chill",
+                  "title_cn": "风寒",
+                  "image": "chill.png"
+                },
+                {
+                  "title_en": "stomach ache",
+                  "title_cn": "拉肚子",
+                  "image": "stomach ache.png"
+                },
+                {
+                  "title_en": "faint",
+                  "title_cn": "昏厥",
+                  "image": "faint.png"
+                },
+                {
+                  "title_en": "vomit",
+                  "title_cn": "呕吐",
+                  "image": "vomit.png"
+                },
+                {
+                  "title_en": "migraine",
+                  "title_cn": "偏头痛",
+                  "image": "migraine.png"
+                },
+                {
+                  "title_en": "diarrhea",
+                  "title_cn": "腹泻",
+                  "image": "diarrhea.png"
+                },
+                {
+                  "title_en": "measles",
+                  "title_cn": "麻疹",
+                  "image": "measles.png"
+                }
+              ]
+        }
+    ]
+}
