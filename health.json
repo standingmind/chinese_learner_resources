@@ -154,6 +154,109 @@
                   "image": "measles.png"
                 }
               ]
+        
+        },
+        {
+            "title_en": "first aid",
+            "title_cn": "初救",
+            "image": "first aid.png",
+            "details": [
+                {
+                  "title_en": "gauze",
+                  "title_cn": "纱布",
+                  "image": "gauze.png"
+                },
+                {
+                  "title_en": "ointment",
+                  "title_cn": "药膏",
+                  "image": "ointment.png"
+                },
+                {
+                  "title_en": "adhesive bandage",
+                  "title_cn": "橡皮膏",
+                  "image": "adhesive bandage.png"
+                },
+                {
+                  "title_en": "safety pin",
+                  "title_cn": "别针",
+                  "image": "safety pin.png"
+                },
+                {
+                  "title_en": "bandage",
+                  "title_cn": "绷带",
+                  "image": "bandage.png"
+                },
+                {
+                  "title_en": "analgesics",
+                  "title_cn": "止痛药",
+                  "image": "analgesics.png"
+                },
+                {
+                  "title_en": "dressing",
+                  "title_cn": "敷料",
+                  "image": "dressing.png"
+                },
+                {
+                  "title_en": "resuscitation",
+                  "title_cn": "恢复知觉",
+                  "image": "resuscitation.png"
+                },
+                {
+                  "title_en": "splint",
+                  "title_cn": "夹板",
+                  "image": "splint.png"
+                },
+                {
+                  "title_en": "adhesive tape",
+                  "title_cn": "医用胶带",
+                  "image": "adhesive tape.png"
+                },
+                {
+                  "title_en": "antiseptic wipe",
+                  "title_cn": "防腐",
+                  "image": "antiseptic wipe.png"
+                },
+                {
+                  "title_en": "tweezer",
+                  "title_cn": "镊子",
+                  "image": "tweezer.png"
+                },
+                {
+                  "title_en": "scissors",
+                  "title_cn": "剪刀",
+                  "image": "scissors.png"
+                },
+                {
+                  "title_en": "antiseptics",
+                  "title_cn": "防腐剂",
+                  "image": "antiseptics.png"
+                },
+                {
+                  "title_en": "unconscious",
+                  "title_cn": "不省人事",
+                  "image": "unconscious.png"
+                },
+                {
+                  "title_en": "pulse",
+                  "title_cn": "脉冲",
+                  "image": "pulse.png"
+                },
+                {
+                  "title_en": "breathing",
+                  "title_cn": "呼吸",
+                  "image": "breathing.png"
+                },
+                {
+                  "title_en": "choke",
+                  "title_cn": "窒息",
+                  "image": "choke.png"
+                },
+                {
+                  "title_en": "sterile",
+                  "title_cn": "消毒",
+                  "image": "sterile.png"
+                }
+              ]
         }
     ]
 }
