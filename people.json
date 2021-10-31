@@ -131,41 +131,41 @@
             "image": "foot.jpg",
             "details": [
                 {
-                  "title_en": "big toe",
-                  "title_cn": "大脚趾",
-                  "image": "big toe.png"
+                    "title_en": "big toe",
+                    "title_cn": "大脚趾",
+                    "image": "big toe.png"
                 },
                 {
-                  "title_en": "toe",
-                  "title_cn": "脚趾",
-                  "image": "toe.png"
+                    "title_en": "toe",
+                    "title_cn": "脚趾",
+                    "image": "toe.png"
                 },
                 {
-                  "title_en": "sole",
-                  "title_cn": "脚板",
-                  "image": "sole.jpg"
+                    "title_en": "sole",
+                    "title_cn": "脚板",
+                    "image": "sole.jpg"
                 },
                 {
-                  "title_en": "instep",
-                  "title_cn": "脚背",
-                  "image": "instep.png"
+                    "title_en": "instep",
+                    "title_cn": "脚背",
+                    "image": "instep.png"
                 },
                 {
-                  "title_en": "toenail",
-                  "title_cn": "趾甲",
-                  "image": "toenail.png"
+                    "title_en": "toenail",
+                    "title_cn": "趾甲",
+                    "image": "toenail.png"
                 },
                 {
-                  "title_en": "little toe",
-                  "title_cn": "小趾",
-                  "image": "little toe.png"
+                    "title_en": "little toe",
+                    "title_cn": "小趾",
+                    "image": "little toe.png"
                 },
                 {
-                  "title_en": "ankle",
-                  "title_cn": "脚踝",
-                  "image": "ankle.png"
+                    "title_en": "ankle",
+                    "title_cn": "脚踝",
+                    "image": "ankle.png"
                 }
-              ]
+            ]
         },
         {
             "title_en": "hand",
@@ -223,7 +223,68 @@
             "title_en": "relationship",
             "title_cn": "关系",
             "image": "relationship.png",
-            "details": []
+            "details": [
+                {
+                    "title_en": "manager",
+                    "title_cn": "管理",
+                    "image": "manager.png"
+                },
+                {
+                    "title_en": "assistant",
+                    "title_cn": "助理",
+                    "image": "assistant.png"
+                },
+                {
+                    "title_en": "business partner",
+                    "title_cn": "合作伙伴",
+                    "image": "business partner.png"
+                },
+                {
+                    "title_en": "employee",
+                    "title_cn": "员工",
+                    "image": "employee.png"
+                },
+                {
+                    "title_en": "employer",
+                    "title_cn": "老板",
+                    "image": "employer.png"
+                },
+                {
+                    "title_en": "colleague",
+                    "title_cn": "同事",
+                    "image": "colleague.png"
+                },
+                {
+                    "title_en": "neighbor",
+                    "title_cn": "邻居",
+                    "image": "neighbor.png"
+                },
+                {
+                    "title_en": "friend",
+                    "title_cn": "朋友",
+                    "image": "friend.png"
+                },
+                {
+                    "title_en": "boyfriend",
+                    "title_cn": "男朋友",
+                    "image": "boyfriend.png"
+                },
+                {
+                    "title_en": "girlfriend",
+                    "title_cn": "女朋友",
+                    "image": "girlfriend.png"
+                },
+                {
+                    "title_en": "couple",
+                    "title_cn": "情侣",
+                    "image": "couple.png"
+                },
+                {
+                    "title_en": "pen pal",
+                    "title_cn": "笔友",
+                    "image": "pen pal.png"
+                }
+            ]
         }
     ]
 }
