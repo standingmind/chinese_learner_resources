@@ -23,7 +23,6 @@
                     "title_cn": "胳膊肘子",
                     "image": "elbow.png"
                 },
-              
                 {
                     "title_en": "neck",
                     "title_cn": "脖子",
@@ -79,7 +78,6 @@
                     "title_cn": "脚掌",
                     "image": "foot.png"
                 },
-             
                 {
                     "title_en": "shoulder",
                     "title_cn": "肩膀",
@@ -137,7 +135,58 @@
             "title_en": "hand",
             "title_cn": "手",
             "image": "hand.png",
-            "details": []
+            "details": [
+                {
+                    "title_en": "ring finger",
+                    "title_cn": "无名指",
+                    "image": "ring finger.jpg"
+                },
+                {
+                    "title_en": "little finger",
+                    "title_cn": "小指",
+                    "image": "little finger.png"
+                },
+                {
+                    "title_en": "wrist",
+                    "title_cn": "手腕",
+                    "image": "wrist.jpg"
+                },
+                {
+                    "title_en": "middle finger",
+                    "title_cn": "中指",
+                    "image": "middle finger.jpeg"
+                },
+                {
+                    "title_en": "index finger",
+                    "title_cn": "食指",
+                    "image": "index finger.jpg"
+                },
+                {
+                    "title_en": "palm",
+                    "title_cn": "手掌",
+                    "image": "palm.jpg"
+                },
+                {
+                    "title_en": "thumb",
+                    "title_cn": "大拇指",
+                    "image": "thumb.jpg"
+                },
+                {
+                    "title_en": "nail",
+                    "title_cn": "指甲",
+                    "image": "nail.jfif"
+                },
+                {
+                    "title_en": "knuckle",
+                    "title_cn": "手指关节",
+                    "image": "knuckle.jpg"
+                },
+                {
+                    "title_en": "fist",
+                    "title_cn": "拳头",
+                    "image": "fist.png"
+                }
+            ]
         },
         {
             "title_en": "relationship",
