@@ -121,9 +121,9 @@
             ]
         },
         {
-            "title_en": "hotel",
-            "title_cn": "旅馆",
-            "image": "hotel.png",
+            "title_en": "emergency services",
+            "title_cn": "紧急服务",
+            "image": "emergency services.png",
             "details": [
                 {
                     "title_en": "uniform",
