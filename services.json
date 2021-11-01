@@ -1,13 +1,124 @@
 {
-    "category_en": "home",
-    "category_cn": "家庭",
+    "category_en": "services",
+    "category_cn": "服务",
     "is_live": true,
     "details": [
         {
-            "title_en": "house",
-            "title_cn": "房屋",
-            "image": "house.jpg",
-            "details": []
+            "title_en": "hotel",
+            "title_cn": "旅馆",
+            "image": "hotel.png",
+            "details": [
+                {
+                  "title_en": "guest",
+                  "title_cn": "客人",
+                  "image": "guest.png"
+                },
+                {
+                  "title_en": "room key",
+                  "title_cn": "房间药匙",
+                  "image": "room key.png"
+                },
+                {
+                  "title_en": "messages",
+                  "title_cn": "信息",
+                  "image": "messages.png"
+                },
+                {
+                  "title_en": "pigeonhole",
+                  "title_cn": "分类架",
+                  "image": "pigeonhole.png"
+                },
+                {
+                  "title_en": "receptionist",
+                  "title_cn": "招待员",
+                  "image": "receptionist.png"
+                },
+                {
+                  "title_en": "register",
+                  "title_cn": "登记",
+                  "image": "register.png"
+                },
+                {
+                  "title_en": "counter",
+                  "title_cn": "柜台",
+                  "image": "counter.png"
+                },
+                {
+                  "title_en": "luggage",
+                  "title_cn": "行李",
+                  "image": "luggage.png"
+                },
+                {
+                  "title_en": "cart",
+                  "title_cn": "推车",
+                  "image": "cart.png"
+                },
+                {
+                  "title_en": "elevator",
+                  "title_cn": "电梯",
+                  "image": "elevator.png"
+                },
+                {
+                  "title_en": "room number",
+                  "title_cn": "房间号",
+                  "image": "room number.png"
+                },
+                {
+                  "title_en": "single room",
+                  "title_cn": "单人房",
+                  "image": "single room.png"
+                },
+                {
+                  "title_en": "double room",
+                  "title_cn": "双人房",
+                  "image": "double room.png"
+                },
+                {
+                  "title_en": "twin room",
+                  "title_cn": "双床房",
+                  "image": "twin room.png"
+                },
+                {
+                  "title_en": "private bathroom",
+                  "title_cn": "私人浴室",
+                  "image": "private bathroom.png"
+                },
+                {
+                  "title_en": "maid service",
+                  "title_cn": "清洁服务",
+                  "image": "maid service.png"
+                },
+                {
+                  "title_en": "laundry service",
+                  "title_cn": "洗衣服务",
+                  "image": "laundry service.png"
+                },
+                {
+                  "title_en": "breakfast tray",
+                  "title_cn": "早餐盘",
+                  "image": "breakfast tray.png"
+                },
+                {
+                  "title_en": "room service",
+                  "title_cn": "客房服务",
+                  "image": "room service.png"
+                },
+                {
+                  "title_en": "minibar",
+                  "title_cn": "迷你冰箱",
+                  "image": "minibar.png"
+                },
+                {
+                  "title_en": "restaurant",
+                  "title_cn": "餐厅",
+                  "image": "restaurant.png"
+                },
+                {
+                  "title_en": "swimming pool",
+                  "title_cn": "游泳池",
+                  "image": "swimming pool.png"
+                }
+              ]
         }
 
     ]
