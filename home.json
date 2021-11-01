@@ -1,0 +1,250 @@
+{
+    "category_en": "home",
+    "category_cn": "家庭",
+    "is_live": true,
+    "details": [
+        {
+            "title_en": "house",
+            "title_cn": "房屋",
+            "image": "house.jpg",
+            "details": [
+                {
+                  "title_en": "window",
+                  "title_cn": "窗户",
+                  "image": "window.png"
+                },
+                {
+                  "title_en": "hallway",
+                  "title_cn": "走廊",
+                  "image": "hallway.png"
+                },
+                {
+                  "title_en": "electricity",
+                  "title_cn": "电",
+                  "image": "electricity.png"
+                },
+                {
+                  "title_en": "cooker",
+                  "title_cn": "电饭锅",
+                  "image": "cooker.png"
+                },
+                {
+                  "title_en": "roof",
+                  "title_cn": "房顶",
+                  "image": "roof.png"
+                },
+                {
+                  "title_en": "chimney",
+                  "title_cn": "烟囱",
+                  "image": "chimney.png"
+                },
+                {
+                  "title_en": "dormer window",
+                  "title_cn": "房屋顶",
+                  "image": "dormer window.png"
+                },
+                {
+                  "title_en": "gutter",
+                  "title_cn": "排水沟",
+                  "image": "gutter.png"
+                },
+                {
+                  "title_en": "wall",
+                  "title_cn": "墙壁",
+                  "image": "wall.png"
+                },
+                {
+                  "title_en": "extension",
+                  "title_cn": "分机",
+                  "image": "extension.png"
+                },
+                {
+                  "title_en": "front door",
+                  "title_cn": "前门",
+                  "image": "front door.png"
+                },
+                {
+                  "title_en": "townhouse",
+                  "title_cn": "排屋",
+                  "image": "townhouse.png"
+                },
+                {
+                  "title_en": "tenant",
+                  "title_cn": "承租人",
+                  "image": "tenant.png"
+                },
+                {
+                  "title_en": "bungalow",
+                  "title_cn": "平方",
+                  "image": "bungalow.png"
+                },
+                {
+                  "title_en": "basement",
+                  "title_cn": "地下室",
+                  "image": "basement.png"
+                },
+                {
+                  "title_en": "garage",
+                  "title_cn": "车库",
+                  "image": "garage.png"
+                },
+                {
+                  "title_en": "room",
+                  "title_cn": "房间",
+                  "image": "room.png"
+                },
+                {
+                  "title_en": "letter box",
+                  "title_cn": "信箱",
+                  "image": "letter box.png"
+                },
+                {
+                  "title_en": "porch light",
+                  "title_cn": "门廊灯",
+                  "image": "porch light.png"
+                },
+                {
+                  "title_en": "landlord",
+                  "title_cn": "房东",
+                  "image": "landlord.png"
+                },
+                {
+                  "title_en": "burglar alarm",
+                  "title_cn": "防盗报警器",
+                  "image": "burglar alarm.png"
+                },
+                {
+                  "title_en": "courtyard",
+                  "title_cn": "院子",
+                  "image": "courtyard.png"
+                },
+                {
+                  "title_en": "floor",
+                  "title_cn": "地板",
+                  "image": "floor.png"
+                },
+                {
+                  "title_en": "rent",
+                  "title_cn": "出租",
+                  "image": "rent.png"
+                },
+                {
+                  "title_en": "doorbell",
+                  "title_cn": "门铃",
+                  "image": "doorbell.png"
+                },
+                {
+                  "title_en": "doormat",
+                  "title_cn": "门垫",
+                  "image": "doormat.png"
+                },
+                {
+                  "title_en": "key",
+                  "title_cn": "钥匙",
+                  "image": "key.png"
+                },
+                {
+                  "title_en": "lock",
+                  "title_cn": "锁",
+                  "image": "lock.png"
+                },
+                {
+                  "title_en": "apartment",
+                  "title_cn": "插齿",
+                  "image": "apartment.png"
+                },
+                {
+                  "title_en": "balcony",
+                  "title_cn": "公寓",
+                  "image": "balcony.png"
+                },
+                {
+                  "title_en": "elevator",
+                  "title_cn": "电梯",
+                  "image": "elevator.png"
+                },
+                {
+                  "title_en": "radiator",
+                  "title_cn": "散热器",
+                  "image": "radiator.png"
+                },
+                {
+                  "title_en": "fan",
+                  "title_cn": "风扇",
+                  "image": "fan.png"
+                },
+                {
+                  "title_en": "light bulb",
+                  "title_cn": "灯泡",
+                  "image": "light bulb.png"
+                },
+                {
+                  "title_en": "air conditioner",
+                  "title_cn": "空调",
+                  "image": "air conditioner.png"
+                },
+                {
+                  "title_en": "plug",
+                  "title_cn": "插头",
+                  "image": "plug.png"
+                },
+                {
+                  "title_en": "wires",
+                  "title_cn": "金属丝",
+                  "image": "wires.png"
+                },
+                {
+                  "title_en": "voltage",
+                  "title_cn": "电压",
+                  "image": "voltage.png"
+                },
+                {
+                  "title_en": "power",
+                  "title_cn": "电能",
+                  "image": "power.png"
+                },
+                {
+                  "title_en": "generator",
+                  "title_cn": "发电机",
+                  "image": "generator.png"
+                },
+                {
+                  "title_en": "outlet",
+                  "title_cn": "电源插座",
+                  "image": "outlet.png"
+                },
+                {
+                  "title_en": "switch",
+                  "title_cn": "开关",
+                  "image": "switch.png"
+                },
+                {
+                  "title_en": "transformer",
+                  "title_cn": "变压器",
+                  "image": "transformer.png"
+                },
+                {
+                  "title_en": "electricity meter",
+                  "title_cn": "电表",
+                  "image": "electricity meter.png"
+                },
+                {
+                  "title_en": "power outage",
+                  "title_cn": "停电",
+                  "image": "power outage.png"
+                },
+                {
+                  "title_en": "bottle",
+                  "title_cn": "瓶子",
+                  "image": "bottle.png"
+                },
+                {
+                  "title_en": "trash can",
+                  "title_cn": "垃圾桶",
+                  "image": "trash can.png"
+                }
+              ]
+        }
+
+    ]
+}

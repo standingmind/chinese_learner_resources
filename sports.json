@@ -1,0 +1,14 @@
+{
+    "category_en": "home",
+    "category_cn": "家庭",
+    "is_live": true,
+    "details": [
+        {
+            "title_en": "house",
+            "title_cn": "房屋",
+            "image": "house.jpg",
+            "details": []
+        }
+
+    ]
+}
