@@ -9,117 +9,308 @@
             "image": "hotel.png",
             "details": [
                 {
-                  "title_en": "guest",
-                  "title_cn": "客人",
-                  "image": "guest.png"
+                    "title_en": "guest",
+                    "title_cn": "客人",
+                    "image": "guest.png"
                 },
                 {
-                  "title_en": "room key",
-                  "title_cn": "房间药匙",
-                  "image": "room key.png"
+                    "title_en": "room key",
+                    "title_cn": "房间药匙",
+                    "image": "room key.png"
                 },
                 {
-                  "title_en": "messages",
-                  "title_cn": "信息",
-                  "image": "messages.png"
+                    "title_en": "messages",
+                    "title_cn": "信息",
+                    "image": "messages.png"
                 },
                 {
-                  "title_en": "pigeonhole",
-                  "title_cn": "分类架",
-                  "image": "pigeonhole.png"
+                    "title_en": "pigeonhole",
+                    "title_cn": "分类架",
+                    "image": "pigeonhole.png"
                 },
                 {
-                  "title_en": "receptionist",
-                  "title_cn": "招待员",
-                  "image": "receptionist.png"
+                    "title_en": "receptionist",
+                    "title_cn": "招待员",
+                    "image": "receptionist.png"
                 },
                 {
-                  "title_en": "register",
-                  "title_cn": "登记",
-                  "image": "register.png"
+                    "title_en": "register",
+                    "title_cn": "登记",
+                    "image": "register.png"
                 },
                 {
-                  "title_en": "counter",
-                  "title_cn": "柜台",
-                  "image": "counter.png"
+                    "title_en": "counter",
+                    "title_cn": "柜台",
+                    "image": "counter.png"
                 },
                 {
-                  "title_en": "luggage",
-                  "title_cn": "行李",
-                  "image": "luggage.png"
+                    "title_en": "luggage",
+                    "title_cn": "行李",
+                    "image": "luggage.png"
                 },
                 {
-                  "title_en": "cart",
-                  "title_cn": "推车",
-                  "image": "cart.png"
+                    "title_en": "cart",
+                    "title_cn": "推车",
+                    "image": "cart.png"
                 },
                 {
-                  "title_en": "elevator",
-                  "title_cn": "电梯",
-                  "image": "elevator.png"
+                    "title_en": "elevator",
+                    "title_cn": "电梯",
+                    "image": "elevator.png"
                 },
                 {
-                  "title_en": "room number",
-                  "title_cn": "房间号",
-                  "image": "room number.png"
+                    "title_en": "room number",
+                    "title_cn": "房间号",
+                    "image": "room number.png"
                 },
                 {
-                  "title_en": "single room",
-                  "title_cn": "单人房",
-                  "image": "single room.png"
+                    "title_en": "single room",
+                    "title_cn": "单人房",
+                    "image": "single room.png"
                 },
                 {
-                  "title_en": "double room",
-                  "title_cn": "双人房",
-                  "image": "double room.png"
+                    "title_en": "double room",
+                    "title_cn": "双人房",
+                    "image": "double room.png"
                 },
                 {
-                  "title_en": "twin room",
-                  "title_cn": "双床房",
-                  "image": "twin room.png"
+                    "title_en": "twin room",
+                    "title_cn": "双床房",
+                    "image": "twin room.png"
                 },
                 {
-                  "title_en": "private bathroom",
-                  "title_cn": "私人浴室",
-                  "image": "private bathroom.png"
+                    "title_en": "private bathroom",
+                    "title_cn": "私人浴室",
+                    "image": "private bathroom.png"
                 },
                 {
-                  "title_en": "maid service",
-                  "title_cn": "清洁服务",
-                  "image": "maid service.png"
+                    "title_en": "maid service",
+                    "title_cn": "清洁服务",
+                    "image": "maid service.png"
                 },
                 {
-                  "title_en": "laundry service",
-                  "title_cn": "洗衣服务",
-                  "image": "laundry service.png"
+                    "title_en": "laundry service",
+                    "title_cn": "洗衣服务",
+                    "image": "laundry service.png"
                 },
                 {
-                  "title_en": "breakfast tray",
-                  "title_cn": "早餐盘",
-                  "image": "breakfast tray.png"
+                    "title_en": "breakfast tray",
+                    "title_cn": "早餐盘",
+                    "image": "breakfast tray.png"
                 },
                 {
-                  "title_en": "room service",
-                  "title_cn": "客房服务",
-                  "image": "room service.png"
+                    "title_en": "room service",
+                    "title_cn": "客房服务",
+                    "image": "room service.png"
                 },
                 {
-                  "title_en": "minibar",
-                  "title_cn": "迷你冰箱",
-                  "image": "minibar.png"
+                    "title_en": "minibar",
+                    "title_cn": "迷你冰箱",
+                    "image": "minibar.png"
                 },
                 {
-                  "title_en": "restaurant",
-                  "title_cn": "餐厅",
-                  "image": "restaurant.png"
+                    "title_en": "restaurant",
+                    "title_cn": "餐厅",
+                    "image": "restaurant.png"
                 },
                 {
-                  "title_en": "swimming pool",
-                  "title_cn": "游泳池",
-                  "image": "swimming pool.png"
+                    "title_en": "swimming pool",
+                    "title_cn": "游泳池",
+                    "image": "swimming pool.png"
                 }
-              ]
+            ]
         }
-
+        {
+            "title_en": "hotel",
+            "title_cn": "旅馆",
+            "image": "hotel.png",
+            "details": [
+                {
+                    "title_en": "uniform",
+                    "title_cn": "制服",
+                    "image": "uniform.png"
+                },
+                {
+                    "title_en": "cab",
+                    "title_cn": "出租车",
+                    "image": "cab.png"
+                },
+                {
+                    "title_en": "ambulance",
+                    "title_cn": "救护车",
+                    "image": "ambulance.png"
+                },
+                {
+                    "title_en": "paramedic",
+                    "title_cn": "护理人员",
+                    "image": "paramedic.png"
+                },
+                {
+                    "title_en": "stretcher",
+                    "title_cn": "担架",
+                    "image": "stretcher.png"
+                },
+                {
+                    "title_en": "badge",
+                    "title_cn": "徽章",
+                    "image": "badge.png"
+                },
+                {
+                    "title_en": "police",
+                    "title_cn": "警察",
+                    "image": "police.png"
+                },
+                {
+                    "title_en": "gun",
+                    "title_cn": "枪子",
+                    "image": "gun.png"
+                },
+                {
+                    "title_en": "police officer",
+                    "title_cn": "警官",
+                    "image": "police officer.png"
+                },
+                {
+                    "title_en": "handcuffs",
+                    "title_cn": "铐子",
+                    "image": "handcuffs.png"
+                },
+                {
+                    "title_en": "nightstick",
+                    "title_cn": "警棍",
+                    "image": "nightstick.png"
+                },
+                {
+                    "title_en": "siren",
+                    "title_cn": "警报器",
+                    "image": "siren.png"
+                },
+                {
+                    "title_en": "police car",
+                    "title_cn": "警车",
+                    "image": "police car.png"
+                },
+                {
+                    "title_en": "police station",
+                    "title_cn": "警察局",
+                    "image": "police station.png"
+                },
+                {
+                    "title_en": "crime",
+                    "title_cn": "犯罪",
+                    "image": "crime.png"
+                },
+                {
+                    "title_en": "detective",
+                    "title_cn": "侦查员",
+                    "image": "detective.png"
+                },
+                {
+                    "title_en": "suspect",
+                    "title_cn": "嫌疑犯",
+                    "image": "suspect.png"
+                },
+                {
+                    "title_en": "assault",
+                    "title_cn": "暴行",
+                    "image": "assault.png"
+                },
+                {
+                    "title_en": "fingerprint",
+                    "title_cn": "指纹",
+                    "image": "fingerprint.png"
+                },
+                {
+                    "title_en": "complaint",
+                    "title_cn": "投诉",
+                    "image": "complaint.png"
+                },
+                {
+                    "title_en": "investigation",
+                    "title_cn": "调查",
+                    "image": "investigation.png"
+                },
+                {
+                    "title_en": "burglary",
+                    "title_cn": "入室盗窃",
+                    "image": "burglary.png"
+                },
+                {
+                    "title_en": "arrest",
+                    "title_cn": "逮捕",
+                    "image": "arrest.png"
+                },
+                {
+                    "title_en": "jail cell",
+                    "title_cn": "牢房",
+                    "image": "jail cell.png"
+                },
+                {
+                    "title_en": "smoke",
+                    "title_cn": "烟",
+                    "image": "smoke.png"
+                },
+                {
+                    "title_en": "fire",
+                    "title_cn": "火",
+                    "image": "fire.png"
+                },
+                {
+                    "title_en": "helmet",
+                    "title_cn": "安全帽",
+                    "image": "helmet.png"
+                },
+                {
+                    "title_en": "hose",
+                    "title_cn": "软管",
+                    "image": "hose.png"
+                },
+                {
+                    "title_en": "firefighters",
+                    "title_cn": "消防员",
+                    "image": "firefighters.png"
+                },
+                {
+                    "title_en": "ladder",
+                    "title_cn": "梯子",
+                    "image": "ladder.png"
+                },
+                {
+                    "title_en": "fire engine",
+                    "title_cn": "消防车",
+                    "image": "fire engine.png"
+                },
+                {
+                    "title_en": "fire escape",
+                    "title_cn": "消防梯",
+                    "image": "fire escape.png"
+                },
+                {
+                    "title_en": "fire station",
+                    "title_cn": "消防局",
+                    "image": "fire station.png"
+                },
+                {
+                    "title_en": "smoke alarm",
+                    "title_cn": "烟雾报警器",
+                    "image": "smoke alarm.png"
+                },
+                {
+                    "title_en": "ax",
+                    "title_cn": "火灾报警器",
+                    "image": "ax.png"
+                },
+                {
+                    "title_en": "fire extinguisher",
+                    "title_cn": "灭火器",
+                    "image": "fire extinguisher.png"
+                },
+                {
+                    "title_en": "hydrant",
+                    "title_cn": "消防栓",
+                    "image": "hydrant.png"
+                }
+            ]
+        }
     ]
 }
