@@ -1,14 +1,451 @@
 {
-    "category_en": "home",
-    "category_cn": "家庭",
+    "category_en": "education",
+    "category_cn": "学习",
     "is_live": true,
     "details": [
         {
-            "title_en": "house",
-            "title_cn": "房屋",
-            "image": "house.jpg",
-            "details": []
+            "title_en": "school",
+            "title_cn": "学校",
+            "image": "school.png",
+            "details": [
+                {
+                    "title_en": "teacher",
+                    "title_cn": "老师",
+                    "image": "teacher.png"
+                },
+                {
+                    "title_en": "biology",
+                    "title_cn": "生物学",
+                    "image": "biology.png"
+                },
+                {
+                    "title_en": "notebook",
+                    "title_cn": "笔记本",
+                    "image": "notebook.png"
+                },
+                {
+                    "title_en": "encyclopedia",
+                    "title_cn": "百科全书",
+                    "image": "encyclopedia.png"
+                },
+                {
+                    "title_en": "blackboard",
+                    "title_cn": "黑板",
+                    "image": "blackboard.png"
+                },
+                {
+                    "title_en": "schoolboy",
+                    "title_cn": "男生",
+                    "image": "schoolboy.png"
+                },
+                {
+                    "title_en": "pupil",
+                    "title_cn": "瞳孔",
+                    "image": "pupil.png"
+                },
+                {
+                    "title_en": "desk",
+                    "title_cn": "桌子",
+                    "image": "desk.png"
+                },
+                {
+                    "title_en": "chalk",
+                    "title_cn": "粉笔",
+                    "image": "chalk.png"
+                },
+                {
+                    "title_en": "school uniform",
+                    "title_cn": "校服",
+                    "image": "school uniform.png"
+                },
+                {
+                    "title_en": "school bag",
+                    "title_cn": "书包",
+                    "image": "school bag.png"
+                },
+                {
+                    "title_en": "schoolgirl",
+                    "title_cn": "女学生",
+                    "image": "schoolgirl.png"
+                },
+                {
+                    "title_en": "classroom",
+                    "title_cn": "课堂",
+                    "image": "classroom.png"
+                },
+                {
+                    "title_en": "history",
+                    "title_cn": "历史",
+                    "image": "history.png"
+                },
+                {
+                    "title_en": "languages",
+                    "title_cn": "语言",
+                    "image": "languages.png"
+                },
+                {
+                    "title_en": "literature",
+                    "title_cn": "文学",
+                    "image": "literature.png"
+                },
+                {
+                    "title_en": "geography",
+                    "title_cn": "地理",
+                    "image": "geography.png"
+                },
+                {
+                    "title_en": "science",
+                    "title_cn": "科学",
+                    "image": "science.png"
+                },
+                {
+                    "title_en": "art",
+                    "title_cn": "艺术",
+                    "image": "art.png"
+                },
+                {
+                    "title_en": "music",
+                    "title_cn": "音乐",
+                    "image": "music.png"
+                },
+                {
+                    "title_en": "math",
+                    "title_cn": "数学",
+                    "image": "math.png"
+                },
+                {
+                    "title_en": "physics",
+                    "title_cn": "物理",
+                    "image": "physics.png"
+                },
+                {
+                    "title_en": "chemistry",
+                    "title_cn": "化学",
+                    "image": "chemistry.png"
+                },
+                {
+                    "title_en": "physical education",
+                    "title_cn": "体育",
+                    "image": "physical education.png"
+                },
+                {
+                    "title_en": "read",
+                    "title_cn": "读",
+                    "image": "read.png"
+                },
+                {
+                    "title_en": "write",
+                    "title_cn": "写",
+                    "image": "write.png"
+                },
+                {
+                    "title_en": "spell",
+                    "title_cn": "拼写",
+                    "image": "spell.png"
+                },
+                {
+                    "title_en": "draw",
+                    "title_cn": "画",
+                    "image": "draw.png"
+                },
+                {
+                    "title_en": "pen",
+                    "title_cn": "钢笔",
+                    "image": "pen.png"
+                },
+                {
+                    "title_en": "pencil",
+                    "title_cn": "铅笔",
+                    "image": "pencil.png"
+                },
+                {
+                    "title_en": "colored pencil",
+                    "title_cn": "彩色铅笔",
+                    "image": "colored pencil.png"
+                },
+                {
+                    "title_en": "pencil sharpener",
+                    "title_cn": "卷笔刀",
+                    "image": "pencil sharpener.png"
+                },
+                {
+                    "title_en": "textbook",
+                    "title_cn": "教科书",
+                    "image": "textbook.png"
+                },
+                {
+                    "title_en": "pencil case",
+                    "title_cn": "铅笔盒",
+                    "image": "pencil case.png"
+                },
+                {
+                    "title_en": "eraser",
+                    "title_cn": "橡皮",
+                    "image": "eraser.png"
+                },
+                {
+                    "title_en": "ruler",
+                    "title_cn": "统治者",
+                    "image": "ruler.png"
+                },
+                {
+                    "title_en": "question",
+                    "title_cn": "题",
+                    "image": "question.png"
+                },
+                {
+                    "title_en": "answer",
+                    "title_cn": "回答",
+                    "image": "answer.png"
+                },
+                {
+                    "title_en": "discuss",
+                    "title_cn": "讨论",
+                    "image": "discuss.png"
+                },
+                {
+                    "title_en": "learn",
+                    "title_cn": "学习",
+                    "image": "learn.png"
+                },
+                {
+                    "title_en": "principal",
+                    "title_cn": "主要的",
+                    "image": "principal.png"
+                },
+                {
+                    "title_en": "lesson",
+                    "title_cn": "课",
+                    "image": "lesson.png"
+                },
+                {
+                    "title_en": "take notes",
+                    "title_cn": "做笔记",
+                    "image": "take notes.png"
+                },
+                {
+                    "title_en": "homework",
+                    "title_cn": "在家工作",
+                    "image": "homework.png"
+                },
+                {
+                    "title_en": "test",
+                    "title_cn": "测试",
+                    "image": "test.png"
+                },
+                {
+                    "title_en": "essay",
+                    "title_cn": "散文",
+                    "image": "essay.png"
+                },
+                {
+                    "title_en": "grade",
+                    "title_cn": "年级",
+                    "image": "grade.png"
+                },
+                {
+                    "title_en": "dictionary",
+                    "title_cn": "字典",
+                    "image": "dictionary.png"
+                }
+            ]
+        },
+        {
+            "title_en": "university",
+            "title_cn": "大学",
+            "image": "university.png",
+            "details": [
+                {
+                    "title_en": "playing field",
+                    "title_cn": "比赛场地",
+                    "image": "playing field.png"
+                },
+                {
+                    "title_en": "admissions",
+                    "title_cn": "招生",
+                    "image": "admissions.png"
+                },
+                {
+                    "title_en": "health center",
+                    "title_cn": "保健中心",
+                    "image": "health center.png"
+                },
+                {
+                    "title_en": "campus",
+                    "title_cn": "校园",
+                    "image": "campus.png"
+                },
+                {
+                    "title_en": "librarian",
+                    "title_cn": "图书管理员",
+                    "image": "librarian.png"
+                },
+                {
+                    "title_en": "bookshelf",
+                    "title_cn": "书架",
+                    "image": "bookshelf.png"
+                },
+                {
+                    "title_en": "journal",
+                    "title_cn": "杂志",
+                    "image": "journal.png"
+                },
+                {
+                    "title_en": "library card",
+                    "title_cn": "借书卡",
+                    "image": "library card.png"
+                },
+                {
+                    "title_en": "reading room",
+                    "title_cn": "阅览室",
+                    "image": "reading room.png"
+                },
+                {
+                    "title_en": "reading list",
+                    "title_cn": "阅读清单",
+                    "image": "reading list.png"
+                },
+                {
+                    "title_en": "help desk",
+                    "title_cn": "服务台",
+                    "image": "help desk.png"
+                },
+                {
+                    "title_en": "borrow",
+                    "title_cn": "借",
+                    "image": "borrow.png"
+                },
+                {
+                    "title_en": "loan",
+                    "title_cn": "贷款",
+                    "image": "loan.png"
+                },
+                {
+                    "title_en": "book",
+                    "title_cn": "书",
+                    "image": "book.png"
+                },
+                {
+                    "title_en": "undergraduate",
+                    "title_cn": "大学本科",
+                    "image": "undergraduate.png"
+                },
+                {
+                    "title_en": "lecturer",
+                    "title_cn": "讲师",
+                    "image": "lecturer.png"
+                },
+                {
+                    "title_en": "graduate",
+                    "title_cn": "毕业",
+                    "image": "graduate.png"
+                },
+                {
+                    "title_en": "model",
+                    "title_cn": "模型",
+                    "image": "model.png"
+                },
+                {
+                    "title_en": "music school",
+                    "title_cn": "音乐学校",
+                    "image": "music school.png"
+                },
+                {
+                    "title_en": "dance academy",
+                    "title_cn": "舞蹈学院",
+                    "image": "dance academy.png"
+                },
+                {
+                    "title_en": "scholarship",
+                    "title_cn": "奖学金",
+                    "image": "scholarship.png"
+                },
+                {
+                    "title_en": "diploma",
+                    "title_cn": "文凭",
+                    "image": "diploma.png"
+                },
+                {
+                    "title_en": "degree",
+                    "title_cn": "程度",
+                    "image": "degree.png"
+                },
+                {
+                    "title_en": "postgraduate",
+                    "title_cn": "研究生",
+                    "image": "postgraduate.png"
+                },
+                {
+                    "title_en": "research",
+                    "title_cn": "研究",
+                    "image": "research.png"
+                },
+                {
+                    "title_en": "master's",
+                    "title_cn": "硕士",
+                    "image": "master's.png"
+                },
+                {
+                    "title_en": "doctorate",
+                    "title_cn": "博士",
+                    "image": "doctorate.png"
+                },
+                {
+                    "title_en": "thesis",
+                    "title_cn": "论文",
+                    "image": "thesis.png"
+                },
+                {
+                    "title_en": "department",
+                    "title_cn": "部门",
+                    "image": "department.png"
+                },
+                {
+                    "title_en": "engineering",
+                    "title_cn": "工程",
+                    "image": "engineering.png"
+                },
+                {
+                    "title_en": "medicine",
+                    "title_cn": "药物",
+                    "image": "medicine.png"
+                },
+                {
+                    "title_en": "zoology",
+                    "title_cn": "动物学",
+                    "image": "zoology.png"
+                },
+                {
+                    "title_en": "physics",
+                    "title_cn": "物理",
+                    "image": "physics.png"
+                },
+                {
+                    "title_en": "politics",
+                    "title_cn": "政治",
+                    "image": "politics.png"
+                },
+                {
+                    "title_en": "philosophy",
+                    "title_cn": "哲学",
+                    "image": "philosophy.png"
+                },
+                {
+                    "title_en": "literature",
+                    "title_cn": "文学",
+                    "image": "literature.png"
+                },
+                {
+                    "title_en": "art history",
+                    "title_cn": "艺术史",
+                    "image": "art history.png"
+                },
+                {
+                    "title_en": "economics",
+                    "title_cn": "经济学",
+                    "image": "economics.png"
+                }
+            ]
         }
-
     ]
 }
