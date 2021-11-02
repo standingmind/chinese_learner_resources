@@ -1,13 +1,631 @@
 {
-    "category_en": "home",
-    "category_cn": "家庭",
+    "category_en": "work",
+    "category_cn": "工作",
     "is_live": true,
     "details": [
         {
-            "title_en": "house",
-            "title_cn": "房屋",
-            "image": "house.jpg",
-            "details": []
+            "title_en": "office",
+            "title_cn": "办公室",
+            "image": "office.png",
+            "details": [
+                {
+                  "title_en": "bulletin board",
+                  "title_cn": "布告栏",
+                  "image": "bulletin board.png"
+                },
+                {
+                  "title_en": "CEO",
+                  "title_cn": "首席执行官",
+                  "image": "CEO.png"
+                },
+                {
+                  "title_en": "human resources",
+                  "title_cn": "人力资源",
+                  "image": "human resources.png"
+                },
+                {
+                  "title_en": "monitor",
+                  "title_cn": "监视器",
+                  "image": "monitor.png"
+                },
+                {
+                  "title_en": "computer",
+                  "title_cn": "计算机",
+                  "image": "computer.png"
+                },
+                {
+                  "title_en": "keyboard",
+                  "title_cn": "键盘",
+                  "image": "keyboard.png"
+                },
+                {
+                  "title_en": "telephone",
+                  "title_cn": "电话",
+                  "image": "telephone.png"
+                },
+                {
+                  "title_en": "desk",
+                  "title_cn": "桌子",
+                  "image": "desk.png"
+                },
+                {
+                  "title_en": "file",
+                  "title_cn": "文件",
+                  "image": "file.png"
+                },
+                {
+                  "title_en": "notebook",
+                  "title_cn": "笔记本",
+                  "image": "notebook.png"
+                },
+                {
+                  "title_en": "label",
+                  "title_cn": "标签",
+                  "image": "label.png"
+                },
+                {
+                  "title_en": "wastebasket",
+                  "title_cn": "废纸篓",
+                  "image": "wastebasket.png"
+                },
+                {
+                  "title_en": "drawer",
+                  "title_cn": "抽屉",
+                  "image": "drawer.png"
+                },
+                {
+                  "title_en": "filing cabinet",
+                  "title_cn": "文件柜",
+                  "image": "filing cabinet.png"
+                },
+                {
+                  "title_en": "paper tray",
+                  "title_cn": "纸盘",
+                  "image": "paper tray.png"
+                },
+                {
+                  "title_en": "printer",
+                  "title_cn": "打印机",
+                  "image": "printer.png"
+                },
+                {
+                  "title_en": "fax",
+                  "title_cn": "传真",
+                  "image": "fax.png"
+                },
+                {
+                  "title_en": "print",
+                  "title_cn": "打印",
+                  "image": "print.png"
+                },
+                {
+                  "title_en": "copy",
+                  "title_cn": "复制",
+                  "image": "copy.png"
+                },
+                {
+                  "title_en": "enlarge",
+                  "title_cn": "放大",
+                  "image": "enlarge.png"
+                },
+                {
+                  "title_en": "letterhead",
+                  "title_cn": "信笺抬头",
+                  "image": "letterhead.png"
+                },
+                {
+                  "title_en": "envelope",
+                  "title_cn": "信封",
+                  "image": "envelope.png"
+                },
+                {
+                  "title_en": "file box",
+                  "title_cn": "文件箱",
+                  "image": "file box.png"
+                },
+                {
+                  "title_en": "clipboard",
+                  "title_cn": "剪贴板",
+                  "image": "clipboard.png"
+                },
+                {
+                  "title_en": "notepad",
+                  "title_cn": "记事本",
+                  "image": "notepad.png"
+                },
+                {
+                  "title_en": "tab",
+                  "title_cn": "标签",
+                  "image": "tab.png"
+                },
+                {
+                  "title_en": "staples",
+                  "title_cn": "订书钉",
+                  "image": "staples.png"
+                },
+                {
+                  "title_en": "stapler",
+                  "title_cn": "订书机",
+                  "image": "stapler.png"
+                },
+                {
+                  "title_en": "sticky tape",
+                  "title_cn": "胶带",
+                  "image": "sticky tape.png"
+                },
+                {
+                  "title_en": "tape dispenser",
+                  "title_cn": "胶带分配器",
+                  "image": "tape dispenser.png"
+                },
+                {
+                  "title_en": "ink pad",
+                  "title_cn": "印台",
+                  "image": "ink pad.png"
+                },
+                {
+                  "title_en": "rubber band",
+                  "title_cn": "橡皮筋",
+                  "image": "rubber band.png"
+                },
+                {
+                  "title_en": "paper clip",
+                  "title_cn": "回形针",
+                  "image": "paper clip.png"
+                },
+                {
+                  "title_en": "report",
+                  "title_cn": "报告",
+                  "image": "report.png"
+                },
+                {
+                  "title_en": "manager",
+                  "title_cn": "经理",
+                  "image": "manager.png"
+                },
+                {
+                  "title_en": "proposal",
+                  "title_cn": "提议",
+                  "image": "proposal.png"
+                },
+                {
+                  "title_en": "executive",
+                  "title_cn": "行政人员",
+                  "image": "executive.png"
+                },
+                {
+                  "title_en": "meeting",
+                  "title_cn": "会议",
+                  "image": "meeting.png"
+                },
+                {
+                  "title_en": "projector",
+                  "title_cn": "投影仪",
+                  "image": "projector.png"
+                },
+                {
+                  "title_en": "speaker",
+                  "title_cn": "扬声器",
+                  "image": "speaker.png"
+                },
+                {
+                  "title_en": "presentation",
+                  "title_cn": "介绍",
+                  "image": "presentation.png"
+                },
+                {
+                  "title_en": "meeting room",
+                  "title_cn": "会议室",
+                  "image": "meeting room.png"
+                },
+                {
+                  "title_en": "agenda",
+                  "title_cn": "议程",
+                  "image": "agenda.png"
+                },
+                {
+                  "title_en": "attend",
+                  "title_cn": "参加",
+                  "image": "attend.png"
+                },
+                {
+                  "title_en": "chair",
+                  "title_cn": "椅子",
+                  "image": "chair.png"
+                },
+                {
+                  "title_en": "laptop",
+                  "title_cn": "笔记本电脑",
+                  "image": "laptop.png"
+                },
+                {
+                  "title_en": "notes",
+                  "title_cn": "笔记",
+                  "image": "notes.png"
+                },
+                {
+                  "title_en": "businessman",
+                  "title_cn": "商人",
+                  "image": "businessman.png"
+                },
+                {
+                  "title_en": "diary",
+                  "title_cn": "日记",
+                  "image": "diary.png"
+                },
+                {
+                  "title_en": "client",
+                  "title_cn": "客户",
+                  "image": "client.png"
+                },
+                {
+                  "title_en": "appointment",
+                  "title_cn": "预约",
+                  "image": "appointment.png"
+                },
+                {
+                  "title_en": "electronic diary",
+                  "title_cn": "电子日记",
+                  "image": "electronic diary.png"
+                },
+                {
+                  "title_en": "company",
+                  "title_cn": "公司",
+                  "image": "company.png"
+                },
+                {
+                  "title_en": "headquarters",
+                  "title_cn": "总部",
+                  "image": "headquarters.png"
+                },
+                {
+                  "title_en": "regional office",
+                  "title_cn": "区域办事处",
+                  "image": "regional office.png"
+                },
+                {
+                  "title_en": "staff",
+                  "title_cn": "职员",
+                  "image": "staff.png"
+                },
+                {
+                  "title_en": "salary",
+                  "title_cn": "薪水",
+                  "image": "salary.png"
+                },
+                {
+                  "title_en": "payroll",
+                  "title_cn": "工资单",
+                  "image": "payroll.png"
+                },
+                {
+                  "title_en": "accounting",
+                  "title_cn": "会计",
+                  "image": "accounting.png"
+                },
+                {
+                  "title_en": "marketing",
+                  "title_cn": "营销",
+                  "image": "marketing.png"
+                },
+                {
+                  "title_en": "sales",
+                  "title_cn": "销售量",
+                  "image": "sales.png"
+                },
+                {
+                  "title_en": "customer service",
+                  "title_cn": "客户服务",
+                  "image": "customer service.png"
+                }
+              ]
+        },
+        {
+            "title_en": "occupation",
+            "title_cn": "职业",
+            "image": "occupation.png",
+            "details": [
+                {
+                  "title_en": "carpenter",
+                  "title_cn": "木匠",
+                  "image": "carpenter.png"
+                },
+                {
+                  "title_en": "electrician",
+                  "title_cn": "电工",
+                  "image": "electrician.png"
+                },
+                {
+                  "title_en": "plumber",
+                  "title_cn": "水管工",
+                  "image": "plumber.png"
+                },
+                {
+                  "title_en": "construction worker",
+                  "title_cn": "建筑工人",
+                  "image": "construction worker.png"
+                },
+                {
+                  "title_en": "gardener",
+                  "title_cn": "园丁",
+                  "image": "gardener.png"
+                },
+                {
+                  "title_en": "cleaner",
+                  "title_cn": "清洁工",
+                  "image": "cleaner.png"
+                },
+                {
+                  "title_en": "mechanic",
+                  "title_cn": "机械",
+                  "image": "mechanic.png"
+                },
+                {
+                  "title_en": "butcher",
+                  "title_cn": "屠夫",
+                  "image": "butcher.png"
+                },
+                {
+                  "title_en": "hair stylist",
+                  "title_cn": "发型师",
+                  "image": "hair stylist.png"
+                },
+                {
+                  "title_en": "fishmonger",
+                  "title_cn": "鱼贩",
+                  "image": "fishmonger.png"
+                },
+                {
+                  "title_en": "barber",
+                  "title_cn": "理发师",
+                  "image": "barber.png"
+                },
+                {
+                  "title_en": "greengrocer",
+                  "title_cn": "蔬菜水果商",
+                  "image": "greengrocer.png"
+                },
+                {
+                  "title_en": "forist",
+                  "title_cn": "森林",
+                  "image": "forist.png"
+                },
+                {
+                  "title_en": "jeweler",
+                  "title_cn": "珠宝商",
+                  "image": "jeweler.png"
+                },
+                {
+                  "title_en": "shop clerk",
+                  "title_cn": "店员",
+                  "image": "shop clerk.png"
+                },
+                {
+                  "title_en": "real estate agent",
+                  "title_cn": "房地产经纪人",
+                  "image": "real estate agent.png"
+                },
+                {
+                  "title_en": "optician",
+                  "title_cn": "配镜师",
+                  "image": "optician.png"
+                },
+                {
+                  "title_en": "dentist",
+                  "title_cn": "牙医",
+                  "image": "dentist.png"
+                },
+                {
+                  "title_en": "doctor",
+                  "title_cn": "医生",
+                  "image": "doctor.png"
+                },
+                {
+                  "title_en": "pharmacist",
+                  "title_cn": "药剂师",
+                  "image": "pharmacist.png"
+                },
+                {
+                  "title_en": "nurse",
+                  "title_cn": "护士",
+                  "image": "nurse.png"
+                },
+                {
+                  "title_en": "veterinarian",
+                  "title_cn": "兽医",
+                  "image": "veterinarian.png"
+                },
+                {
+                  "title_en": "farmer",
+                  "title_cn": "农民",
+                  "image": "farmer.png"
+                },
+                {
+                  "title_en": "fisherman",
+                  "title_cn": "渔夫",
+                  "image": "fisherman.png"
+                },
+                {
+                  "title_en": "sailor",
+                  "title_cn": "水手",
+                  "image": "sailor.png"
+                },
+                {
+                  "title_en": "soldier",
+                  "title_cn": "士兵",
+                  "image": "soldier.png"
+                },
+                {
+                  "title_en": "policeman",
+                  "title_cn": "警察",
+                  "image": "policeman.png"
+                },
+                {
+                  "title_en": "uniform",
+                  "title_cn": "制服",
+                  "image": "uniform.png"
+                },
+                {
+                  "title_en": "security guard",
+                  "title_cn": "警卫",
+                  "image": "security guard.png"
+                },
+                {
+                  "title_en": "firefighter",
+                  "title_cn": "消防队员",
+                  "image": "firefighter.png"
+                },
+                {
+                  "title_en": "lawyer",
+                  "title_cn": "律师",
+                  "image": "lawyer.png"
+                },
+                {
+                  "title_en": "accountant",
+                  "title_cn": "会计",
+                  "image": "accountant.png"
+                },
+                {
+                  "title_en": "architect",
+                  "title_cn": "建筑师",
+                  "image": "architect.png"
+                },
+                {
+                  "title_en": "model",
+                  "title_cn": "模型",
+                  "image": "model.png"
+                },
+                {
+                  "title_en": "scientist",
+                  "title_cn": "科学家",
+                  "image": "scientist.png"
+                },
+                {
+                  "title_en": "teacher",
+                  "title_cn": "老师",
+                  "image": "teacher.png"
+                },
+                {
+                  "title_en": "librarian",
+                  "title_cn": "图书管理员",
+                  "image": "librarian.png"
+                },
+                {
+                  "title_en": "receptionist",
+                  "title_cn": "接待员",
+                  "image": "receptionist.png"
+                },
+                {
+                  "title_en": "mail carrier",
+                  "title_cn": "邮递员",
+                  "image": "mail carrier.png"
+                },
+                {
+                  "title_en": "bus driver",
+                  "title_cn": "公车司机",
+                  "image": "bus driver.png"
+                },
+                {
+                  "title_en": "truck driver",
+                  "title_cn": "卡车司机",
+                  "image": "truck driver.png"
+                },
+                {
+                  "title_en": "taxi driver",
+                  "title_cn": "出租车司机",
+                  "image": "taxi driver.png"
+                },
+                {
+                  "title_en": "pilot",
+                  "title_cn": "飞行员",
+                  "image": "pilot.png"
+                },
+                {
+                  "title_en": "air stewardess",
+                  "title_cn": "空姐",
+                  "image": "air stewardess.png"
+                },
+                {
+                  "title_en": "chef",
+                  "title_cn": "厨师",
+                  "image": "chef.png"
+                },
+                {
+                  "title_en": "dancer",
+                  "title_cn": "舞蹈家",
+                  "image": "dancer.png"
+                },
+                {
+                  "title_en": "musician",
+                  "title_cn": "音乐家",
+                  "image": "musician.png"
+                },
+                {
+                  "title_en": "actor",
+                  "title_cn": "演员",
+                  "image": "actor.png"
+                },
+                {
+                  "title_en": "singer",
+                  "title_cn": "歌手",
+                  "image": "singer.png"
+                },
+                {
+                  "title_en": "waitress",
+                  "title_cn": "女服务员",
+                  "image": "waitress.png"
+                },
+                {
+                  "title_en": "bartender",
+                  "title_cn": "调酒师",
+                  "image": "bartender.png"
+                },
+                {
+                  "title_en": "athlete",
+                  "title_cn": "运动员",
+                  "image": "athlete.png"
+                },
+                {
+                  "title_en": "sculptor",
+                  "title_cn": "雕塑家",
+                  "image": "sculptor.png"
+                },
+                {
+                  "title_en": "painter",
+                  "title_cn": "画家",
+                  "image": "painter.png"
+                },
+                {
+                  "title_en": "photographer",
+                  "title_cn": "摄影师",
+                  "image": "photographer.png"
+                },
+                {
+                  "title_en": "news anchor",
+                  "title_cn": "新闻主播",
+                  "image": "news anchor.png"
+                },
+                {
+                  "title_en": "journalist",
+                  "title_cn": "记者",
+                  "image": "journalist.png"
+                },
+                {
+                  "title_en": "editor",
+                  "title_cn": "编辑",
+                  "image": "editor.png"
+                },
+                {
+                  "title_en": "designer",
+                  "title_cn": "设计师",
+                  "image": "designer.png"
+                },
+                {
+                  "title_en": "tailor",
+                  "title_cn": "裁缝",
+                  "image": "tailor.png"
+                }
+              ]
         }
 
     ]
