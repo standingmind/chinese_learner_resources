@@ -8,274 +8,326 @@
             "title_cn": "海滩",
             "image": "beach.png",
             "details": [
-                {
-                  "title_en": "windbreak",
-                  "title_cn": "防风林",
-                  "image": "windbreak.png"
-                },
-                {
-                  "title_en": "hotel",
-                  "title_cn": "酒店",
-                  "image": "hotel.png"
-                },
-                {
-                  "title_en": "beach umbrella",
-                  "title_cn": "沙滩伞",
-                  "image": "beach umbrella.png"
-                },
-                {
-                  "title_en": "beach hut",
-                  "title_cn": "海滩小屋",
-                  "image": "beach hut.png"
-                },
-                {
-                  "title_en": "sand",
-                  "title_cn": "沙",
-                  "image": "sand.png"
-                },
-                {
-                  "title_en": "wave",
-                  "title_cn": "海浪",
-                  "image": "wave.png"
-                },
-                {
-                  "title_en": "sea",
-                  "title_cn": "海",
-                  "image": "sea.png"
-                },
-                {
-                  "title_en": "beach bag",
-                  "title_cn": "沙滩包",
-                  "image": "beach bag.png"
-                },
-                {
-                  "title_en": "bikini",
-                  "title_cn": "比基尼",
-                  "image": "bikini.png"
-                },
-                {
-                  "title_en": "sunbathe",
-                  "title_cn": "晒太阳",
-                  "image": "sunbathe.png"
-                },
-                {
-                  "title_en": "lifeguard",
-                  "title_cn": "救生员",
-                  "image": "lifeguard.png"
-                },
-                {
-                  "title_en": "lifeguard tower",
-                  "title_cn": "救生塔",
-                  "image": "lifeguard tower.png"
-                },
-                {
-                  "title_en": "deck chair",
-                  "title_cn": "躺椅",
-                  "image": "deck chair.png"
-                },
-                {
-                  "title_en": "sunglasses",
-                  "title_cn": "太阳镜",
-                  "image": "sunglasses.png"
-                },
-                {
-                  "title_en": "sun hat",
-                  "title_cn": "太阳帽",
-                  "image": "sun hat.png"
-                },
-                {
-                  "title_en": "suntan lotion",
-                  "title_cn": "防晒霜",
-                  "image": "suntan lotion.png"
-                },
-                {
-                  "title_en": "beach ball",
-                  "title_cn": "沙滩球",
-                  "image": "beach ball.png"
-                },
-                {
-                  "title_en": "beach towel",
-                  "title_cn": "沙滩巾",
-                  "image": "beach towel.png"
-                },
-                {
-                  "title_en": "rubber ring",
-                  "title_cn": "橡胶圈",
-                  "image": "rubber ring.png"
-                },
-                {
-                  "title_en": "sandcastle",
-                  "title_cn": "沙堡",
-                  "image": "sandcastle.png"
-                },
-                {
-                  "title_en": "shell",
-                  "title_cn": "贝壳",
-                  "image": "shell.png"
-                },
-                {
-                  "title_en": "swinsuit",
-                  "title_cn": "泳装",
-                  "image": "swinsuit.png"
-                },
-                {
-                  "title_en": "shovel",
-                  "title_cn": "铲",
-                  "image": "shovel.png"
-                },
-                {
-                  "title_en": "bucket",
-                  "title_cn": "桶",
-                  "image": "bucket.png"
-                }
-              ]
+              {
+                "title_en": "windbreak",
+                "title_cn": "防风林",
+                "title_mm": "လေကာအင်္ကျီ",
+                "image": "windbreak.png"
+              },
+              {
+                "title_en": "hotel",
+                "title_cn": "酒店",
+                "title_mm": "ဟိုတယ်",
+                "image": "hotel.png"
+              },
+              {
+                "title_en": "beach umbrella",
+                "title_cn": "沙滩伞",
+                "title_mm": "ကမ်းခြေထီး",
+                "image": "beach umbrella.png"
+              },
+              {
+                "title_en": "beach hut",
+                "title_cn": "海滩小屋",
+                "title_mm": "ကမ်းခြေတဲ",
+                "image": "beach hut.png"
+              },
+              {
+                "title_en": "sand",
+                "title_cn": "沙",
+                "title_mm": "သဲ",
+                "image": "sand.png"
+              },
+              {
+                "title_en": "wave",
+                "title_cn": "海浪",
+                "title_mm": "လှိုင်း",
+                "image": "wave.png"
+              },
+              {
+                "title_en": "sea",
+                "title_cn": "海",
+                "title_mm": "ပင်လယ်",
+                "image": "sea.png"
+              },
+              {
+                "title_en": "beach bag",
+                "title_cn": "沙滩包",
+                "title_mm": "ကမ်းခြေအိတ်",
+                "image": "beach bag.png"
+              },
+              {
+                "title_en": "bikini",
+                "title_cn": "比基尼",
+                "title_mm": "ရေကူးဝတ်စုံ",
+                "image": "bikini.png"
+              },
+              {
+                "title_en": "sunbathe",
+                "title_cn": "晒太阳",
+                "title_mm": "နေပူစာလုံ",
+                "image": "sunbathe.png"
+              },
+              {
+                "title_en": "lifeguard",
+                "title_cn": "救生员",
+                "title_mm": "အသက်ကယ်သမား",
+                "image": "lifeguard.png"
+              },
+              {
+                "title_en": "lifeguard tower",
+                "title_cn": "救生塔",
+                "title_mm": "အသက်ကယ်မျှော်စင်",
+                "image": "lifeguard tower.png"
+              },
+              {
+                "title_en": "deck chair",
+                "title_cn": "躺椅",
+                "title_mm": "ပက်လက်ကုလားထိုင်",
+                "image": "deck chair.png"
+              },
+              {
+                "title_en": "sunglasses",
+                "title_cn": "太阳镜",
+                "title_mm": "နေကာမျက်မှန်",
+                "image": "sunglasses.png"
+              },
+              {
+                "title_en": "sun hat",
+                "title_cn": "太阳帽",
+                "title_mm": "နေကာဦးထုပ်",
+                "image": "sun hat.png"
+              },
+              {
+                "title_en": "suntan lotion",
+                "title_cn": "防晒霜",
+                "title_mm": "နေလောင်ခံဆေးရည်",
+                "image": "suntan lotion.png"
+              },
+              {
+                "title_en": "beach ball",
+                "title_cn": "沙滩球",
+                "title_mm": "ကမ်းခြေဘောလုံး",
+                "image": "beach ball.png"
+              },
+              {
+                "title_en": "beach towel",
+                "title_cn": "沙滩巾",
+                "title_mm": "ကမ်းခြေသုံးပုဝါ",
+                "image": "beach towel.png"
+              },
+              {
+                "title_en": "rubber ring",
+                "title_cn": "橡胶圈",
+                "title_mm": "ရာဘာကွင်း",
+                "image": "rubber ring.png"
+              },
+              {
+                "title_en": "sandcastle",
+                "title_cn": "沙堡",
+                "title_mm": "သဲရဲ",
+                "image": "sandcastle.png"
+              },
+              {
+                "title_en": "shell",
+                "title_cn": "贝壳",
+                "title_mm": "ခရုခွံ",
+                "image": "shell.png"
+              },
+              {
+                "title_en": "swinsuit",
+                "title_cn": "泳装",
+                "title_mm": "‌ရေကူး၀တ်စုံ",
+                "image": "swinsuit.png"
+              },
+              {
+                "title_en": "shovel",
+                "title_cn": "铲",
+                "title_mm": "ဂေါ်ပြား",
+                "image": "shovel.png"
+              },
+              {
+                "title_en": "bucket",
+                "title_cn": "桶",
+                "title_mm": "ပုံး",
+                "image": "bucket.png"
+              }
+            ]
         },
         {
             "title_en": "camp",
             "title_cn": "露营",
             "image": "camp.png",
             "details": [
-                {
-                  "title_en": "vacuum flask",
-                  "title_cn": "保温瓶",
-                  "image": "vacuum flask.png"
-                },
-                {
-                  "title_en": "water bottle",
-                  "title_cn": "水瓶",
-                  "image": "water bottle.png"
-                },
-                {
-                  "title_en": "waste disposal",
-                  "title_cn": "废物处理",
-                  "image": "waste disposal.png"
-                },
-                {
-                  "title_en": "shower block",
-                  "title_cn": "淋浴房",
-                  "image": "shower block.png"
-                },
-                {
-                  "title_en": "flysheet",
-                  "title_cn": "外帐",
-                  "image": "flysheet.png"
-                },
-                {
-                  "title_en": "tent peg",
-                  "title_cn": "帐篷钉",
-                  "image": "tent peg.png"
-                },
-                {
-                  "title_en": "guy rope",
-                  "title_cn": "绳索",
-                  "image": "guy rope.png"
-                },
-                {
-                  "title_en": "camper",
-                  "title_cn": "露营车",
-                  "image": "camper.png"
-                },
-                {
-                  "title_en": "campsite",
-                  "title_cn": "营地",
-                  "image": "campsite.png"
-                },
-                {
-                  "title_en": "camp",
-                  "title_cn": "营",
-                  "image": "camp.png"
-                },
-                {
-                  "title_en": "tent pole",
-                  "title_cn": "帐篷柱",
-                  "image": "tent pole.png"
-                },
-                {
-                  "title_en": "camp bed",
-                  "title_cn": "露营床",
-                  "image": "camp bed.png"
-                },
-                {
-                  "title_en": "picnic bench",
-                  "title_cn": "野餐台",
-                  "image": "picnic bench.png"
-                },
-                {
-                  "title_en": "hammock",
-                  "title_cn": "吊床",
-                  "image": "hammock.png"
-                },
-                {
-                  "title_en": "camper van",
-                  "title_cn": "露营车",
-                  "image": "camper van.png"
-                },
-                {
-                  "title_en": "charcoal",
-                  "title_cn": "木炭",
-                  "image": "charcoal.png"
-                },
-                {
-                  "title_en": "backpack",
-                  "title_cn": "背包",
-                  "image": "backpack.png"
-                },
-                {
-                  "title_en": "ground sheet",
-                  "title_cn": "地表",
-                  "image": "ground sheet.png"
-                },
-                {
-                  "title_en": "tent",
-                  "title_cn": "帐篷",
-                  "image": "tent.png"
-                },
-                {
-                  "title_en": "insect repellent",
-                  "title_cn": "驱虫剂",
-                  "image": "insect repellent.png"
-                },
-                {
-                  "title_en": "flashlight",
-                  "title_cn": "手电筒",
-                  "image": "flashlight.png"
-                },
-                {
-                  "title_en": "mosquito net",
-                  "title_cn": "蚊帐",
-                  "image": "mosquito net.png"
-                },
-                {
-                  "title_en": "sleeping bag",
-                  "title_cn": "睡袋",
-                  "image": "sleeping bag.png"
-                },
-                {
-                  "title_en": "rain slickers",
-                  "title_cn": "雨衣",
-                  "image": "rain slickers.png"
-                },
-                {
-                  "title_en": "hiking boots",
-                  "title_cn": "登山靴",
-                  "image": "hiking boots.png"
-                },
-                {
-                  "title_en": "camping stove",
-                  "title_cn": "野营炉",
-                  "image": "camping stove.png"
-                },
-                {
-                  "title_en": "barbecue",
-                  "title_cn": "烧烤",
-                  "image": "barbecue.png"
-                },
-                {
-                  "title_en": "air mattress",
-                  "title_cn": "气垫",
-                  "image": "air mattress.png"
-                }
-              ]
+              {
+                "title_en": "vacuum flask",
+                "title_cn": "保温瓶",
+                "title_mm": "ရေနွေးဓာတ်ဘူး",
+                "image": "vacuum flask.png"
+              },
+              {
+                "title_en": "water bottle",
+                "title_cn": "水瓶",
+                "title_mm": "ရေဘူး",
+                "image": "water bottle.png"
+              },
+              {
+                "title_en": "waste disposal",
+                "title_cn": "废物处理",
+                "title_mm": "အမှိုက်စွန့်ပစ်ခြင်း။",
+                "image": "waste disposal.png"
+              },
+              {
+                "title_en": "shower block",
+                "title_cn": "淋浴房",
+                "title_mm": "ရေချိုးခန်း",
+                "image": "shower block.png"
+              },
+              {
+                "title_en": "flysheet",
+                "title_cn": "外帐",
+                "title_mm": "အပြင်ရွက်ဖျင်တဲ",
+                "image": "flysheet.png"
+              },
+              {
+                "title_en": "tent peg",
+                "title_cn": "帐篷钉",
+                "title_mm": "ရွက်ဖျင်တဲရိုက်တံ",
+                "image": "tent peg.png"
+              },
+              {
+                "title_en": "guy rope",
+                "title_cn": "绳索",
+                "title_mm": "ကြိုး",
+                "image": "guy rope.png"
+              },
+              {
+                "title_en": "camper",
+                "title_cn": "露营车",
+                "title_mm": "စခန်းချကား",
+                "image": "camper.png"
+              },
+              {
+                "title_en": "campsite",
+                "title_cn": "营地",
+                "title_mm": "စခန်းချရာနေရာ",
+                "image": "campsite.png"
+              },
+              {
+                "title_en": "camp",
+                "title_cn": "营",
+                "title_mm": "စခန်း",
+                "image": "camp.png"
+              },
+              {
+                "title_en": "tent pole",
+                "title_cn": "帐篷柱",
+                "title_mm": "တဲတိုင်",
+                "image": "tent pole.png"
+              },
+              {
+                "title_en": "camp bed",
+                "title_cn": "露营床",
+                "title_mm": "စခန်းအိပ်ရာ",
+                "image": "camp bed.png"
+              },
+              {
+                "title_en": "picnic bench",
+                "title_cn": "野餐台",
+                "title_mm": "ပျော်ပွဲစားခုံတန်းလျား",
+                "image": "picnic bench.png"
+              },
+              {
+                "title_en": "hammock",
+                "title_cn": "吊床",
+                "title_mm": "ပုခက်",
+                "image": "hammock.png"
+              },
+              {
+                "title_en": "camper van",
+                "title_cn": "露营车",
+                "title_mm": "စခန်းချဗင်ကား",
+                "image": "camper van.png"
+              },
+              {
+                "title_en": "charcoal",
+                "title_cn": "木炭",
+                "title_mm": "မီးသွေး",
+                "image": "charcoal.png"
+              },
+              {
+                "title_en": "backpack",
+                "title_cn": "背包",
+                "title_mm": "ကျောပိုးအိတ်",
+                "image": "backpack.png"
+              },
+              {
+                "title_en": "ground sheet",
+                "title_cn": "地表",
+                "title_mm": "မြေပြင်စာရွက်",
+                "image": "ground sheet.png"
+              },
+              {
+                "title_en": "tent",
+                "title_cn": "帐篷",
+                "title_mm": "တဲ",
+                "image": "tent.png"
+              },
+              {
+                "title_en": "insect repellent",
+                "title_cn": "驱虫剂",
+                "title_mm": "ပိုးသတ်ဆေး",
+                "image": "insect repellent.png"
+              },
+              {
+                "title_en": "flashlight",
+                "title_cn": "手电筒",
+                "title_mm": "ဓာတ်မီး",
+                "image": "flashlight.png"
+              },
+              {
+                "title_en": "mosquito net",
+                "title_cn": "蚊帐",
+                "title_mm": "ခြင်ထောင်",
+                "image": "mosquito net.png"
+              },
+              {
+                "title_en": "sleeping bag",
+                "title_cn": "睡袋",
+                "title_mm": "အိပ်ယာအိတ်",
+                "image": "sleeping bag.png"
+              },
+              {
+                "title_en": "rain slickers",
+                "title_cn": "雨衣",
+                "title_mm": "မိုးကာ",
+                "image": "rain slickers.png"
+              },
+              {
+                "title_en": "hiking boots",
+                "title_cn": "登山靴",
+                "title_mm": "တောင်တက်ဖိနပ်",
+                "image": "hiking boots.png"
+              },
+              {
+                "title_en": "camping stove",
+                "title_cn": "野营炉",
+                "title_mm": "စခန်းချမီးဖို",
+                "image": "camping stove.png"
+              },
+              {
+                "title_en": "barbecue",
+                "title_cn": "烧烤",
+                "title_mm": "အကင်",
+                "image": "barbecue.png"
+              },
+              {
+                "title_en": "air mattress",
+                "title_cn": "气垫",
+                "title_mm": "လေမွေ့ရာ",
+                "image": "air mattress.png"
+              }
+            ]
         }
     ]
 }

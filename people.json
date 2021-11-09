@@ -11,116 +11,157 @@
                 {
                     "title_en": "chest",
                     "title_cn": "胸",
-                    "image": "chest.jpg"
+                    "title_mm": "ရင်ဘတ်",
+                    "image": "abdomen.jpg"
                 },
                 {
                     "title_en": "thigh",
                     "title_cn": "大腿",
-                    "image": "thigh.jpg"
+                    "title_mm": "ပေါင်",
+                    "image": "back.jpg"
                 },
                 {
                     "title_en": "elbow",
                     "title_cn": "胳膊肘子",
-                    "image": "elbow.png"
+                    "title_mm": "တံတောင်ဆစ်",
+                    "image": "elbow.jpg"
+                },
+                {
+                    "title_en": "wrist",
+                    "title_cn": "手腕子",
+                    "title_mm": "လက်ကောက်ဝတ်",
+                    "image": "wrist.jpg"
+                },
+                {
+                    "title_en": "hand",
+                    "title_cn": "手",
+                    "title_mm": "လက်",
+                    "image": "hand.jpg"
                 },
                 {
                     "title_en": "neck",
                     "title_cn": "脖子",
+                    "title_mm": "လည်ပင်း",
                     "image": "neck.jpg"
                 },
                 {
                     "title_en": "abdomen",
                     "title_cn": "肚子",
+                    "title_mm": "ဝမ်းဗိုက်",
                     "image": "abdomen.jpg"
                 },
                 {
                     "title_en": "hip",
                     "title_cn": "臀部",
+                    "title_mm": "တင်ပါးဆုံ",
                     "image": "hip.jpg"
                 },
                 {
                     "title_en": "shin",
                     "title_cn": "外小腿",
+                    "title_mm": "ခြေသလုံးအပြင်ဘက်",
                     "image": "shin.jpg"
                 },
                 {
                     "title_en": "head",
                     "title_cn": "头",
+                    "title_mm": "ခေါင်း",
                     "image": "head.jpg"
                 },
                 {
                     "title_en": "waist",
                     "title_cn": "腰部",
+                    "title_mm": "ခါး",
                     "image": "waist.jpg"
                 },
                 {
                     "title_en": "navel",
                     "title_cn": "肚脐",
+                    "title_mm": "လည်ပင်း",
                     "image": "navel.jpg"
                 },
                 {
                     "title_en": "forearm",
                     "title_cn": "前臂",
+                    "title_mm": "လက်ဖျံ",
                     "image": "forearm.jpg"
                 },
                 {
                     "title_en": "knee",
                     "title_cn": "膝盖",
+                    "title_mm": "ဒူး",
                     "image": "knee.jpg"
                 },
                 {
                     "title_en": "leg",
                     "title_cn": "腿",
-                    "image": "leg.png"
+                    "title_mm": "ခြေထောက်",
+                    "image": "leg.jpg"
                 },
                 {
                     "title_en": "foot",
                     "title_cn": "脚掌",
-                    "image": "foot.png"
+                    "title_mm": "ခြေ",
+                    "image": "foot.jpg"
+                },
+                {
+                    "title_en": "nape",
+                    "title_cn": "颈背",
+                    "title_mm": "လည်ကုပ်",
+                    "image": "nape.jpg"
                 },
                 {
                     "title_en": "shoulder",
                     "title_cn": "肩膀",
+                    "title_mm": "ပခုံး",
                     "image": "shoulder.jpg"
                 },
                 {
                     "title_en": "arm",
                     "title_cn": "胳膊",
+                    "title_mm": "လက်မောင်း",
                     "image": "arm.jpg"
                 },
                 {
                     "title_en": "ankle",
                     "title_cn": "脚脖子",
+                    "title_mm": "ခြေချင်းဝတ်",
                     "image": "ankle.jpg"
                 },
                 {
                     "title_en": "back",
                     "title_cn": "背",
+                    "title_mm": "ကျော",
                     "image": "back.jpg"
                 },
                 {
                     "title_en": "armpit",
                     "title_cn": "腋窝",
+                    "title_mm": "ချိုင်း",
                     "image": "armpit.jpg"
                 },
                 {
                     "title_en": "small of back",
                     "title_cn": "后腰",
-                    "image": "small_of_back.jpg"
+                    "title_mm": "နောက်ကျော",
+                    "image": "small of back.jpg"
                 },
                 {
                     "title_en": "buttock",
                     "title_cn": "屁股",
+                    "title_mm": "ဖင်",
                     "image": "buttock.jpg"
                 },
                 {
                     "title_en": "calf",
                     "title_cn": "小腿",
+                    "title_mm": "ခြေသလုံး",
                     "image": "calf.jpg"
                 },
                 {
                     "title_en": "heel",
                     "title_cn": "脚跟",
+                    "title_mm": "ဖနောင့်",
                     "image": "heel.jpg"
                 }
             ]
@@ -133,36 +174,43 @@
                 {
                     "title_en": "big toe",
                     "title_cn": "大脚趾",
+                    "title_mm": "ခြေမ",
                     "image": "big toe.png"
                 },
                 {
                     "title_en": "toe",
                     "title_cn": "脚趾",
+                    "title_mm": "ခြေချောင်း",
                     "image": "toe.png"
                 },
                 {
                     "title_en": "sole",
                     "title_cn": "脚板",
+                    "title_mm": "ခြေဖ၀ါး",
                     "image": "sole.jpg"
                 },
                 {
                     "title_en": "instep",
                     "title_cn": "脚背",
+                    "title_mm": "ခြေဖမိုး",
                     "image": "instep.png"
                 },
                 {
                     "title_en": "toenail",
                     "title_cn": "趾甲",
+                    "title_mm": "ခြေသည်း",
                     "image": "toenail.png"
                 },
                 {
                     "title_en": "little toe",
                     "title_cn": "小趾",
+                    "title_mm": "ခြေသန်း",
                     "image": "little toe.png"
                 },
                 {
                     "title_en": "ankle",
                     "title_cn": "脚踝",
+                    "title_mm": "ခြေချင်းဝတ်",
                     "image": "ankle.png"
                 }
             ]
@@ -175,47 +223,62 @@
                 {
                     "title_en": "ring finger",
                     "title_cn": "无名指",
-                    "image": "ring finger.png"
+                    "title_mm": "လက်သူကြွယ်",
+                    "image": "ring finger.jpg"
                 },
                 {
                     "title_en": "little finger",
                     "title_cn": "小指",
-                    "image": "little finger.png"
+                    "title_mm": "လက်သန်း",
+                    "image": "little finger.jpg"
                 },
                 {
                     "title_en": "wrist",
                     "title_cn": "手腕",
+                    "title_mm": "လက်ကောက်ဝတ်",
                     "image": "wrist.jpg"
                 },
                 {
                     "title_en": "middle finger",
                     "title_cn": "中指",
-                    "image": "middle finger.jpeg"
+                    "title_mm": "လက်ခလယ်",
+                    "image": "middle finger.jpg"
                 },
                 {
                     "title_en": "index finger",
                     "title_cn": "食指",
+                    "title_mm": "လက်ညိုး",
                     "image": "index finger.jpg"
                 },
                 {
                     "title_en": "palm",
                     "title_cn": "手掌",
+                    "title_mm": "လက်၀ါး",
                     "image": "palm.jpg"
                 },
                 {
                     "title_en": "thumb",
                     "title_cn": "大拇指",
+                    "title_mm": "လက်မ",
                     "image": "thumb.jpg"
                 },
                 {
                     "title_en": "nail",
                     "title_cn": "指甲",
-                    "image": "nail.jfif"
+                    "title_mm": "လက်သည်း",
+                    "image": "nail.jpg"
+                },
+                {
+                    "title_en": "knuckle",
+                    "title_cn": "手指关节",
+                    "title_mm": "လက်ဆစ်",
+                    "image": "knuckle.jpg"
                 },
                 {
                     "title_en": "fist",
                     "title_cn": "拳头",
-                    "image": "fist.png"
+                    "title_mm": "လက်သီး",
+                    "image": "fist.jpg"
                 }
             ]
         },
@@ -226,62 +289,74 @@
             "details": [
                 {
                     "title_en": "manager",
-                    "title_cn": "经理",
+                    "title_cn": "管理",
+                    "title_mm": "မန်နေဂျာ",
                     "image": "manager.png"
                 },
                 {
                     "title_en": "assistant",
                     "title_cn": "助理",
+                    "title_mm": "လက်ထောက်",
                     "image": "assistant.png"
                 },
                 {
                     "title_en": "business partner",
                     "title_cn": "合作伙伴",
+                    "title_mm": "စီးပွားရေးလုပ်ဖော်ကိုင်ဖက်",
                     "image": "business partner.png"
                 },
                 {
                     "title_en": "employee",
                     "title_cn": "员工",
+                    "title_mm": "ဝန်ထမ်း",
                     "image": "employee.png"
                 },
                 {
                     "title_en": "employer",
                     "title_cn": "老板",
+                    "title_mm": "အလုပ်ရှင်",
                     "image": "employer.png"
                 },
                 {
                     "title_en": "colleague",
                     "title_cn": "同事",
+                    "title_mm": "လုပ်ဖော်ကိုင်ဖက်",
                     "image": "colleague.png"
                 },
                 {
                     "title_en": "neighbor",
                     "title_cn": "邻居",
+                    "title_mm": "အိမ်နီးချင်း",
                     "image": "neighbor.png"
                 },
                 {
                     "title_en": "friend",
                     "title_cn": "朋友",
+                    "title_mm": "သူငယ်ချင်း",
                     "image": "friend.png"
                 },
                 {
                     "title_en": "boyfriend",
                     "title_cn": "男朋友",
+                    "title_mm": "ချစ်သူကောင်လေး",
                     "image": "boyfriend.png"
                 },
                 {
                     "title_en": "girlfriend",
                     "title_cn": "女朋友",
+                    "title_mm": "ချစ်သူကောင်မလေး",
                     "image": "girlfriend.png"
                 },
                 {
                     "title_en": "couple",
                     "title_cn": "情侣",
+                    "title_mm": "စုံတွဲ",
                     "image": "couple.png"
                 },
                 {
                     "title_en": "pen pal",
                     "title_cn": "笔友",
+                    "title_mm": "စာပေးစာယူမိတ်ဆွေ",
                     "image": "pen pal.png"
                 }
             ]

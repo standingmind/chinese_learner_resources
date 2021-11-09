@@ -9,151 +9,180 @@
             "image": "road.png",
             "details": [
                 {
-                    "title_en": "parking meter",
-                    "title_cn": "停车收费表",
-                    "image": "parking meter.png"
+                  "title_en": "parking meter",
+                  "title_cn": "停车收费表",
+                  "title_mm": "ကားပါကင်မီတာ",
+                  "image": "parking meter.png"
                 },
                 {
-                    "title_en": "highway",
-                    "title_cn": "高速公路",
-                    "image": "highway.png"
+                  "title_en": "highway",
+                  "title_cn": "高速公路",
+                  "title_mm": "အဝေးပြေးလမ်း",
+                  "image": "highway.png"
                 },
                 {
-                    "title_en": "toll booth",
-                    "title_cn": "收费站",
-                    "image": "toll booth.png"
+                  "title_en": "toll booth",
+                  "title_cn": "收费站",
+                  "title_mm": "တိုးဂိတ်",
+                  "image": "toll booth.png"
                 },
                 {
-                    "title_en": "road markings",
-                    "title_cn": "道路标记",
-                    "image": "road markings.png"
+                  "title_en": "road markings",
+                  "title_cn": "道路标记",
+                  "title_mm": "လမ်းအမှတ်အသားများ",
+                  "image": "road markings.png"
                 },
                 {
-                    "title_en": "on-ramp",
-                    "title_cn": "匝道",
-                    "image": "on-ramp.png"
+                  "title_en": "on-ramp",
+                  "title_cn": "匝道",
+                  "title_mm": "ချဉ်းကပ်လမ်း",
+                  "image": "on-ramp.png"
                 },
                 {
-                    "title_en": "one-way",
-                    "title_cn": "单程",
-                    "image": "one-way.png"
+                  "title_en": "one-way",
+                  "title_cn": "单程",
+                  "title_mm": "တစ်လမ်းသွား",
+                  "image": "one-way.png"
                 },
                 {
-                    "title_en": "junction",
-                    "title_cn": "路口",
-                    "image": "junction.png"
+                  "title_en": "junction",
+                  "title_cn": "路口",
+                  "title_mm": "လမ်းဆုံ",
+                  "image": "junction.png"
                 },
                 {
-                    "title_en": "traffic light",
-                    "title_cn": "红绿灯",
-                    "image": "traffic light.png"
+                  "title_en": "traffic light",
+                  "title_cn": "红绿灯",
+                  "title_mm": "မီးပွိုင့်",
+                  "image": "traffic light.png"
                 },
                 {
-                    "title_en": "truck",
-                    "title_cn": "卡车",
-                    "image": "truck.png"
+                  "title_en": "truck",
+                  "title_cn": "卡车",
+                  "title_mm": "ထရပ်ကား",
+                  "image": "truck.png"
                 },
                 {
-                    "title_en": "underpass",
-                    "title_cn": "地下通道",
-                    "image": "underpass.png"
+                  "title_en": "underpass",
+                  "title_cn": "地下通道",
+                  "title_mm": "အောက်လမ်း",
+                  "image": "underpass.png"
                 },
                 {
-                    "title_en": "overpass",
-                    "title_cn": "立交桥",
-                    "image": "overpass.png"
+                  "title_en": "overpass",
+                  "title_cn": "立交桥",
+                  "title_mm": "ဂုန်းကျော်",
+                  "image": "overpass.png"
                 },
                 {
-                    "title_en": "traffic",
-                    "title_cn": "交通",
-                    "image": "traffic.png"
+                  "title_en": "traffic",
+                  "title_cn": "交通",
+                  "title_mm": "အသွားအလာ",
+                  "image": "traffic.png"
                 },
                 {
-                    "title_en": "exit ramp",
-                    "title_cn": "出口坡道",
-                    "image": "exit ramp.png"
+                  "title_en": "exit ramp",
+                  "title_cn": "出口坡道",
+                  "title_mm": "ထွက်ပေါက် ချဉ်းကပ်လမ်း",
+                  "image": "exit ramp.png"
                 },
                 {
-                    "title_en": "outside lane",
-                    "title_cn": "外车道",
-                    "image": "outside lane.png"
+                  "title_en": "outside lane",
+                  "title_cn": "外车道",
+                  "title_mm": "အပြင်ဘက်လမ်း",
+                  "image": "outside lane.png"
                 },
                 {
-                    "title_en": "middle lane",
-                    "title_cn": "中间车道",
-                    "image": "middle lane.png"
+                  "title_en": "middle lane",
+                  "title_cn": "中间车道",
+                  "title_mm": "အလယ်လမ်း",
+                  "image": "middle lane.png"
                 },
                 {
-                    "title_en": "inside lane",
-                    "title_cn": "内车道",
-                    "image": "inside lane.png"
+                  "title_en": "inside lane",
+                  "title_cn": "内车道",
+                  "title_mm": "အတွင်းလမ်း",
+                  "image": "inside lane.png"
                 },
                 {
-                    "title_en": "pedestrian crossing",
-                    "title_cn": "人行横道",
-                    "image": "pedestrian crossing.png"
+                  "title_en": "pedestrian crossing",
+                  "title_cn": "人行横道",
+                  "title_mm": "လူကူးမျဉ်းကျား",
+                  "image": "pedestrian crossing.png"
                 },
                 {
-                    "title_en": "emergency phone",
-                    "title_cn": "紧急电话",
-                    "image": "emergency phone.png"
+                  "title_en": "emergency phone",
+                  "title_cn": "紧急电话",
+                  "title_mm": "အရေးပေါ်ဖုန်း",
+                  "image": "emergency phone.png"
                 },
                 {
-                    "title_en": "disabled parking",
-                    "title_cn": "残疾人停车",
-                    "image": "disabled parking.png"
+                  "title_en": "disabled parking",
+                  "title_cn": "残疾人停车",
+                  "title_mm": "မသန်စွမ်းလူကားပါကင်",
+                  "image": "disabled parking.png"
                 },
                 {
-                    "title_en": "traffic circle",
-                    "title_cn": "交通圈",
-                    "image": "traffic circle.png"
+                  "title_en": "traffic circle",
+                  "title_cn": "交通圈",
+                  "title_mm": "အဝိုင်းပတ်",
+                  "image": "traffic circle.png"
                 },
                 {
-                    "title_en": "roadwork",
-                    "title_cn": "修路",
-                    "image": "roadwork.png"
+                  "title_en": "roadwork",
+                  "title_cn": "修路",
+                  "title_mm": "လမ်းပြုပြင်ခြင်း",
+                  "image": "roadwork.png"
                 },
                 {
-                    "title_en": "crash barrier",
-                    "title_cn": "防撞栏",
-                    "image": "crash barrier.png"
+                  "title_en": "crash barrier",
+                  "title_cn": "防撞栏",
+                  "title_mm": "လမ်းအတားအဆီး",
+                  "image": "crash barrier.png"
                 },
                 {
-                    "title_en": "divided highway",
-                    "title_cn": "分开的高速公路",
-                    "image": "divided highway.png"
+                  "title_en": "divided highway",
+                  "title_cn": "分开的高速公路",
+                  "title_mm": "အမြန်လမ်း လမ်းခွဲ",
+                  "image": "divided highway.png"
                 },
                 {
-                    "title_en": "tow away",
-                    "title_cn": "拖走",
-                    "image": "tow away.png"
+                  "title_en": "tow away",
+                  "title_cn": "拖走",
+                  "title_mm": "ဆွဲခွာသွားသည်",
+                  "image": "tow away.png"
                 },
                 {
-                    "title_en": "road signs",
-                    "title_cn": "路标",
-                    "image": "road signs.png"
+                  "title_en": "road signs",
+                  "title_cn": "路标",
+                  "title_mm": "လမ်းဆိုင်းဘုတ်များ",
+                  "image": "road signs.png"
                 },
                 {
-                    "title_en": "do not enter",
-                    "title_cn": "不许进入",
-                    "image": "do not enter.png"
+                  "title_en": "do not enter",
+                  "title_cn": "不许进入",
+                  "title_mm": "မဝင်ရ",
+                  "image": "do not enter.png"
                 },
                 {
-                    "title_en": "speed limit",
-                    "title_cn": "速度极限",
-                    "image": "speed limit.png"
+                  "title_en": "speed limit",
+                  "title_cn": "速度极限",
+                  "title_mm": "အမြန်နှုန်းသတ်မှတ်ချက်",
+                  "image": "speed limit.png"
                 },
                 {
-                    "title_en": "no stopping",
-                    "title_cn": "不可停",
-                    "image": "no stopping.png"
+                  "title_en": "no stopping",
+                  "title_cn": "不可停",
+                  "title_mm": "ယာဥ်မရပ်ရ",
+                  "image": "no stopping.png"
                 },
                 {
-                    "title_en": "no right turn",
-                    "title_cn": "不可右转",
-                    "image": "no right turn.png"
+                  "title_en": "no right turn",
+                  "title_cn": "不可右转",
+                  "title_mm": "ညာမကွေ့ရ",
+                  "image": "no right turn.png"
                 }
-            ]
+              ]
         },
         {
             "title_en": "bus",
@@ -161,106 +190,126 @@
             "image": "bus.png",
             "details": [
                 {
-                    "title_en": "driver seat",
-                    "title_cn": "驾驶座",
-                    "image": "driver seat.png"
+                  "title_en": "driver seat",
+                  "title_cn": "驾驶座",
+                  "title_mm": "ယာဉ်မောင်းထိုင်ခုံ",
+                  "image": "driver seat.png"
                 },
                 {
-                    "title_en": "handrail",
-                    "title_cn": "扶手",
-                    "image": "handrail.png"
+                  "title_en": "handrail",
+                  "title_cn": "扶手",
+                  "title_mm": "လက်တန်း",
+                  "image": "handrail.png"
                 },
                 {
-                    "title_en": "door",
-                    "title_cn": "门",
-                    "image": "door.png"
+                  "title_en": "door",
+                  "title_cn": "门",
+                  "title_mm": "တံခါး",
+                  "image": "door.png"
                 },
                 {
-                    "title_en": "automatic door",
-                    "title_cn": "自动门",
-                    "image": "automatic door.png"
+                  "title_en": "automatic door",
+                  "title_cn": "自动门",
+                  "title_mm": "အလိုအလျောက်တံခါး",
+                  "image": "automatic door.png"
                 },
                 {
-                    "title_en": "front wheel",
-                    "title_cn": "前轮",
-                    "image": "front wheel.png"
+                  "title_en": "front wheel",
+                  "title_cn": "前轮",
+                  "title_mm": "ရှေ့ဘီး",
+                  "image": "front wheel.png"
                 },
                 {
-                    "title_en": "luggage hold",
-                    "title_cn": "行李寄存",
-                    "image": "luggage hold.png"
+                  "title_en": "luggage hold",
+                  "title_cn": "行李寄存",
+                  "title_mm": "ခရီးဆောင်အိတ်ကိုင်",
+                  "image": "luggage hold.png"
                 },
                 {
-                    "title_en": "charter bus",
-                    "title_cn": "包车",
-                    "image": "charter bus.png"
+                  "title_en": "charter bus",
+                  "title_cn": "包车",
+                  "title_mm": "စင်းလုံးငှား ဘတ်စ်ကား",
+                  "image": "charter bus.png"
                 },
                 {
-                    "title_en": "double-decker bus",
-                    "title_cn": "双层巴士",
-                    "image": "double-decker bus.png"
+                  "title_en": "double-decker bus",
+                  "title_cn": "双层巴士",
+                  "title_mm": "နှစ်ထပ်ဘတ်စ်ကား",
+                  "image": "double-decker bus.png"
                 },
                 {
-                    "title_en": "driver",
-                    "title_cn": "司机",
-                    "image": "driver.png"
+                  "title_en": "driver",
+                  "title_cn": "司机",
+                  "title_mm": "ကားသမား",
+                  "image": "driver.png"
                 },
                 {
-                    "title_en": "route number",
-                    "title_cn": "路线编号",
-                    "image": "route number.png"
+                  "title_en": "route number",
+                  "title_cn": "路线编号",
+                  "title_mm": "လမ်းကြောင်းနံပါတ်",
+                  "image": "route number.png"
                 },
                 {
-                    "title_en": "trolley bus",
-                    "title_cn": "无轨电车",
-                    "image": "trolley bus.png"
+                  "title_en": "trolley bus",
+                  "title_cn": "无轨电车",
+                  "title_mm": "လျှပ်စစ်ဘတ်စ်ကား",
+                  "image": "trolley bus.png"
                 },
                 {
-                    "title_en": "rear wheel",
-                    "title_cn": "后轮",
-                    "image": "rear wheel.png"
+                  "title_en": "rear wheel",
+                  "title_cn": "后轮",
+                  "title_mm": "နောက်ဘီး",
+                  "image": "rear wheel.png"
                 },
                 {
-                    "title_en": "bus ticket",
-                    "title_cn": "车票",
-                    "image": "bus ticket.png"
+                  "title_en": "bus ticket",
+                  "title_cn": "车票",
+                  "title_mm": "ဘတ်စ်ကားလက်မှတ်",
+                  "image": "bus ticket.png"
                 },
                 {
-                    "title_en": "bus stop",
-                    "title_cn": "公交车站",
-                    "image": "bus stop.png"
+                  "title_en": "bus stop",
+                  "title_cn": "公交车站",
+                  "title_mm": "ဘတ်စ်ကားမှတ်တိုင်",
+                  "image": "bus stop.png"
                 },
                 {
-                    "title_en": "timetable",
-                    "title_cn": "时间表",
-                    "image": "timetable.png"
+                  "title_en": "timetable",
+                  "title_cn": "时间表",
+                  "title_mm": "အချိန်ဇယား",
+                  "image": "timetable.png"
                 },
                 {
-                    "title_en": "wheelchair access",
-                    "title_cn": "轮椅通道",
-                    "image": "wheelchair access.png"
+                  "title_en": "wheelchair access",
+                  "title_cn": "轮椅通道",
+                  "title_mm": "၀ီးချဲသွားလမ်း",
+                  "image": "wheelchair access.png"
                 },
                 {
-                    "title_en": "bus shelter",
-                    "title_cn": "候车亭",
-                    "image": "bus shelter.png"
+                  "title_en": "bus shelter",
+                  "title_cn": "候车亭",
+                  "title_mm": "ဘတ်စ်ကားမှတ်တိုင်အမိုးအကာ",
+                  "image": "bus shelter.png"
                 },
                 {
-                    "title_en": "minibus",
-                    "title_cn": "小巴",
-                    "image": "minibus.png"
+                  "title_en": "minibus",
+                  "title_cn": "小巴",
+                  "title_mm": "မီနီဘတ်စ်",
+                  "image": "minibus.png"
                 },
                 {
-                    "title_en": "tourist bus",
-                    "title_cn": "旅游巴士",
-                    "image": "tourist bus.png"
+                  "title_en": "tourist bus",
+                  "title_cn": "旅游巴士",
+                  "title_mm": "ခရီးသွားဘတ်စ်ကား",
+                  "image": "tourist bus.png"
                 },
                 {
-                    "title_en": "shuttle bus",
-                    "title_cn": "机场摆渡车",
-                    "image": "shuttle bus.png"
+                  "title_en": "shuttle bus",
+                  "title_cn": "机场摆渡车",
+                  "title_mm": "လေယာဥ်ကွင်းသုံးဘစ်ကား",
+                  "image": "shuttle bus.png"
                 }
-            ]
+              ]
         },
         {
             "title_en": "transportation tools",
@@ -268,236 +317,282 @@
             "image": "transportation tools.png",
             "details": [
                 {
-                    "title_en": "transport",
-                    "title_cn": "运输",
-                    "image": "transport.png"
+                  "title_en": "transport",
+                  "title_cn": "运输",
+                  "title_mm": "သယ်ယူပို့ဆောင်ရေး",
+                  "image": "transport.png"
                 },
                 {
-                    "title_en": "bus",
-                    "title_cn": "公共汽车",
-                    "image": "bus.png"
+                  "title_en": "bus",
+                  "title_cn": "公共汽车",
+                  "title_mm": "ဘတ်စ်ကား",
+                  "image": "bus.png"
                 },
                 {
-                    "title_en": "boat",
-                    "title_cn": "船",
-                    "image": "boat.png"
+                  "title_en": "boat",
+                  "title_cn": "船",
+                  "title_mm": "လှေ",
+                  "image": "boat.png"
                 },
                 {
-                    "title_en": "aeroplane",
-                    "title_cn": "飞机",
-                    "image": "aeroplane.png"
+                  "title_en": "aeroplane",
+                  "title_cn": "飞机",
+                  "title_mm": "လေယာဉ်",
+                  "image": "aeroplane.png"
                 },
                 {
-                    "title_en": "ferry",
-                    "title_cn": "渡船",
-                    "image": "ferry.png"
+                  "title_en": "ferry",
+                  "title_cn": "渡船",
+                  "title_mm": "ဖယ်ရီလှေ",
+                  "image": "ferry.png"
                 },
                 {
-                    "title_en": "motorboat",
-                    "title_cn": "汽艇",
-                    "image": "motorboat.png"
+                  "title_en": "motorboat",
+                  "title_cn": "汽艇",
+                  "title_mm": "မော်တော်ဘုတ်",
+                  "image": "motorboat.png"
                 },
                 {
-                    "title_en": "ocean liner",
-                    "title_cn": "远洋班轮",
-                    "image": "ocean liner.png"
+                  "title_en": "ocean liner",
+                  "title_cn": "远洋班轮",
+                  "title_mm": "သမုဒ္ဒရာသင်္ဘော",
+                  "image": "ocean liner.png"
                 },
                 {
-                    "title_en": "car",
-                    "title_cn": "车",
-                    "image": "car.png"
+                  "title_en": "car",
+                  "title_cn": "车",
+                  "title_mm": "ကား",
+                  "image": "car.png"
                 },
                 {
-                    "title_en": "passenger",
-                    "title_cn": "乘客",
-                    "image": "passenger.png"
+                  "title_en": "passenger",
+                  "title_cn": "乘客",
+                  "title_mm": "ခရီးသည်",
+                  "image": "passenger.png"
                 },
                 {
-                    "title_en": "railway",
-                    "title_cn": "铁路",
-                    "image": "railway.png"
+                  "title_en": "railway",
+                  "title_cn": "铁路",
+                  "title_mm": "မီးရထားလမ်း",
+                  "image": "railway.png"
                 },
                 {
-                    "title_en": "taxi",
-                    "title_cn": "出租车",
-                    "image": "taxi.png"
+                  "title_en": "taxi",
+                  "title_cn": "出租车",
+                  "title_mm": "တက္ကစီ",
+                  "image": "taxi.png"
                 },
                 {
-                    "title_en": "vehicle",
-                    "title_cn": "车辆",
-                    "image": "vehicle.png"
+                  "title_en": "vehicle",
+                  "title_cn": "车辆",
+                  "title_mm": "ယာဉ်",
+                  "image": "vehicle.png"
                 },
                 {
-                    "title_en": "tram",
-                    "title_cn": "电车",
-                    "image": "tram.png"
+                  "title_en": "tram",
+                  "title_cn": "电车",
+                  "title_mm": "ရထား",
+                  "image": "tram.png"
                 },
                 {
-                    "title_en": "taxicab",
-                    "title_cn": "出租车",
-                    "image": "taxicab.png"
+                  "title_en": "taxicab",
+                  "title_cn": "出租车",
+                  "title_mm": "တက္ကစီ",
+                  "image": "taxicab.png"
                 },
                 {
-                    "title_en": "sports car",
-                    "title_cn": "跑车",
-                    "image": "sports car.png"
+                  "title_en": "sports car",
+                  "title_cn": "跑车",
+                  "title_mm": "ပြိုင်ကား",
+                  "image": "sports car.png"
                 },
                 {
-                    "title_en": "sedan",
-                    "title_cn": "轿车",
-                    "image": "sedan.png"
+                  "title_en": "sedan",
+                  "title_cn": "轿车",
+                  "title_mm": "ဆလွန်းကား",
+                  "image": "sedan.png"
                 },
                 {
-                    "title_en": "race car",
-                    "title_cn": "赛车",
-                    "image": "race car.png"
+                  "title_en": "race car",
+                  "title_cn": "赛车",
+                  "title_mm": "ပြိုင်ကား",
+                  "image": "race car.png"
                 },
                 {
-                    "title_en": "four-wheel drive",
-                    "title_cn": "四轮驱动",
-                    "image": "four-wheel drive.png"
+                  "title_en": "four-wheel drive",
+                  "title_cn": "四轮驱动",
+                  "title_mm": "လေးဘီးမောင်း",
+                  "image": "four-wheel drive.png"
                 },
                 {
-                    "title_en": "engine",
-                    "title_cn": "引擎",
-                    "image": "engine.png"
+                  "title_en": "engine",
+                  "title_cn": "引擎",
+                  "title_mm": "အင်ဂျင်",
+                  "image": "engine.png"
                 },
                 {
-                    "title_en": "jet boat",
-                    "title_cn": "喷射艇",
-                    "image": "jet boat.png"
+                  "title_en": "jet boat",
+                  "title_cn": "喷射艇",
+                  "title_mm": "ဂျက်လှေ",
+                  "image": "jet boat.png"
                 },
                 {
-                    "title_en": "truck",
-                    "title_cn": "卡车",
-                    "image": "truck.png"
+                  "title_en": "truck",
+                  "title_cn": "卡车",
+                  "title_mm": "ထရပ်ကား",
+                  "image": "truck.png"
                 },
                 {
-                    "title_en": "bike",
-                    "title_cn": "自行车",
-                    "image": "bike.png"
+                  "title_en": "bike",
+                  "title_cn": "自行车",
+                  "title_mm": "စက်ဘီး",
+                  "image": "bike.png"
                 },
                 {
-                    "title_en": "helicopter",
-                    "title_cn": "直升机",
-                    "image": "helicopter.png"
+                  "title_en": "helicopter",
+                  "title_cn": "直升机",
+                  "title_mm": "ရဟတ်ယာဉ်",
+                  "image": "helicopter.png"
                 },
                 {
-                    "title_en": "chopper",
-                    "title_cn": "斩波器",
-                    "image": "chopper.png"
+                  "title_en": "chopper",
+                  "title_cn": "美式机车",
+                  "title_mm": "chopper ဆိုင်ကယ်",
+                  "image": "chopper.png"
                 },
                 {
-                    "title_en": "delivery truck",
-                    "title_cn": "送货车",
-                    "image": "delivery truck.png"
+                  "title_en": "delivery truck",
+                  "title_cn": "送货车",
+                  "title_mm": "ပို့ဆောင်ရေးကား",
+                  "image": "delivery truck.png"
                 },
                 {
-                    "title_en": "lorry",
-                    "title_cn": "货车",
-                    "image": "lorry.png"
+                  "title_en": "lorry",
+                  "title_cn": "货车",
+                  "title_mm": "လော်ရီ",
+                  "image": "lorry.png"
                 },
                 {
-                    "title_en": "riverboat",
-                    "title_cn": "河船",
-                    "image": "riverboat.png"
+                  "title_en": "riverboat",
+                  "title_cn": "河船",
+                  "title_mm": "မြစ်လှေ",
+                  "image": "riverboat.png"
                 },
                 {
-                    "title_en": "yacht",
-                    "title_cn": "游艇",
-                    "image": "yacht.png"
+                  "title_en": "yacht",
+                  "title_cn": "游艇",
+                  "title_mm": "ရွက်လှေ",
+                  "image": "yacht.png"
                 },
                 {
-                    "title_en": "sailboat",
-                    "title_cn": "帆船",
-                    "image": "sailboat.png"
+                  "title_en": "sailboat",
+                  "title_cn": "帆船",
+                  "title_mm": "ရွက်လှေ",
+                  "image": "sailboat.png"
                 },
                 {
-                    "title_en": "ship",
-                    "title_cn": "船",
-                    "image": "ship.png"
+                  "title_en": "ship",
+                  "title_cn": "船",
+                  "title_mm": "သင်္ဘော",
+                  "image": "ship.png"
                 },
                 {
-                    "title_en": "speedboat",
-                    "title_cn": "快艇",
-                    "image": "speedboat.png"
+                  "title_en": "speedboat",
+                  "title_cn": "快艇",
+                  "title_mm": "စပိဘုတ်",
+                  "image": "speedboat.png"
                 },
                 {
-                    "title_en": "tugboat",
-                    "title_cn": "拖船",
-                    "image": "tugboat.png"
+                  "title_en": "tugboat",
+                  "title_cn": "拖船",
+                  "title_mm": "တွန်းလှေ",
+                  "image": "tugboat.png"
                 },
                 {
-                    "title_en": "steamship",
-                    "title_cn": "轮船",
-                    "image": "steamship.png"
+                  "title_en": "steamship",
+                  "title_cn": "轮船",
+                  "title_mm": "ရေနွေးငွေ့သင်္ဘော",
+                  "image": "steamship.png"
                 },
                 {
-                    "title_en": "steamboat",
-                    "title_cn": "汽船",
-                    "image": "steamboat.png"
+                  "title_en": "steamboat",
+                  "title_cn": "汽船",
+                  "title_mm": "ရေနွေးငွေ့လှေ",
+                  "image": "steamboat.png"
                 },
                 {
-                    "title_en": "school bus",
-                    "title_cn": "校车",
-                    "image": "school bus.png"
+                  "title_en": "school bus",
+                  "title_cn": "校车",
+                  "title_mm": "ကျောင်းကား",
+                  "image": "school bus.png"
                 },
                 {
-                    "title_en": "kayak",
-                    "title_cn": "皮艇",
-                    "image": "kayak.png"
+                  "title_en": "kayak",
+                  "title_cn": "皮艇",
+                  "title_mm": "ကယက်",
+                  "image": "kayak.png"
                 },
                 {
-                    "title_en": "train",
-                    "title_cn": "火车",
-                    "image": "train.png"
+                  "title_en": "train",
+                  "title_cn": "火车",
+                  "title_mm": "ရထား",
+                  "image": "train.png"
                 },
                 {
-                    "title_en": "unicycle",
-                    "title_cn": "独轮车",
-                    "image": "unicycle.png"
+                  "title_en": "unicycle",
+                  "title_cn": "独轮车",
+                  "title_mm": "ယူနီဘီး",
+                  "image": "unicycle.png"
                 },
                 {
-                    "title_en": "Vespa",
-                    "title_cn": "胡蜂",
-                    "image": "Vespa.png"
+                  "title_en": "Vespa",
+                  "title_cn": "胡蜂",
+                  "title_mm": "Vespa မော်တော်ယာဥ်",
+                  "image": "Vespa.png"
                 },
                 {
-                    "title_en": "wheel",
-                    "title_cn": "车轮",
-                    "image": "wheel.png"
+                  "title_en": "wheel",
+                  "title_cn": "车轮",
+                  "title_mm": "ဘီး",
+                  "image": "wheel.png"
                 },
                 {
-                    "title_en": "tyre",
-                    "title_cn": "胎",
-                    "image": "tyre.png"
+                  "title_en": "tyre",
+                  "title_cn": "胎",
+                  "title_mm": "တာယာ",
+                  "image": "tyre.png"
                 },
                 {
-                    "title_en": "trail bike",
-                    "title_cn": "越野自行车",
-                    "image": "trail bike.png"
+                  "title_en": "trail bike",
+                  "title_cn": "越野自行车",
+                  "title_mm": "trail စက်ဘီး",
+                  "image": "trail bike.png"
                 },
                 {
-                    "title_en": "tricycle",
-                    "title_cn": "三轮车",
-                    "image": "tricycle.png"
+                  "title_en": "tricycle",
+                  "title_cn": "三轮车",
+                  "title_mm": "သုံးဘီးဆိုင်ကယ်",
+                  "image": "tricycle.png"
                 },
                 {
-                    "title_en": "scooter",
-                    "title_cn": "小型摩托车",
-                    "image": "scooter.png"
+                  "title_en": "scooter",
+                  "title_cn": "小型摩托车",
+                  "title_mm": "စကူတာ",
+                  "image": "scooter.png"
                 },
                 {
-                    "title_en": "motorcycle",
-                    "title_cn": "摩托车",
-                    "image": "motorcycle.png"
+                  "title_en": "motorcycle",
+                  "title_cn": "摩托车",
+                  "title_mm": "ဆိုင်ကယ်",
+                  "image": "motorcycle.png"
                 },
                 {
-                    "title_en": "mountain bike",
-                    "title_cn": "山地自行车",
-                    "image": "mountain bike.png"
+                  "title_en": "mountain bike",
+                  "title_cn": "山地自行车",
+                  "title_mm": "တောင်တက်စက်ဘီး",
+                  "image": "mountain bike.png"
                 }
-            ]
+              ]
         }
     ]
 }

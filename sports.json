@@ -9,301 +9,360 @@
             "image": "sport types.png",
             "details": [
                 {
-                    "title_en": "Acrobatics",
-                    "title_cn": "杂技",
-                    "image": "Acrobatics.png"
+                  "title_en": "Acrobatics",
+                  "title_cn": "杂技",
+                  "title_mm": "ကာယဗလ",
+                  "image": "Acrobatics.png"
                 },
                 {
-                    "title_en": "Aerobic Gymnastics",
-                    "title_cn": "有氧体操",
-                    "image": "Aerobic Gymnastics.png"
+                  "title_en": "Aerobic Gymnastics",
+                  "title_cn": "有氧体操",
+                  "title_mm": "အေရိုးဗစ် ကျွမ်းဘားအားကစား",
+                  "image": "Aerobic Gymnastics.png"
                 },
                 {
-                    "title_en": "Archery",
-                    "title_cn": "射箭",
-                    "image": "Archery.png"
+                  "title_en": "Archery",
+                  "title_cn": "射箭",
+                  "title_mm": "လေးပစ်",
+                  "image": "Archery.png"
                 },
                 {
-                    "title_en": "Arnis",
-                    "title_cn": "阿尼斯",
-                    "image": "Arnis.png"
+                  "title_en": "Arnis",
+                  "title_cn": "阿尼斯",
+                  "title_mm": "အာနစ်",
+                  "image": "Arnis.png"
                 },
                 {
-                    "title_en": "Artistic Gymnastics",
-                    "title_cn": "艺术体操",
-                    "image": "Artistic Gymnastics.png"
+                  "title_en": "Artistic Gymnastics",
+                  "title_cn": "艺术体操",
+                  "title_mm": "အနုပညာကျွမ်းဘား",
+                  "image": "Artistic Gymnastics.png"
                 },
                 {
-                    "title_en": "Artistic Swimming",
-                    "title_cn": "艺术游泳",
-                    "image": "Artistic Swimming.png"
+                  "title_en": "Artistic Swimming",
+                  "title_cn": "艺术游泳",
+                  "title_mm": "အနုပညာရေကူး",
+                  "image": "Artistic Swimming.png"
                 },
                 {
-                    "title_en": "Badminton",
-                    "title_cn": "羽毛球",
-                    "image": "Badminton.png"
+                  "title_en": "Badminton",
+                  "title_cn": "羽毛球",
+                  "title_mm": "ကြက်တောင်ရိုက်",
+                  "image": "Badminton.png"
                 },
                 {
-                    "title_en": "Baseball",
-                    "title_cn": "棒球",
-                    "image": "Baseball.png"
+                  "title_en": "Baseball",
+                  "title_cn": "棒球",
+                  "title_mm": "ဘေ့စ်ဘော",
+                  "image": "Baseball.png"
                 },
                 {
-                    "title_en": "Basketball",
-                    "title_cn": "篮球",
-                    "image": "Basketball.png"
+                  "title_en": "Basketball",
+                  "title_cn": "篮球",
+                  "title_mm": "ဘတ်စကက်ဘော",
+                  "image": "Basketball.png"
                 },
                 {
-                    "title_en": "Baton Twirling",
-                    "title_cn": "接力棒旋转",
-                    "image": "Baton Twirling.png"
+                  "title_en": "Baton Twirling",
+                  "title_cn": "接力棒旋转",
+                  "title_mm": "လက်ကမ်းတုတ်လှည့်ကစားခြင်း",
+                  "image": "Baton Twirling.png"
                 },
                 {
-                    "title_en": "Bicycle Motocross",
-                    "title_cn": "自行车越野赛",
-                    "image": "Bicycle Motocross.png"
+                  "title_en": "Bicycle Motocross (BMX)",
+                  "title_cn": "自行车越野赛 (BMX)",
+                  "title_mm": "တောင်တက်စက်ဘီးစီးခြင်း (BMX)",
+                  "image": "Bicycle Motocross (BMX).png"
                 },
                 {
-                    "title_en": "Billiards Pool",
-                    "title_cn": "台球池",
-                    "image": "Billiards Pool.png"
+                  "title_en": "Billiards Pool",
+                  "title_cn": "台球池",
+                  "title_mm": "ဘိလိယက်",
+                  "image": "Billiards Pool.png"
                 },
                 {
-                    "title_en": "Bodybuilding",
-                    "title_cn": "健美",
-                    "image": "Bodybuilding.png"
+                  "title_en": "Bodybuilding",
+                  "title_cn": "健美",
+                  "title_mm": "ကိုယ်ကာယလေ့ကျင့်ခန်း",
+                  "image": "Bodybuilding.png"
                 },
                 {
-                    "title_en": "Bowling",
-                    "title_cn": "保龄球",
-                    "image": "Bowling.png"
+                  "title_en": "Bowling",
+                  "title_cn": "保龄球",
+                  "title_mm": "ဘိုးလင်း",
+                  "image": "Bowling.png"
                 },
                 {
-                    "title_en": "Boxing",
-                    "title_cn": "拳击",
-                    "image": "Boxing.png"
+                  "title_en": "Boxing",
+                  "title_cn": "拳击",
+                  "title_mm": "လက်ဝှေ့",
+                  "image": "Boxing.png"
                 },
                 {
-                    "title_en": "Canoeing",
-                    "title_cn": "划独木舟",
-                    "image": "Canoeing.png"
+                  "title_en": "Canoeing",
+                  "title_cn": "划独木舟",
+                  "title_mm": "ကနူးလှေ",
+                  "image": "Canoeing.png"
                 },
                 {
-                    "title_en": "Car Racing",
-                    "title_cn": "赛车",
-                    "image": "Car Racing.png"
+                  "title_en": "Car Racing",
+                  "title_cn": "赛车",
+                  "title_mm": "ကားပြိုင်ပွဲ",
+                  "image": "Car Racing.png"
                 },
                 {
-                    "title_en": "Cheerleading",
-                    "title_cn": "啦啦队",
-                    "image": "Cheerleading.png"
+                  "title_en": "Cheerleading",
+                  "title_cn": "啦啦队",
+                  "title_mm": "ချီးယား",
+                  "image": "Cheerleading.png"
                 },
                 {
-                    "title_en": "Chess",
-                    "title_cn": "棋",
-                    "image": "Chess.png"
+                  "title_en": "Chess",
+                  "title_cn": "棋",
+                  "title_mm": "စစ်တုရင်ကစားနည်း",
+                  "image": "Chess.png"
                 },
                 {
-                    "title_en": "Cricket",
-                    "title_cn": "蟋蟀",
-                    "image": "Cricket.png"
+                  "title_en": "Cricket",
+                  "title_cn": "板球",
+                  "title_mm": "ကရစ်ကတ်",
+                  "image": "Cricket.png"
                 },
                 {
-                    "title_en": "Croquet",
-                    "title_cn": "槌球",
-                    "image": "Croquet.png"
+                  "title_en": "Croquet",
+                  "title_cn": "槌球",
+                  "title_mm": "ခရိုကတ်",
+                  "image": "Croquet.png"
                 },
                 {
-                    "title_en": "Curling",
-                    "title_cn": "冰壶",
-                    "image": "Curling.png"
+                  "title_en": "Curling",
+                  "title_cn": "冰壶",
+                  "title_mm": "ခါးလင်းကစားနည်း",
+                  "image": "Curling.png"
                 },
                 {
-                    "title_en": "Dance Sport",
-                    "title_cn": "舞蹈运动",
-                    "image": "Dance Sport.png"
+                  "title_en": "Dance Sport",
+                  "title_cn": "舞蹈运动",
+                  "title_mm": "အကအားကစား",
+                  "image": "Dance Sport.png"
                 },
                 {
-                    "title_en": "Darts",
-                    "title_cn": "飞镖",
-                    "image": "Darts.png"
+                  "title_en": "Darts",
+                  "title_cn": "飞镖",
+                  "title_mm": "စကြာပစ်ကစားနည်း",
+                  "image": "Darts.png"
                 },
                 {
-                    "title_en": "Diving",
-                    "title_cn": "潜水",
-                    "image": "Diving.png"
+                  "title_en": "Diving",
+                  "title_cn": "潜水",
+                  "title_mm": "ရေငုပ်အားကစား",
+                  "image": "Diving.png"
                 },
                 {
-                    "title_en": "Dodgeball",
-                    "title_cn": "躲避球",
-                    "image": "Dodgeball.png"
+                  "title_en": "Dodgeball",
+                  "title_cn": "躲避球",
+                  "title_mm": "Dodgeball ကစားနည်း",
+                  "image": "Dodgeball.png"
                 },
                 {
-                    "title_en": "Fencing",
-                    "title_cn": "击剑",
-                    "image": "Fencing.png"
+                  "title_en": "Fencing",
+                  "title_cn": "击剑",
+                  "title_mm": "ဓါးချွန်တိုက်ခိုက်နည်း",
+                  "image": "Fencing.png"
                 },
                 {
-                    "title_en": "Figure Skating",
-                    "title_cn": "花样滑冰",
-                    "image": "Figure Skating.png"
+                  "title_en": "Figure Skating",
+                  "title_cn": "花样滑冰",
+                  "title_mm": "အလှစကိတ်စီးခြင်း။",
+                  "image": "Figure Skating.png"
                 },
                 {
-                    "title_en": "Football",
-                    "title_cn": "足球",
-                    "image": "Football.png"
+                  "title_en": "Football",
+                  "title_cn": "足球",
+                  "title_mm": "ဘောလုံး",
+                  "image": "Football.png"
                 },
                 {
-                    "title_en": "Frisbee",
-                    "title_cn": "飞盘",
-                    "image": "Frisbee.png"
+                  "title_en": "Frisbee",
+                  "title_cn": "飞盘",
+                  "title_mm": "ပန်းကန်ပြားပစ်ကစားနည်း",
+                  "image": "Frisbee.png"
                 },
                 {
-                    "title_en": "Golf",
-                    "title_cn": "高尔夫球",
-                    "image": "Golf.png"
+                  "title_en": "Golf",
+                  "title_cn": "高尔夫球",
+                  "title_mm": "ဂေါက်ရိုက်",
+                  "image": "Golf.png"
                 },
                 {
-                    "title_en": "Handball",
-                    "title_cn": "手球",
-                    "image": "Handball.png"
+                  "title_en": "Handball",
+                  "title_cn": "手球",
+                  "title_mm": "လက်ပစ်ဘော",
+                  "image": "Handball.png"
                 },
                 {
-                    "title_en": "Hang Gliding",
-                    "title_cn": "滑翔翼",
-                    "image": "Hang Gliding.png"
+                  "title_en": "Hang Gliding",
+                  "title_cn": "滑翔翼",
+                  "title_mm": "တွဲလဲခိုစွန်စီးပြိုင်ပွဲ",
+                  "image": "Hang Gliding.png"
                 },
                 {
-                    "title_en": "Hockey",
-                    "title_cn": "曲棍球",
-                    "image": "Hockey.png"
+                  "title_en": "Hockey",
+                  "title_cn": "曲棍球",
+                  "title_mm": "ဟော်ကီကစားနည်း",
+                  "image": "Hockey.png"
                 },
                 {
-                    "title_en": "Horseback Riding",
-                    "title_cn": "骑马",
-                    "image": "Horseback Riding.png"
+                  "title_en": "Horseback Riding",
+                  "title_cn": "骑马",
+                  "title_mm": "မြင်းအပျော်စီးခြင်း။",
+                  "image": "Horseback Riding.png"
                 },
                 {
-                    "title_en": "Horse Racing",
-                    "title_cn": "赛马",
-                    "image": "Horse Racing.png"
+                  "title_en": "Horse Racing",
+                  "title_cn": "赛马",
+                  "title_mm": "မြင်းပြိုင်ပွဲ",
+                  "image": "Horse Racing.png"
                 },
                 {
-                    "title_en": "Ice Hockey",
-                    "title_cn": "冰球",
-                    "image": "Ice Hockey.png"
+                  "title_en": "Ice Hockey",
+                  "title_cn": "冰球",
+                  "title_mm": "ရေခဲပြင်ဟော်ကီ",
+                  "image": "Ice Hockey.png"
                 },
                 {
-                    "title_en": "Ice Skating",
-                    "title_cn": "溜冰",
-                    "image": "Ice Skating.png"
+                  "title_en": "Ice Skating",
+                  "title_cn": "溜冰",
+                  "title_mm": "ရေခဲပြင်စကိတ်စီးခြင်း",
+                  "image": "Ice Skating.png"
                 },
                 {
-                    "title_en": "Jet Ski Racing",
-                    "title_cn": "喷气滑雪比赛",
-                    "image": "Jet Ski Racing.png"
+                  "title_en": "Jet Ski Racing",
+                  "title_cn": "喷气滑雪比赛",
+                  "title_mm": "ဂျက်စကီးပြိုင်ပွဲ",
+                  "image": "Jet Ski Racing.png"
                 },
                 {
-                    "title_en": "Judo",
-                    "title_cn": "柔道",
-                    "image": "Judo.png"
+                  "title_en": "Judo",
+                  "title_cn": "柔道",
+                  "title_mm": "ဂျူဒို",
+                  "image": "Judo.png"
                 },
                 {
-                    "title_en": "Karate",
-                    "title_cn": "空手道",
-                    "image": "Karate.png"
+                  "title_en": "Karate",
+                  "title_cn": "空手道",
+                  "title_mm": "ကရာတေး",
+                  "image": "Karate.png"
                 },
                 {
-                    "title_en": "Kayaking",
-                    "title_cn": "皮划艇",
-                    "image": "Kayaking.png"
+                  "title_en": "Kayaking",
+                  "title_cn": "皮划艇",
+                  "title_mm": "ကယက်ခတ်ခြင်း။",
+                  "image": "Kayaking.png"
                 },
                 {
-                    "title_en": "Kendo",
-                    "title_cn": "剑道",
-                    "image": "Kendo.png"
+                  "title_en": "Kendo",
+                  "title_cn": "剑道",
+                  "title_mm": "ဂျပန်ဓါးရေးကစားနည်း",
+                  "image": "Kendo.png"
                 },
                 {
-                    "title_en": "Kick Boxing",
-                    "title_cn": "踢拳",
-                    "image": "Kick Boxing.png"
+                  "title_en": "Kick Boxing",
+                  "title_cn": "踢拳",
+                  "title_mm": "Kick Boxing",
+                  "image": "Kick Boxing.png"
                 },
                 {
-                    "title_en": "Kite Surfing",
-                    "title_cn": "风筝冲浪",
-                    "image": "Kite Surfing.png"
+                  "title_en": "Kite Surfing",
+                  "title_cn": "风筝冲浪",
+                  "title_mm": "စွန်လေလှိုင်းစီးခြင်း",
+                  "image": "Kite Surfing.png"
                 },
                 {
-                    "title_en": "Softball",
-                    "title_cn": "垒球",
-                    "image": "Softball.png"
+                  "title_en": "Softball",
+                  "title_cn": "垒球",
+                  "title_mm": "ဆော့ဘောကစားခြင်း",
+                  "image": "Softball.png"
                 },
                 {
-                    "title_en": "Speed Skating",
-                    "title_cn": "速度滑冰",
-                    "image": "Speed Skating.png"
+                  "title_en": "Speed Skating",
+                  "title_cn": "速度滑冰",
+                  "title_mm": "အမြန်စကိတ်စီးခြင်း",
+                  "image": "Speed Skating.png"
                 },
                 {
-                    "title_en": "Sport Climbing",
-                    "title_cn": "运动攀岩",
-                    "image": "Sport Climbing.png"
+                  "title_en": "Sport Climbing",
+                  "title_cn": "运动攀岩",
+                  "title_mm": "အားကစားတက်ခြင်း",
+                  "image": "Sport Climbing.png"
                 },
                 {
-                    "title_en": "Sumo Wrestling",
-                    "title_cn": "相扑",
-                    "image": "Sumo Wrestling.png"
+                  "title_en": "Sumo Wrestling",
+                  "title_cn": "相扑",
+                  "title_mm": "ဆူမိုနပန်း",
+                  "image": "Sumo Wrestling.png"
                 },
                 {
-                    "title_en": "Surfing",
-                    "title_cn": "冲浪",
-                    "image": "Surfing.png"
+                  "title_en": "Surfing",
+                  "title_cn": "冲浪",
+                  "title_mm": "လှိုင်းစီးခြင်း",
+                  "image": "Surfing.png"
                 },
                 {
-                    "title_en": "Swimming",
-                    "title_cn": "游泳",
-                    "image": "Swimming.png"
+                  "title_en": "Swimming",
+                  "title_cn": "游泳",
+                  "title_mm": "ရေကူးခြင်း",
+                  "image": "Swimming.png"
                 },
                 {
-                    "title_en": "Table Tennis",
-                    "title_cn": "乒乓球",
-                    "image": "Table Tennis.png"
+                  "title_en": "Table Tennis",
+                  "title_cn": "乒乓球",
+                  "title_mm": "စားပွဲတင်တင်းနစ်",
+                  "image": "Table Tennis.png"
                 },
                 {
-                    "title_en": "Tennis",
-                    "title_cn": "网球",
-                    "image": "Tennis.png"
+                  "title_en": "Tennis",
+                  "title_cn": "网球",
+                  "title_mm": "တင်းနစ်",
+                  "image": "Tennis.png"
                 },
                 {
-                    "title_en": "Tug of War",
-                    "title_cn": "拔河比赛",
-                    "image": "Tug of War.png"
+                  "title_en": "Tug of War",
+                  "title_cn": "拔河比赛",
+                  "title_mm": "လွန်ဆွဲကစားနည်း",
+                  "image": "Tug of War.png"
                 },
                 {
-                    "title_en": "Volleyball",
-                    "title_cn": "排球",
-                    "image": "Volleyball.png"
+                  "title_en": "Volleyball",
+                  "title_cn": "排球",
+                  "title_mm": "ဘော်လီဘော",
+                  "image": "Volleyball.png"
                 },
                 {
-                    "title_en": "Water Polo",
-                    "title_cn": "水球",
-                    "image": "Water Polo.png"
+                  "title_en": "Water Polo",
+                  "title_cn": "水球",
+                  "title_mm": "ရေဘောလုံးကစားနည်း",
+                  "image": "Water Polo.png"
                 },
                 {
-                    "title_en": "Weightlifting",
-                    "title_cn": "举重",
-                    "image": "Weightlifting.png"
+                  "title_en": "Weightlifting",
+                  "title_cn": "举重",
+                  "title_mm": "အလေးမခြင်း",
+                  "image": "Weightlifting.png"
                 },
                 {
-                    "title_en": "Windsurfing",
-                    "title_cn": "风帆冲浪",
-                    "image": "Windsurfing.png"
+                  "title_en": "Windsurfing",
+                  "title_cn": "风帆冲浪",
+                  "title_mm": "လေလှိုင်းစီး",
+                  "image": "Windsurfing.png"
                 },
                 {
-                    "title_en": "Wrestling",
-                    "title_cn": "摔角",
-                    "image": "Wrestling.png"
+                  "title_en": "Wrestling",
+                  "title_cn": "摔角",
+                  "title_mm": "နပန်းလုံးကစားနည်း",
+                  "image": "Wrestling.png"
                 }
-            ]
+              ]
         }
     ]
 }

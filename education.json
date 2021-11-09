@@ -9,246 +9,288 @@
             "image": "school.png",
             "details": [
                 {
-                    "title_en": "teacher",
-                    "title_cn": "老师",
-                    "image": "teacher.png"
+                  "title_en": "teacher",
+                  "title_cn": "老师",
+                  "title_mm": "ဆရာမ",
+                  "image": "teacher.png"
                 },
                 {
-                    "title_en": "biology",
-                    "title_cn": "生物学",
-                    "image": "biology.png"
+                  "title_en": "biology",
+                  "title_cn": "生物学",
+                  "title_mm": "ဇီဝဗေဒ",
+                  "image": "biology.png"
                 },
                 {
-                    "title_en": "notebook",
-                    "title_cn": "笔记本",
-                    "image": "notebook.png"
+                  "title_en": "notebook",
+                  "title_cn": "笔记本",
+                  "title_mm": "မှတ်စုစာအုပ်",
+                  "image": "notebook.png"
                 },
                 {
-                    "title_en": "encyclopedia",
-                    "title_cn": "百科全书",
-                    "image": "encyclopedia.png"
+                  "title_en": "encyclopedia",
+                  "title_cn": "百科全书",
+                  "title_mm": "စွယ်စုံကျမ်း",
+                  "image": "encyclopedia.png"
                 },
                 {
-                    "title_en": "blackboard",
-                    "title_cn": "黑板",
-                    "image": "blackboard.png"
+                  "title_en": "blackboard",
+                  "title_cn": "黑板",
+                  "title_mm": "ကျောက်သင်ပုန်း",
+                  "image": "blackboard.png"
                 },
                 {
-                    "title_en": "schoolboy",
-                    "title_cn": "男生",
-                    "image": "schoolboy.png"
+                  "title_en": "schoolboy",
+                  "title_cn": "男生",
+                  "title_mm": "ကျောင်းသားလေး",
+                  "image": "schoolboy.png"
                 },
                 {
-                    "title_en": "pupil",
-                    "title_cn": "学员",
-                    "image": "pupil.png"
+                  "title_en": "desk",
+                  "title_cn": "桌子",
+                  "title_mm": "စားပွဲခုံ",
+                  "image": "desk.png"
                 },
                 {
-                    "title_en": "desk",
-                    "title_cn": "桌子",
-                    "image": "desk.png"
+                  "title_en": "chalk",
+                  "title_cn": "粉笔",
+                  "title_mm": "မြေဖြူခဲ",
+                  "image": "chalk.png"
                 },
                 {
-                    "title_en": "chalk",
-                    "title_cn": "粉笔",
-                    "image": "chalk.png"
+                  "title_en": "school uniform",
+                  "title_cn": "校服",
+                  "title_mm": "ကျောင်းဝတ်စုံ",
+                  "image": "school uniform.png"
                 },
                 {
-                    "title_en": "school uniform",
-                    "title_cn": "校服",
-                    "image": "school uniform.png"
+                  "title_en": "school bag",
+                  "title_cn": "书包",
+                  "title_mm": "ကျောင်းလွယ်အိတ်",
+                  "image": "school bag.png"
                 },
                 {
-                    "title_en": "school bag",
-                    "title_cn": "书包",
-                    "image": "school bag.png"
+                  "title_en": "schoolgirl",
+                  "title_cn": "女学生",
+                  "title_mm": "ကျောင်းသူ",
+                  "image": "schoolgirl.png"
                 },
                 {
-                    "title_en": "schoolgirl",
-                    "title_cn": "女学生",
-                    "image": "schoolgirl.png"
+                  "title_en": "classroom",
+                  "title_cn": "课堂",
+                  "title_mm": "စာသင်ခန်း",
+                  "image": "classroom.png"
                 },
                 {
-                    "title_en": "classroom",
-                    "title_cn": "课堂",
-                    "image": "classroom.png"
+                  "title_en": "history",
+                  "title_cn": "历史",
+                  "title_mm": "သမိုင်း",
+                  "image": "history.png"
                 },
                 {
-                    "title_en": "history",
-                    "title_cn": "历史",
-                    "image": "history.png"
+                  "title_en": "languages",
+                  "title_cn": "语言",
+                  "title_mm": "ဘာသာစကားများ",
+                  "image": "languages.png"
                 },
                 {
-                    "title_en": "languages",
-                    "title_cn": "语言",
-                    "image": "languages.png"
+                  "title_en": "literature",
+                  "title_cn": "文学",
+                  "title_mm": "စာပေ",
+                  "image": "literature.png"
                 },
                 {
-                    "title_en": "literature",
-                    "title_cn": "文学",
-                    "image": "literature.png"
+                  "title_en": "geography",
+                  "title_cn": "地理",
+                  "title_mm": "ပထဝီဝင်",
+                  "image": "geography.png"
                 },
                 {
-                    "title_en": "geography",
-                    "title_cn": "地理",
-                    "image": "geography.png"
+                  "title_en": "science",
+                  "title_cn": "科学",
+                  "title_mm": "သိပ္ပံ",
+                  "image": "science.png"
                 },
                 {
-                    "title_en": "science",
-                    "title_cn": "科学",
-                    "image": "science.png"
+                  "title_en": "art",
+                  "title_cn": "艺术",
+                  "title_mm": "အနုပညာ",
+                  "image": "art.png"
                 },
                 {
-                    "title_en": "art",
-                    "title_cn": "艺术",
-                    "image": "art.png"
+                  "title_en": "music",
+                  "title_cn": "音乐",
+                  "title_mm": "ဂီတ",
+                  "image": "music.png"
                 },
                 {
-                    "title_en": "music",
-                    "title_cn": "音乐",
-                    "image": "music.png"
+                  "title_en": "math",
+                  "title_cn": "数学",
+                  "title_mm": "သင်္ချာ",
+                  "image": "math.png"
                 },
                 {
-                    "title_en": "math",
-                    "title_cn": "数学",
-                    "image": "math.png"
+                  "title_en": "physics",
+                  "title_cn": "物理",
+                  "title_mm": "ရူပေဗဒ",
+                  "image": "physics.png"
                 },
                 {
-                    "title_en": "physics",
-                    "title_cn": "物理",
-                    "image": "physics.png"
+                  "title_en": "chemistry",
+                  "title_cn": "化学",
+                  "title_mm": "ဓာတုဗေဒ",
+                  "image": "chemistry.png"
                 },
                 {
-                    "title_en": "chemistry",
-                    "title_cn": "化学",
-                    "image": "chemistry.png"
+                  "title_en": "physical education",
+                  "title_cn": "体育",
+                  "title_mm": "ကာယပညာ",
+                  "image": "physical education.png"
                 },
                 {
-                    "title_en": "physical education",
-                    "title_cn": "体育",
-                    "image": "physical education.png"
+                  "title_en": "read",
+                  "title_cn": "读",
+                  "title_mm": "ဖတ်",
+                  "image": "read.png"
                 },
                 {
-                    "title_en": "read",
-                    "title_cn": "读",
-                    "image": "read.png"
+                  "title_en": "write",
+                  "title_cn": "写",
+                  "title_mm": "ရေး",
+                  "image": "write.png"
                 },
                 {
-                    "title_en": "write",
-                    "title_cn": "写",
-                    "image": "write.png"
+                  "title_en": "spell",
+                  "title_cn": "拼写",
+                  "title_mm": "စာလုံးပေါင်း",
+                  "image": "spell.png"
                 },
                 {
-                    "title_en": "spell",
-                    "title_cn": "拼写",
-                    "image": "spell.png"
+                  "title_en": "draw",
+                  "title_cn": "画",
+                  "title_mm": "ဆွဲ",
+                  "image": "draw.png"
                 },
                 {
-                    "title_en": "draw",
-                    "title_cn": "画",
-                    "image": "draw.png"
+                  "title_en": "pen",
+                  "title_cn": "钢笔",
+                  "title_mm": "ဘောပင်",
+                  "image": "pen.png"
                 },
                 {
-                    "title_en": "pen",
-                    "title_cn": "钢笔",
-                    "image": "pen.png"
+                  "title_en": "pencil",
+                  "title_cn": "铅笔",
+                  "title_mm": "ခဲတံ",
+                  "image": "pencil.png"
                 },
                 {
-                    "title_en": "pencil",
-                    "title_cn": "铅笔",
-                    "image": "pencil.png"
+                  "title_en": "colored pencil",
+                  "title_cn": "彩色铅笔",
+                  "title_mm": "ရောင်စုံခဲတံ",
+                  "image": "colored pencil.png"
                 },
                 {
-                    "title_en": "colored pencil",
-                    "title_cn": "彩色铅笔",
-                    "image": "colored pencil.png"
+                  "title_en": "pencil sharpener",
+                  "title_cn": "卷笔刀",
+                  "title_mm": "ခဲတံချွန်ဓါး",
+                  "image": "pencil sharpener.png"
                 },
                 {
-                    "title_en": "pencil sharpener",
-                    "title_cn": "卷笔刀",
-                    "image": "pencil sharpener.png"
+                  "title_en": "textbook",
+                  "title_cn": "教科书",
+                  "title_mm": "ကျောင်းသုံးစာအုပ်",
+                  "image": "textbook.png"
                 },
                 {
-                    "title_en": "textbook",
-                    "title_cn": "教科书",
-                    "image": "textbook.png"
+                  "title_en": "pencil case",
+                  "title_cn": "铅笔盒",
+                  "title_mm": "ခဲတံအိတ်",
+                  "image": "pencil case.png"
                 },
                 {
-                    "title_en": "pencil case",
-                    "title_cn": "铅笔盒",
-                    "image": "pencil case.png"
+                  "title_en": "eraser",
+                  "title_cn": "橡皮",
+                  "title_mm": "ခဲဖျက်",
+                  "image": "eraser.png"
                 },
                 {
-                    "title_en": "eraser",
-                    "title_cn": "橡皮",
-                    "image": "eraser.png"
+                  "title_en": "ruler",
+                  "title_cn": "尺子",
+                  "title_mm": "ပေတံ",
+                  "image": "ruler.png"
                 },
                 {
-                    "title_en": "ruler",
-                    "title_cn": "尺子",
-                    "image": "ruler.png"
+                  "title_en": "question",
+                  "title_cn": "题",
+                  "title_mm": "မေးခွန်း",
+                  "image": "question.png"
                 },
                 {
-                    "title_en": "question",
-                    "title_cn": "题",
-                    "image": "question.png"
+                  "title_en": "answer",
+                  "title_cn": "回答",
+                  "title_mm": "အဖြေ",
+                  "image": "answer.png"
                 },
                 {
-                    "title_en": "answer",
-                    "title_cn": "回答",
-                    "image": "answer.png"
+                  "title_en": "discuss",
+                  "title_cn": "讨论",
+                  "title_mm": "ဆွေးနွေး",
+                  "image": "discuss.png"
                 },
                 {
-                    "title_en": "discuss",
-                    "title_cn": "讨论",
-                    "image": "discuss.png"
+                  "title_en": "learn",
+                  "title_cn": "学习",
+                  "title_mm": "လေ့လာ",
+                  "image": "learn.png"
                 },
                 {
-                    "title_en": "learn",
-                    "title_cn": "学习",
-                    "image": "learn.png"
+                  "title_en": "principal",
+                  "title_cn": "校长",
+                  "title_mm": "ကျောင်းအုပ်",
+                  "image": "principal.png"
                 },
                 {
-                    "title_en": "principal",
-                    "title_cn": "校长",
-                    "image": "principal.png"
+                  "title_en": "lesson",
+                  "title_cn": "课",
+                  "title_mm": "သင်ခန်းစာ",
+                  "image": "lesson.png"
                 },
                 {
-                    "title_en": "lesson",
-                    "title_cn": "课",
-                    "image": "lesson.png"
+                  "title_en": "take notes",
+                  "title_cn": "做笔记",
+                  "title_mm": "မှတ်စုယူပါ။",
+                  "image": "take notes.png"
                 },
                 {
-                    "title_en": "take notes",
-                    "title_cn": "做笔记",
-                    "image": "take notes.png"
+                  "title_en": "homework",
+                  "title_cn": "家庭作业",
+                  "title_mm": "အိမ်စာ",
+                  "image": "homework.png"
                 },
                 {
-                    "title_en": "homework",
-                    "title_cn": "作业",
-                    "image": "homework.png"
+                  "title_en": "test",
+                  "title_cn": "测试",
+                  "title_mm": "စမ်းသပ်မှု",
+                  "image": "test.png"
                 },
                 {
-                    "title_en": "test",
-                    "title_cn": "测试",
-                    "image": "test.png"
+                  "title_en": "essay",
+                  "title_cn": "散文",
+                  "title_mm": "စာစီစာကုံး",
+                  "image": "essay.png"
                 },
                 {
-                    "title_en": "essay",
-                    "title_cn": "散文",
-                    "image": "essay.png"
+                  "title_en": "grade",
+                  "title_cn": "年级",
+                  "title_mm": "အတန်း",
+                  "image": "grade.png"
                 },
                 {
-                    "title_en": "grade",
-                    "title_cn": "年级",
-                    "image": "grade.png"
-                },
-                {
-                    "title_en": "dictionary",
-                    "title_cn": "字典",
-                    "image": "dictionary.png"
+                  "title_en": "dictionary",
+                  "title_cn": "字典",
+                  "title_mm": "အဘိဓာန်",
+                  "image": "dictionary.png"
                 }
-            ]
+              ]
         },
         {
             "title_en": "university",
@@ -256,196 +298,234 @@
             "image": "university.png",
             "details": [
                 {
-                    "title_en": "playing field",
-                    "title_cn": "比赛场地",
-                    "image": "playing field.png"
+                  "title_en": "playing field",
+                  "title_cn": "比赛场地",
+                  "title_mm": "ကစားကွင်း",
+                  "image": "playing field.png"
                 },
                 {
-                    "title_en": "admissions",
-                    "title_cn": "招生",
-                    "image": "admissions.png"
+                  "title_en": "admissions",
+                  "title_cn": "招生",
+                  "title_mm": "ဝင်ခွင့်",
+                  "image": "admissions.png"
                 },
                 {
-                    "title_en": "health center",
-                    "title_cn": "保健中心",
-                    "image": "health center.png"
+                  "title_en": "health center",
+                  "title_cn": "保健中心",
+                  "title_mm": "ကျန်းမာရေးစင်တာ",
+                  "image": "health center.png"
                 },
                 {
-                    "title_en": "campus",
-                    "title_cn": "校园",
-                    "image": "campus.png"
+                  "title_en": "campus",
+                  "title_cn": "校园",
+                  "title_mm": "ကျောင်းဝင်း",
+                  "image": "campus.png"
                 },
                 {
-                    "title_en": "librarian",
-                    "title_cn": "图书管理员",
-                    "image": "librarian.png"
+                  "title_en": "librarian",
+                  "title_cn": "图书管理员",
+                  "title_mm": "စာကြည့်တိုက်မှူး",
+                  "image": "librarian.png"
                 },
                 {
-                    "title_en": "bookshelf",
-                    "title_cn": "书架",
-                    "image": "bookshelf.png"
+                  "title_en": "bookshelf",
+                  "title_cn": "书架",
+                  "title_mm": "စာအုပ်စင်",
+                  "image": "bookshelf.png"
                 },
                 {
-                    "title_en": "journal",
-                    "title_cn": "杂志",
-                    "image": "journal.png"
+                  "title_en": "journal",
+                  "title_cn": "杂志",
+                  "title_mm": "ဂျာနယ်",
+                  "image": "journal.png"
                 },
                 {
-                    "title_en": "library card",
-                    "title_cn": "借书卡",
-                    "image": "library card.png"
+                  "title_en": "library card",
+                  "title_cn": "借书卡",
+                  "title_mm": "စာကြည့်တိုက်ကတ်",
+                  "image": "library card.png"
                 },
                 {
-                    "title_en": "reading room",
-                    "title_cn": "阅览室",
-                    "image": "reading room.png"
+                  "title_en": "reading room",
+                  "title_cn": "阅览室",
+                  "title_mm": "စာဖတ်ခန်း",
+                  "image": "reading room.png"
                 },
                 {
-                    "title_en": "reading list",
-                    "title_cn": "阅读清单",
-                    "image": "reading list.png"
+                  "title_en": "reading list",
+                  "title_cn": "阅读清单",
+                  "title_mm": "စာဖတ်စာရင်း",
+                  "image": "reading list.png"
                 },
                 {
-                    "title_en": "help desk",
-                    "title_cn": "服务台",
-                    "image": "help desk.png"
+                  "title_en": "help desk",
+                  "title_cn": "服务台",
+                  "title_mm": "အကူအညီကောင်တာ",
+                  "image": "help desk.png"
                 },
                 {
-                    "title_en": "borrow",
-                    "title_cn": "借",
-                    "image": "borrow.png"
+                  "title_en": "borrow",
+                  "title_cn": "借",
+                  "title_mm": "ချေး",
+                  "image": "borrow.png"
                 },
                 {
-                    "title_en": "loan",
-                    "title_cn": "贷款",
-                    "image": "loan.png"
+                  "title_en": "loan",
+                  "title_cn": "贷款",
+                  "title_mm": "ချေးငွေ",
+                  "image": "loan.png"
                 },
                 {
-                    "title_en": "book",
-                    "title_cn": "书",
-                    "image": "book.png"
+                  "title_en": "book",
+                  "title_cn": "书",
+                  "title_mm": "စာအုပ်",
+                  "image": "book.png"
                 },
                 {
-                    "title_en": "undergraduate",
-                    "title_cn": "大学本科",
-                    "image": "undergraduate.png"
+                  "title_en": "undergraduate",
+                  "title_cn": "大学本科",
+                  "title_mm": "ဘွဲ့ကြို",
+                  "image": "undergraduate.png"
                 },
                 {
-                    "title_en": "lecturer",
-                    "title_cn": "讲师",
-                    "image": "lecturer.png"
+                  "title_en": "lecturer",
+                  "title_cn": "讲师",
+                  "title_mm": "ကထိက",
+                  "image": "lecturer.png"
                 },
                 {
-                    "title_en": "graduate",
-                    "title_cn": "毕业",
-                    "image": "graduate.png"
+                  "title_en": "graduate",
+                  "title_cn": "毕业",
+                  "title_mm": "ဘွဲ့ရသည်",
+                  "image": "graduate.png"
                 },
                 {
-                    "title_en": "model",
-                    "title_cn": "模型",
-                    "image": "model.png"
+                  "title_en": "model",
+                  "title_cn": "模型",
+                  "title_mm": "မော်ဒယ်",
+                  "image": "model.png"
                 },
                 {
-                    "title_en": "music school",
-                    "title_cn": "音乐学校",
-                    "image": "music school.png"
+                  "title_en": "music school",
+                  "title_cn": "音乐学校",
+                  "title_mm": "ဂီတကျောင်း",
+                  "image": "music school.png"
                 },
                 {
-                    "title_en": "dance academy",
-                    "title_cn": "舞蹈学院",
-                    "image": "dance academy.png"
+                  "title_en": "dance academy",
+                  "title_cn": "舞蹈学院",
+                  "title_mm": "အကသင်တန်းကျောင်း",
+                  "image": "dance academy.png"
                 },
                 {
-                    "title_en": "scholarship",
-                    "title_cn": "奖学金",
-                    "image": "scholarship.png"
+                  "title_en": "scholarship",
+                  "title_cn": "奖学金",
+                  "title_mm": "ပညာသင်ဆု",
+                  "image": "scholarship.png"
                 },
                 {
-                    "title_en": "diploma",
-                    "title_cn": "文凭",
-                    "image": "diploma.png"
+                  "title_en": "diploma",
+                  "title_cn": "文凭",
+                  "title_mm": "ဒီပလိုမာ",
+                  "image": "diploma.png"
                 },
                 {
-                    "title_en": "degree",
-                    "title_cn": "程度",
-                    "image": "degree.png"
+                  "title_en": "degree",
+                  "title_cn": "学位",
+                  "title_mm": "ဘွဲ့",
+                  "image": "degree.png"
                 },
                 {
-                    "title_en": "postgraduate",
-                    "title_cn": "研究生",
-                    "image": "postgraduate.png"
+                  "title_en": "postgraduate",
+                  "title_cn": "研究生",
+                  "title_mm": "ဘွဲ့လွန်",
+                  "image": "postgraduate.png"
                 },
                 {
-                    "title_en": "research",
-                    "title_cn": "研究",
-                    "image": "research.png"
+                  "title_en": "research",
+                  "title_cn": "研究",
+                  "title_mm": "သုတေသန",
+                  "image": "research.png"
                 },
                 {
-                    "title_en": "master's",
-                    "title_cn": "硕士",
-                    "image": "master's.png"
+                  "title_en": "master's",
+                  "title_cn": "硕士",
+                  "title_mm": "မာစတာ",
+                  "image": "master's.png"
                 },
                 {
-                    "title_en": "doctorate",
-                    "title_cn": "博士",
-                    "image": "doctorate.png"
+                  "title_en": "doctorate",
+                  "title_cn": "博士",
+                  "title_mm": "ပါရဂူဘွဲ့",
+                  "image": "doctorate.png"
                 },
                 {
-                    "title_en": "thesis",
-                    "title_cn": "论文",
-                    "image": "thesis.png"
+                  "title_en": "thesis",
+                  "title_cn": "论文",
+                  "title_mm": "စာတမ်း",
+                  "image": "thesis.png"
                 },
                 {
-                    "title_en": "department",
-                    "title_cn": "部门",
-                    "image": "department.png"
+                  "title_en": "department",
+                  "title_cn": "部门",
+                  "title_mm": "ဌာန",
+                  "image": "department.png"
                 },
                 {
-                    "title_en": "engineering",
-                    "title_cn": "工程",
-                    "image": "engineering.png"
+                  "title_en": "engineering",
+                  "title_cn": "工程",
+                  "title_mm": "အင်ဂျင်နီယာ",
+                  "image": "engineering.png"
                 },
                 {
-                    "title_en": "medicine",
-                    "title_cn": "药物",
-                    "image": "medicine.png"
+                  "title_en": "medicine",
+                  "title_cn": "药物",
+                  "title_mm": "ဆေးဝါး",
+                  "image": "medicine.png"
                 },
                 {
-                    "title_en": "zoology",
-                    "title_cn": "动物学",
-                    "image": "zoology.png"
+                  "title_en": "zoology",
+                  "title_cn": "动物学",
+                  "title_mm": "သတ္တဗေဒ",
+                  "image": "zoology.png"
                 },
                 {
-                    "title_en": "physics",
-                    "title_cn": "物理",
-                    "image": "physics.png"
+                  "title_en": "physics",
+                  "title_cn": "物理",
+                  "title_mm": "ရူပေဗဒ",
+                  "image": "physics.png"
                 },
                 {
-                    "title_en": "politics",
-                    "title_cn": "政治",
-                    "image": "politics.png"
+                  "title_en": "politics",
+                  "title_cn": "政治",
+                  "title_mm": "နိုင်ငံရေး",
+                  "image": "politics.png"
                 },
                 {
-                    "title_en": "philosophy",
-                    "title_cn": "哲学",
-                    "image": "philosophy.png"
+                  "title_en": "philosophy",
+                  "title_cn": "哲学",
+                  "title_mm": "ဒဿန",
+                  "image": "philosophy.png"
                 },
                 {
-                    "title_en": "literature",
-                    "title_cn": "文学",
-                    "image": "literature.png"
+                  "title_en": "literature",
+                  "title_cn": "文学",
+                  "title_mm": "စာပေ",
+                  "image": "literature.png"
                 },
                 {
-                    "title_en": "art history",
-                    "title_cn": "艺术史",
-                    "image": "art history.png"
+                  "title_en": "art history",
+                  "title_cn": "艺术史",
+                  "title_mm": "အနုပညာသမိုင်း",
+                  "image": "art history.png"
                 },
                 {
-                    "title_en": "economics",
-                    "title_cn": "经济学",
-                    "image": "economics.png"
+                  "title_en": "economics",
+                  "title_cn": "经济学",
+                  "title_mm": "စီးပွားရေး",
+                  "image": "economics.png"
                 }
-            ]
+              ]
         }
     ]
 }

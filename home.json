@@ -9,241 +9,288 @@
             "image": "house.png",
             "details": [
                 {
-                    "title_en": "window",
-                    "title_cn": "窗户",
-                    "image": "window.png"
+                  "title_en": "window",
+                  "title_cn": "窗户",
+                  "title_mm": "ပြတင်းပေါက်",
+                  "image": "window.png"
                 },
                 {
-                    "title_en": "hallway",
-                    "title_cn": "走廊",
-                    "image": "hallway.png"
+                  "title_en": "hallway",
+                  "title_cn": "走廊",
+                  "title_mm": "စင်္ကြံ",
+                  "image": "hallway.png"
                 },
                 {
-                    "title_en": "electricity",
-                    "title_cn": "电",
-                    "image": "electricity.png"
+                  "title_en": "electricity",
+                  "title_cn": "电",
+                  "title_mm": "လျှပ်စစ်",
+                  "image": "electricity.png"
                 },
                 {
-                    "title_en": "cooker",
-                    "title_cn": "电饭锅",
-                    "image": "cooker.png"
+                  "title_en": "cooker",
+                  "title_cn": "电饭锅",
+                  "title_mm": "မီးဖိုချောင်",
+                  "image": "cooker.png"
                 },
                 {
-                    "title_en": "roof",
-                    "title_cn": "房顶",
-                    "image": "roof.png"
+                  "title_en": "roof",
+                  "title_cn": "房顶",
+                  "title_mm": "ခေါင်မိုး",
+                  "image": "roof.png"
                 },
                 {
-                    "title_en": "chimney",
-                    "title_cn": "烟囱",
-                    "image": "chimney.png"
+                  "title_en": "chimney",
+                  "title_cn": "烟囱",
+                  "title_mm": "မီးခိုးခေါင်းတိုင်",
+                  "image": "chimney.png"
                 },
                 {
-                    "title_en": "dormer window",
-                    "title_cn": "房屋顶",
-                    "image": "dormer window.png"
+                  "title_en": "dormer window",
+                  "title_cn": "房屋顶",
+                  "title_mm": "dormer ပြတင်းပေါက်",
+                  "image": "dormer window.png"
                 },
                 {
-                    "title_en": "gutter",
-                    "title_cn": "排水沟",
-                    "image": "gutter.png"
+                  "title_en": "gutter",
+                  "title_cn": "排水沟",
+                  "title_mm": "ရေမြောင်း",
+                  "image": "gutter.png"
                 },
                 {
-                    "title_en": "wall",
-                    "title_cn": "墙壁",
-                    "image": "wall.png"
+                  "title_en": "wall",
+                  "title_cn": "墙壁",
+                  "title_mm": "နံရံ",
+                  "image": "wall.png"
                 },
                 {
-                    "title_en": "extension",
-                    "title_cn": "分机",
-                    "image": "extension.png"
+                  "title_en": "extension",
+                  "title_cn": "分机",
+                  "title_mm": "တိုးချဲ့စက်",
+                  "image": "extension.png"
                 },
                 {
-                    "title_en": "front door",
-                    "title_cn": "前门",
-                    "image": "front door.png"
+                  "title_en": "front door",
+                  "title_cn": "前门",
+                  "title_mm": "အိမ်ရှေ့တံခါး",
+                  "image": "front door.png"
                 },
                 {
-                    "title_en": "townhouse",
-                    "title_cn": "排屋",
-                    "image": "townhouse.png"
+                  "title_en": "townhouse",
+                  "title_cn": "排屋",
+                  "title_mm": "မြို",
+                  "image": "townhouse.png"
                 },
                 {
-                    "title_en": "tenant",
-                    "title_cn": "承租人",
-                    "image": "tenant.png"
+                  "title_en": "tenant",
+                  "title_cn": "承租人",
+                  "title_mm": "အိမ်ငှား",
+                  "image": "tenant.png"
                 },
                 {
-                    "title_en": "bungalow",
-                    "title_cn": "平方",
-                    "image": "bungalow.png"
+                  "title_en": "bungalow",
+                  "title_cn": "平方",
+                  "title_mm": "ဘန်ဂလို",
+                  "image": "bungalow.png"
                 },
                 {
-                    "title_en": "basement",
-                    "title_cn": "地下室",
-                    "image": "basement.png"
+                  "title_en": "basement",
+                  "title_cn": "地下室",
+                  "title_mm": "မြေအောက်ခန်း",
+                  "image": "basement.png"
                 },
                 {
-                    "title_en": "garage",
-                    "title_cn": "车库",
-                    "image": "garage.png"
+                  "title_en": "garage",
+                  "title_cn": "车库",
+                  "title_mm": "ကားဂိုဒေါင်",
+                  "image": "garage.png"
                 },
                 {
-                    "title_en": "room",
-                    "title_cn": "房间",
-                    "image": "room.png"
+                  "title_en": "room",
+                  "title_cn": "房间",
+                  "title_mm": "အခန်း",
+                  "image": "room.png"
                 },
                 {
-                    "title_en": "letter box",
-                    "title_cn": "信箱",
-                    "image": "letter box.png"
+                  "title_en": "letter box",
+                  "title_cn": "信箱",
+                  "title_mm": "စာပုံး",
+                  "image": "letter box.png"
                 },
                 {
-                    "title_en": "porch light",
-                    "title_cn": "门廊灯",
-                    "image": "porch light.png"
+                  "title_en": "porch light",
+                  "title_cn": "门廊灯",
+                  "title_mm": "ဝင်ပေါက်မီး",
+                  "image": "porch light.png"
                 },
                 {
-                    "title_en": "landlord",
-                    "title_cn": "房东",
-                    "image": "landlord.png"
+                  "title_en": "landlord",
+                  "title_cn": "房东",
+                  "title_mm": "အိမ်ရှင်",
+                  "image": "landlord.png"
                 },
                 {
-                    "title_en": "burglar alarm",
-                    "title_cn": "防盗报警器",
-                    "image": "burglar alarm.png"
+                  "title_en": "burglar alarm",
+                  "title_cn": "防盗报警器",
+                  "title_mm": "သူခိုးအချက်ပေးသံ",
+                  "image": "burglar alarm.png"
                 },
                 {
-                    "title_en": "courtyard",
-                    "title_cn": "院子",
-                    "image": "courtyard.png"
+                  "title_en": "courtyard",
+                  "title_cn": "院子",
+                  "title_mm": "ခြံဝင်း",
+                  "image": "courtyard.png"
                 },
                 {
-                    "title_en": "floor",
-                    "title_cn": "地板",
-                    "image": "floor.png"
+                  "title_en": "floor",
+                  "title_cn": "地板",
+                  "title_mm": "ကြမ်းပြင်",
+                  "image": "floor.png"
                 },
                 {
-                    "title_en": "rent",
-                    "title_cn": "出租",
-                    "image": "rent.png"
+                  "title_en": "rent",
+                  "title_cn": "出租",
+                  "title_mm": "ငှား",
+                  "image": "rent.png"
                 },
                 {
-                    "title_en": "doorbell",
-                    "title_cn": "门铃",
-                    "image": "doorbell.png"
+                  "title_en": "doorbell",
+                  "title_cn": "门铃",
+                  "title_mm": "တံခါး bell",
+                  "image": "doorbell.png"
                 },
                 {
-                    "title_en": "doormat",
-                    "title_cn": "门垫",
-                    "image": "doormat.png"
+                  "title_en": "doormat",
+                  "title_cn": "门垫",
+                  "title_mm": "ခြေသုတ်ခင်း",
+                  "image": "doormat.png"
                 },
                 {
-                    "title_en": "key",
-                    "title_cn": "钥匙",
-                    "image": "key.png"
+                  "title_en": "key",
+                  "title_cn": "钥匙",
+                  "title_mm": "သော့",
+                  "image": "key.png"
                 },
                 {
-                    "title_en": "lock",
-                    "title_cn": "锁",
-                    "image": "lock.png"
+                  "title_en": "lock",
+                  "title_cn": "锁",
+                  "title_mm": "သော့ခလောက်",
+                  "image": "lock.png"
                 },
                 {
-                    "title_en": "apartment",
-                    "title_cn": "插齿",
-                    "image": "apartment.png"
+                  "title_en": "apartment",
+                  "title_cn": "插齿",
+                  "title_mm": "တိုက်ခန်း",
+                  "image": "apartment.png"
                 },
                 {
-                    "title_en": "balcony",
-                    "title_cn": "公寓",
-                    "image": "balcony.png"
+                  "title_en": "balcony",
+                  "title_cn": "公寓",
+                  "title_mm": "လသာဆောင်",
+                  "image": "balcony.png"
                 },
                 {
-                    "title_en": "elevator",
-                    "title_cn": "电梯",
-                    "image": "elevator.png"
+                  "title_en": "elevator",
+                  "title_cn": "电梯",
+                  "title_mm": "ဓာတ်လှေကား",
+                  "image": "elevator.png"
                 },
                 {
-                    "title_en": "radiator",
-                    "title_cn": "散热器",
-                    "image": "radiator.png"
+                  "title_en": "radiator",
+                  "title_cn": "散热器",
+                  "title_mm": "ရေတိုင်ကီ",
+                  "image": "radiator.png"
                 },
                 {
-                    "title_en": "fan",
-                    "title_cn": "风扇",
-                    "image": "fan.png"
+                  "title_en": "fan",
+                  "title_cn": "风扇",
+                  "title_mm": "ပန်ကာ",
+                  "image": "fan.png"
                 },
                 {
-                    "title_en": "light bulb",
-                    "title_cn": "灯泡",
-                    "image": "light bulb.png"
+                  "title_en": "light bulb",
+                  "title_cn": "灯泡",
+                  "title_mm": "မီးသီး",
+                  "image": "light bulb.png"
                 },
                 {
-                    "title_en": "air conditioner",
-                    "title_cn": "空调",
-                    "image": "air conditioner.png"
+                  "title_en": "air conditioner",
+                  "title_cn": "空调",
+                  "title_mm": "လေအေးပေးစက်",
+                  "image": "air conditioner.png"
                 },
                 {
-                    "title_en": "plug",
-                    "title_cn": "插头",
-                    "image": "plug.png"
+                  "title_en": "plug",
+                  "title_cn": "插头",
+                  "title_mm": "ပလပ်",
+                  "image": "plug.png"
                 },
                 {
-                    "title_en": "wires",
-                    "title_cn": "金属丝",
-                    "image": "wires.png"
+                  "title_en": "wires",
+                  "title_cn": "金属丝",
+                  "title_mm": "ဝါယာကြိုးများ",
+                  "image": "wires.png"
                 },
                 {
-                    "title_en": "voltage",
-                    "title_cn": "电压",
-                    "image": "voltage.png"
+                  "title_en": "voltage",
+                  "title_cn": "电压",
+                  "title_mm": "ဓာတ်အား",
+                  "image": "voltage.png"
                 },
                 {
-                    "title_en": "power",
-                    "title_cn": "电能",
-                    "image": "power.png"
+                  "title_en": "power",
+                  "title_cn": "电能",
+                  "title_mm": "ပါဝါ",
+                  "image": "power.png"
                 },
                 {
-                    "title_en": "generator",
-                    "title_cn": "发电机",
-                    "image": "generator.png"
+                  "title_en": "generator",
+                  "title_cn": "发电机",
+                  "title_mm": "မီးစက်",
+                  "image": "generator.png"
                 },
                 {
-                    "title_en": "outlet",
-                    "title_cn": "电源插座",
-                    "image": "outlet.png"
+                  "title_en": "outlet",
+                  "title_cn": "电源插座",
+                  "title_mm": "မီးပလတ်ခုံ",
+                  "image": "outlet.png"
                 },
                 {
-                    "title_en": "switch",
-                    "title_cn": "开关",
-                    "image": "switch.png"
+                  "title_en": "switch",
+                  "title_cn": "开关",
+                  "title_mm": "ခလုတ်",
+                  "image": "switch.png"
                 },
                 {
-                    "title_en": "transformer",
-                    "title_cn": "变压器",
-                    "image": "transformer.png"
+                  "title_en": "transformer",
+                  "title_cn": "变压器",
+                  "title_mm": "ထရန်စဖော်မာ",
+                  "image": "transformer.png"
                 },
                 {
-                    "title_en": "electricity meter",
-                    "title_cn": "电表",
-                    "image": "electricity meter.png"
+                  "title_en": "electricity meter",
+                  "title_cn": "电表",
+                  "title_mm": "လျှပ်စစ်မီတာ",
+                  "image": "electricity meter.png"
                 },
                 {
-                    "title_en": "power outage",
-                    "title_cn": "停电",
-                    "image": "power outage.png"
+                  "title_en": "power outage",
+                  "title_cn": "停电",
+                  "title_mm": "မီးပြတ်ခြင်း",
+                  "image": "power outage.png"
                 },
                 {
-                    "title_en": "bottle",
-                    "title_cn": "瓶子",
-                    "image": "bottle.png"
+                  "title_en": "bottle",
+                  "title_cn": "瓶子",
+                  "title_mm": "ပုလင်း",
+                  "image": "bottle.png"
                 },
                 {
-                    "title_en": "trash can",
-                    "title_cn": "垃圾桶",
-                    "image": "trash can.png"
+                  "title_en": "trash can",
+                  "title_cn": "垃圾桶",
+                  "title_mm": "အမှိုက်ပုံး",
+                  "image": "trash can.png"
                 }
-            ]
+              ]
         },
         {
             "title_en": "living room",
@@ -251,131 +298,156 @@
             "image": "living room.png",
             "details": [
                 {
-                    "title_en": "molding",
-                    "title_cn": "模塑",
-                    "image": "molding.png"
+                  "title_en": "molding",
+                  "title_cn": "模塑",
+                  "title_mm": "ပုံသွင်းခြင်း",
+                  "image": "molding.png"
                 },
                 {
-                    "title_en": "venetian blind",
-                    "title_cn": "竹帘",
-                    "image": "venetian blind.png"
+                  "title_en": "venetian blind",
+                  "title_cn": "竹帘",
+                  "title_mm": "၀ါးလိုက်ကာ",
+                  "image": "venetian blind.png"
                 },
                 {
-                    "title_en": "ceiling",
-                    "title_cn": "天花板",
-                    "image": "ceiling.png"
+                  "title_en": "ceiling",
+                  "title_cn": "天花板",
+                  "title_mm": "မျက်နှာကျက်",
+                  "image": "ceiling.png"
                 },
                 {
-                    "title_en": "cabinet",
-                    "title_cn": "柜",
-                    "image": "cabinet.png"
+                  "title_en": "cabinet",
+                  "title_cn": "柜",
+                  "title_mm": "ဗီဒို",
+                  "image": "cabinet.png"
                 },
                 {
-                    "title_en": "sofa",
-                    "title_cn": "沙发",
-                    "image": "sofa.png"
+                  "title_en": "sofa",
+                  "title_cn": "沙发",
+                  "title_mm": "ဆိုဖာ",
+                  "image": "sofa.png"
                 },
                 {
-                    "title_en": "cushion",
-                    "title_cn": "靠垫",
-                    "image": "cushion.png"
+                  "title_en": "cushion",
+                  "title_cn": "靠垫",
+                  "title_mm": "ကူရှင်",
+                  "image": "cushion.png"
                 },
                 {
-                    "title_en": "coffee table",
-                    "title_cn": "咖啡桌",
-                    "image": "coffee table.png"
+                  "title_en": "coffee table",
+                  "title_cn": "咖啡桌",
+                  "title_mm": "ကော်ဖီစားပွဲ",
+                  "image": "coffee table.png"
                 },
                 {
-                    "title_en": "floor",
-                    "title_cn": "地板",
-                    "image": "floor.png"
+                  "title_en": "floor",
+                  "title_cn": "地板",
+                  "title_mm": "ကြမ်းပြင်",
+                  "image": "floor.png"
                 },
                 {
-                    "title_en": "painting",
-                    "title_cn": "绘画",
-                    "image": "painting.png"
+                  "title_en": "painting",
+                  "title_cn": "绘画",
+                  "title_mm": "ပန်းချီ",
+                  "image": "painting.png"
                 },
                 {
-                    "title_en": "frame",
-                    "title_cn": "画框",
-                    "image": "frame.png"
+                  "title_en": "frame",
+                  "title_cn": "画框",
+                  "title_mm": "ဘောင်",
+                  "image": "frame.png"
                 },
                 {
-                    "title_en": "lamp",
-                    "title_cn": "灯",
-                    "image": "lamp.png"
+                  "title_en": "lamp",
+                  "title_cn": "灯",
+                  "title_mm": "မီးအိမ်",
+                  "image": "lamp.png"
                 },
                 {
-                    "title_en": "wall light",
-                    "title_cn": "壁灯",
-                    "image": "wall light.png"
+                  "title_en": "wall light",
+                  "title_cn": "壁灯",
+                  "title_mm": "နံရံမီးအိမ်",
+                  "image": "wall light.png"
                 },
                 {
-                    "title_en": "clock",
-                    "title_cn": "时钟",
-                    "image": "clock.png"
+                  "title_en": "clock",
+                  "title_cn": "时钟",
+                  "title_mm": "နာရီ",
+                  "image": "clock.png"
                 },
                 {
-                    "title_en": "mirror",
-                    "title_cn": "镜子",
-                    "image": "mirror.png"
+                  "title_en": "mirror",
+                  "title_cn": "镜子",
+                  "title_mm": "မှန်",
+                  "image": "mirror.png"
                 },
                 {
-                    "title_en": "vase",
-                    "title_cn": "花瓶",
-                    "image": "vase.png"
+                  "title_en": "vase",
+                  "title_cn": "花瓶",
+                  "title_mm": "ပန်းအိုး",
+                  "image": "vase.png"
                 },
                 {
-                    "title_en": "mantelpiece",
-                    "title_cn": "壁炉台",
-                    "image": "mantelpiece.png"
+                  "title_en": "mantelpiece",
+                  "title_cn": "壁炉台",
+                  "title_mm": "မီးဖိုခုံ",
+                  "image": "mantelpiece.png"
                 },
                 {
-                    "title_en": "firepalace",
-                    "title_cn": "壁炉",
-                    "image": "firepalace.png"
+                  "title_en": "firepalace",
+                  "title_cn": "壁炉",
+                  "title_mm": "မီးဖိုဆောင်",
+                  "image": "firepalace.png"
                 },
                 {
-                    "title_en": "candle",
-                    "title_cn": "蜡烛",
-                    "image": "candle.png"
+                  "title_en": "candle",
+                  "title_cn": "蜡烛",
+                  "title_mm": "ဖယောင်းတိုင်",
+                  "image": "candle.png"
                 },
                 {
-                    "title_en": "bookshelf",
-                    "title_cn": "书架",
-                    "image": "bookshelf.png"
+                  "title_en": "bookshelf",
+                  "title_cn": "书架",
+                  "title_mm": "စာအုပ်စင်",
+                  "image": "bookshelf.png"
                 },
                 {
-                    "title_en": "sofa bed",
-                    "title_cn": "沙发床",
-                    "image": "sofa bed.png"
+                  "title_en": "sofa bed",
+                  "title_cn": "沙发床",
+                  "title_mm": "ဆိုဖာအိပ်ယာ",
+                  "image": "sofa bed.png"
                 },
                 {
-                    "title_en": "rug",
-                    "title_cn": "地毯",
-                    "image": "rug.png"
+                  "title_en": "rug",
+                  "title_cn": "地毯",
+                  "title_mm": "ကော်ဇော",
+                  "image": "rug.png"
                 },
                 {
-                    "title_en": "armchair",
-                    "title_cn": "扶手椅",
-                    "image": "armchair.png"
+                  "title_en": "armchair",
+                  "title_cn": "扶手椅",
+                  "title_mm": "လက်တင်ကုလားထိုင်",
+                  "image": "armchair.png"
                 },
                 {
-                    "title_en": "curtain",
-                    "title_cn": "窗帘",
-                    "image": "curtain.png"
+                  "title_en": "curtain",
+                  "title_cn": "窗帘",
+                  "title_mm": "ကုလားကာ",
+                  "image": "curtain.png"
                 },
                 {
-                    "title_en": "sheer curtain",
-                    "title_cn": "纯粹的窗帘",
-                    "image": "sheer curtain.png"
+                  "title_en": "sheer curtain",
+                  "title_cn": "纯粹的窗帘",
+                  "title_mm": "နံရံကုလားကာ",
+                  "image": "sheer curtain.png"
                 },
                 {
-                    "title_en": "window shade",
-                    "title_cn": "逆光窗帘",
-                    "image": "window shade.png"
+                  "title_en": "window shade",
+                  "title_cn": "逆光窗帘",
+                  "title_mm": "ပြတင်းပေါက်အရိပ်",
+                  "image": "window shade.png"
                 }
-            ]
+              ]
         }
     ]
 }

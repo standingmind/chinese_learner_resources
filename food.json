@@ -9,186 +9,222 @@
             "image": "meat.png",
             "details": [
                 {
-                    "title_en": "butcher",
-                    "title_cn": "屠夫",
-                    "image": "butcher.png"
+                  "title_en": "butcher",
+                  "title_cn": "屠夫",
+                  "title_mm": "အသားရောင်းသူ",
+                  "image": "butcher.png"
                 },
                 {
-                    "title_en": "tongue",
-                    "title_cn": "舌",
-                    "image": "tongue.png"
+                  "title_en": "tongue",
+                  "title_cn": "舌",
+                  "title_mm": "လျှာ",
+                  "image": "tongue.png"
                 },
                 {
-                    "title_en": "smoked",
-                    "title_cn": "熏制",
-                    "image": "smoked.png"
+                  "title_en": "smoked",
+                  "title_cn": "熏制",
+                  "title_mm": "ဖုတ်ထားသော",
+                  "image": "smoked.png"
                 },
                 {
-                    "title_en": "fat",
-                    "title_cn": "肥肉",
-                    "image": "fat.png"
+                  "title_en": "fat",
+                  "title_cn": "肥肉",
+                  "title_mm": "အဆီ",
+                  "image": "fat.png"
                 },
                 {
-                    "title_en": "joint",
-                    "title_cn": "肉块",
-                    "image": "joint.png"
+                  "title_en": "joint",
+                  "title_cn": "肉块",
+                  "title_mm": "အဆစ်",
+                  "image": "joint.png"
                 },
                 {
-                    "title_en": "lamb",
-                    "title_cn": "羊肉",
-                    "image": "lamb.png"
+                  "title_en": "lamb",
+                  "title_cn": "羊肉",
+                  "title_mm": "သိုးသား",
+                  "image": "lamb.png"
                 },
                 {
-                    "title_en": "meat hook",
-                    "title_cn": "肉钩",
-                    "image": "meat hook.png"
+                  "title_en": "meat hook",
+                  "title_cn": "肉钩",
+                  "title_mm": "အသားချိတ်",
+                  "image": "meat hook.png"
                 },
                 {
-                    "title_en": "scale",
-                    "title_cn": "磅秤",
-                    "image": "scale.png"
+                  "title_en": "scale",
+                  "title_cn": "磅秤",
+                  "title_mm": "ချိန်ခွင်",
+                  "image": "scale.png"
                 },
                 {
-                    "title_en": "knife sharpener",
-                    "title_cn": "磨刀机",
-                    "image": "knife sharpener.png"
+                  "title_en": "knife sharpener",
+                  "title_cn": "磨刀机",
+                  "title_mm": "ဓားဦးချွန်",
+                  "image": "knife sharpener.png"
                 },
                 {
-                    "title_en": "bacon",
-                    "title_cn": "培根",
-                    "image": "bacon.png"
+                  "title_en": "bacon",
+                  "title_cn": "培根",
+                  "title_mm": "ဘေကွန်",
+                  "image": "bacon.png"
                 },
                 {
-                    "title_en": "sausages",
-                    "title_cn": "香肠",
-                    "image": "sausages.png"
+                  "title_en": "sausages",
+                  "title_cn": "香肠",
+                  "title_mm": "ဝက်အူချောင်း",
+                  "image": "sausages.png"
                 },
                 {
-                    "title_en": "liver",
-                    "title_cn": "肝",
-                    "image": "liver.png"
+                  "title_en": "liver",
+                  "title_cn": "肝",
+                  "title_mm": "အသည်း",
+                  "image": "liver.png"
                 },
                 {
-                    "title_en": "pork",
-                    "title_cn": "猪肉",
-                    "image": "pork.png"
+                  "title_en": "pork",
+                  "title_cn": "猪肉",
+                  "title_mm": "ဝက်သား",
+                  "image": "pork.png"
                 },
                 {
-                    "title_en": "beef",
-                    "title_cn": "牛肉",
-                    "image": "beef.png"
+                  "title_en": "beef",
+                  "title_cn": "牛肉",
+                  "title_mm": "အမဲသား",
+                  "image": "beef.png"
                 },
                 {
-                    "title_en": "veal",
-                    "title_cn": "小牛肉",
-                    "image": "veal.png"
+                  "title_en": "veal",
+                  "title_cn": "小牛肉",
+                  "title_mm": "နွားငယ်သား",
+                  "image": "veal.png"
                 },
                 {
-                    "title_en": "venison",
-                    "title_cn": "鹿肉",
-                    "image": "venison.png"
+                  "title_en": "venison",
+                  "title_cn": "鹿肉",
+                  "title_mm": "အသား",
+                  "image": "venison.png"
                 },
                 {
-                    "title_en": "rabbit",
-                    "title_cn": "羊肉",
-                    "image": "rabbit.png"
+                  "title_en": "rabbit",
+                  "title_cn": "羊肉",
+                  "title_mm": "ယုန်",
+                  "image": "rabbit.png"
                 },
                 {
-                    "title_en": "organic",
-                    "title_cn": "有机的",
-                    "image": "organic.png"
+                  "title_en": "organic",
+                  "title_cn": "有机的",
+                  "title_mm": "အော်ဂဲနစ်",
+                  "image": "organic.png"
                 },
                 {
-                    "title_en": "lean meat",
-                    "title_cn": "瘦肉",
-                    "image": "lean meat.png"
+                  "title_en": "lean meat",
+                  "title_cn": "瘦肉",
+                  "title_mm": "အဆီမပါသောအသား",
+                  "image": "lean meat.png"
                 },
                 {
-                    "title_en": "cooked meat",
-                    "title_cn": "熟肉",
-                    "image": "cooked meat.png"
+                  "title_en": "cooked meat",
+                  "title_cn": "熟肉",
+                  "title_mm": "ချက်ပြုတ်အသား",
+                  "image": "cooked meat.png"
                 },
                 {
-                    "title_en": "white meat",
-                    "title_cn": "白肉",
-                    "image": "white meat.png"
+                  "title_en": "white meat",
+                  "title_cn": "白肉",
+                  "title_mm": "အဖြူရောင်အသား",
+                  "image": "white meat.png"
                 },
                 {
-                    "title_en": "red meat",
-                    "title_cn": "红肉",
-                    "image": "red meat.png"
+                  "title_en": "red meat",
+                  "title_cn": "红肉",
+                  "title_mm": "အနီရောင်အသား",
+                  "image": "red meat.png"
                 },
                 {
-                    "title_en": "ham",
-                    "title_cn": "火腿",
-                    "image": "ham.png"
+                  "title_en": "ham",
+                  "title_cn": "火腿",
+                  "title_mm": "ဝက်ပေါင်ခြောက်",
+                  "image": "ham.png"
                 },
                 {
-                    "title_en": "slice",
-                    "title_cn": "切片",
-                    "image": "slice.png"
+                  "title_en": "slice",
+                  "title_cn": "切片",
+                  "title_mm": "လှီးပါ။",
+                  "image": "slice.png"
                 },
                 {
-                    "title_en": "ground meat",
-                    "title_cn": "碎肉",
-                    "image": "ground meat.png"
+                  "title_en": "ground meat",
+                  "title_cn": "碎肉",
+                  "title_mm": "မွှသား",
+                  "image": "ground meat.png"
                 },
                 {
-                    "title_en": "rib",
-                    "title_cn": "排骨",
-                    "image": "rib.png"
+                  "title_en": "rib",
+                  "title_cn": "排骨",
+                  "title_mm": "နံရိုး",
+                  "image": "rib.png"
                 },
                 {
-                    "title_en": "bone",
-                    "title_cn": "骨头",
-                    "image": "bone.png"
+                  "title_en": "bone",
+                  "title_cn": "骨头",
+                  "title_mm": "အရိုး",
+                  "image": "bone.png"
                 },
                 {
-                    "title_en": "heart",
-                    "title_cn": "心",
-                    "image": "heart.png"
+                  "title_en": "heart",
+                  "title_cn": "心",
+                  "title_mm": "နှလုံး",
+                  "image": "heart.png"
                 },
                 {
-                    "title_en": "skin",
-                    "title_cn": "皮",
-                    "image": "skin.png"
+                  "title_en": "skin",
+                  "title_cn": "皮",
+                  "title_mm": "အရေပြား",
+                  "image": "skin.png"
                 },
                 {
-                    "title_en": "turkey",
-                    "title_cn": "火鸡",
-                    "image": "turkey.png"
+                  "title_en": "turkey",
+                  "title_cn": "火鸡",
+                  "title_mm": "ကြက်ဆင်",
+                  "image": "turkey.png"
                 },
                 {
-                    "title_en": "breast",
-                    "title_cn": "胸肉",
-                    "image": "breast.png"
+                  "title_en": "breast",
+                  "title_cn": "胸肉",
+                  "title_mm": "ရင်သား",
+                  "image": "breast.png"
                 },
                 {
-                    "title_en": "thigh",
-                    "title_cn": "大腿肉",
-                    "image": "thigh.png"
+                  "title_en": "thigh",
+                  "title_cn": "大腿肉",
+                  "title_mm": "ပေါင်",
+                  "image": "thigh.png"
                 },
                 {
-                    "title_en": "wing",
-                    "title_cn": "翅膀肉",
-                    "image": "wing.png"
+                  "title_en": "wing",
+                  "title_cn": "翅膀肉",
+                  "title_mm": "တောင်ပံ",
+                  "image": "wing.png"
                 },
                 {
-                    "title_en": "chicken",
-                    "title_cn": "肌肉",
-                    "image": "chicken.png"
+                  "title_en": "chicken",
+                  "title_cn": "肌肉",
+                  "title_mm": "ကြက်သား",
+                  "image": "chicken.png"
                 },
                 {
-                    "title_en": "duck",
-                    "title_cn": "鸭肉",
-                    "image": "duck.png"
+                  "title_en": "duck",
+                  "title_cn": "鸭肉",
+                  "title_mm": "ဘဲ",
+                  "image": "duck.png"
                 },
                 {
-                    "title_en": "goose",
-                    "title_cn": "鹅肉",
-                    "image": "goose.png"
+                  "title_en": "goose",
+                  "title_cn": "鹅肉",
+                  "title_mm": "ဘဲငန်း",
+                  "image": "goose.png"
                 }
-            ]
+              ]
         },
         {
             "title_en": "fruit",
@@ -196,81 +232,96 @@
             "image": "fruit.png",
             "details": [
                 {
-                    "title_en": "apples",
-                    "title_cn": "苹果",
-                    "image": "apples.png"
+                  "title_en": "apples",
+                  "title_cn": "苹果",
+                  "title_mm": "ပန်းသီး",
+                  "image": "apples.png"
                 },
                 {
-                    "title_en": "avocados",
-                    "title_cn": "牛油果",
-                    "image": "avocados.png"
+                  "title_en": "avocados",
+                  "title_cn": "牛油果",
+                  "title_mm": "ထောပတ်သီး",
+                  "image": "avocados.png"
                 },
                 {
-                    "title_en": "bananas",
-                    "title_cn": "香蕉",
-                    "image": "bananas.png"
+                  "title_en": "bananas",
+                  "title_cn": "香蕉",
+                  "title_mm": "ငှက်ပျောသီး",
+                  "image": "bananas.png"
                 },
                 {
-                    "title_en": "berries",
-                    "title_cn": "浆果",
-                    "image": "berries.png"
+                  "title_en": "berries",
+                  "title_cn": "浆果",
+                  "title_mm": "ဘယ်ရီသီး",
+                  "image": "berries.png"
                 },
                 {
-                    "title_en": "cherries",
-                    "title_cn": "樱桃",
-                    "image": "cherries.png"
+                  "title_en": "cherries",
+                  "title_cn": "樱桃",
+                  "title_mm": "ချယ်ရီသီး",
+                  "image": "cherries.png"
                 },
                 {
-                    "title_en": "grapefruit",
-                    "title_cn": "柚子",
-                    "image": "grapefruit.png"
+                  "title_en": "grapefruit",
+                  "title_cn": "柚子",
+                  "title_mm": "ဂရိတ်ဖရုသီး",
+                  "image": "grapefruit.png"
                 },
                 {
-                    "title_en": "grapes",
-                    "title_cn": "葡萄",
-                    "image": "grapes.png"
+                  "title_en": "grapes",
+                  "title_cn": "葡萄",
+                  "title_mm": "စပျစ်သီး",
+                  "image": "grapes.png"
                 },
                 {
-                    "title_en": "kiwis",
-                    "title_cn": "奇异果",
-                    "image": "kiwis.png"
+                  "title_en": "kiwis",
+                  "title_cn": "奇异果",
+                  "title_mm": "ကီဝီသီး",
+                  "image": "kiwis.png"
                 },
                 {
-                    "title_en": "lemons",
-                    "title_cn": "柠檬",
-                    "image": "lemons.png"
+                  "title_en": "lemons",
+                  "title_cn": "柠檬",
+                  "title_mm": "သံပုရာသီး",
+                  "image": "lemons.png"
                 },
                 {
-                    "title_en": "melon",
-                    "title_cn": "瓜",
-                    "image": "melon.png"
+                  "title_en": "melon",
+                  "title_cn": "瓜",
+                  "title_mm": "သခွားမွေး",
+                  "image": "melon.png"
                 },
                 {
-                    "title_en": "nectarines",
-                    "title_cn": "油桃",
-                    "image": "nectarines.png"
+                  "title_en": "nectarines",
+                  "title_cn": "油桃",
+                  "title_mm": "မက်မွန်သီးတစ်မျို",
+                  "image": "nectarines.png"
                 },
                 {
-                    "title_en": "oranges",
-                    "title_cn": "橙子",
-                    "image": "oranges.png"
+                  "title_en": "oranges",
+                  "title_cn": "橙子",
+                  "title_mm": "လိမ္မော်သီး",
+                  "image": "oranges.png"
                 },
                 {
-                    "title_en": "peaches",
-                    "title_cn": "桃子",
-                    "image": "peaches.png"
+                  "title_en": "peaches",
+                  "title_cn": "桃子",
+                  "title_mm": "မက်မွန်သီး",
+                  "image": "peaches.png"
                 },
                 {
-                    "title_en": "pears",
-                    "title_cn": "梨",
-                    "image": "pears.png"
+                  "title_en": "pears",
+                  "title_cn": "梨",
+                  "title_mm": "သစ်တော်သီး",
+                  "image": "pears.png"
                 },
                 {
-                    "title_en": "plums",
-                    "title_cn": "李子",
-                    "image": "plums.png"
+                  "title_en": "plums",
+                  "title_cn": "李子",
+                  "title_mm": "ဇီးသီး",
+                  "image": "plums.png"
                 }
-            ]
+              ]
         },
         {
             "title_en": "vegetables",
@@ -278,86 +329,102 @@
             "image": "vegetables.png",
             "details": [
                 {
-                    "title_en": "asparagus",
-                    "title_cn": "芦笋",
-                    "image": "asparagus.png"
+                  "title_en": "asparagus",
+                  "title_cn": "芦笋",
+                  "title_mm": "ကညွှတ်",
+                  "image": "asparagus.png"
                 },
                 {
-                    "title_en": "broccoli",
-                    "title_cn": "西兰花",
-                    "image": "broccoli.png"
+                  "title_en": "broccoli",
+                  "title_cn": "西兰花",
+                  "title_mm": "ဘရိုကိုလီ",
+                  "image": "broccoli.png"
                 },
                 {
-                    "title_en": "carrots",
-                    "title_cn": "萝卜",
-                    "image": "carrots.png"
+                  "title_en": "carrots",
+                  "title_cn": "萝卜",
+                  "title_mm": "မုန်လာဥနီ",
+                  "image": "carrots.png"
                 },
                 {
-                    "title_en": "cauliflower",
-                    "title_cn": "菜花",
-                    "image": "cauliflower.png"
+                  "title_en": "cauliflower",
+                  "title_cn": "菜花",
+                  "title_mm": "ပန်းဂေါ်ဖီ",
+                  "image": "cauliflower.png"
                 },
                 {
-                    "title_en": "celery",
-                    "title_cn": "芹菜",
-                    "image": "celery.png"
+                  "title_en": "celery",
+                  "title_cn": "芹菜",
+                  "title_mm": "တရုတ်နံနံ",
+                  "image": "celery.png"
                 },
                 {
-                    "title_en": "corn",
-                    "title_cn": "玉米",
-                    "image": "corn.png"
+                  "title_en": "corn",
+                  "title_cn": "玉米",
+                  "title_mm": "ပြောင်းဖူး",
+                  "image": "corn.png"
                 },
                 {
-                    "title_en": "cucumbers",
-                    "title_cn": "黄瓜",
-                    "image": "cucumbers.png"
+                  "title_en": "cucumbers",
+                  "title_cn": "黄瓜",
+                  "title_mm": "သခွားသီး",
+                  "image": "cucumbers.png"
                 },
                 {
-                    "title_en": "lettuce",
-                    "title_cn": "生菜",
-                    "image": "lettuce.png"
+                  "title_en": "lettuce",
+                  "title_cn": "生菜",
+                  "title_mm": "ဆလတ်ရွက်",
+                  "image": "lettuce.png"
                 },
                 {
-                    "title_en": "mushrooms",
-                    "title_cn": "蘑菇",
-                    "image": "mushrooms.png"
+                  "title_en": "mushrooms",
+                  "title_cn": "蘑菇",
+                  "title_mm": "မှို",
+                  "image": "mushrooms.png"
                 },
                 {
-                    "title_en": "onions",
-                    "title_cn": "洋葱",
-                    "image": "onions.png"
+                  "title_en": "onions",
+                  "title_cn": "洋葱",
+                  "title_mm": "ကြက်သွန်နီ",
+                  "image": "onions.png"
                 },
                 {
-                    "title_en": "peppers",
-                    "title_cn": "胡椒",
-                    "image": "peppers.png"
+                  "title_en": "peppers",
+                  "title_cn": "胡椒",
+                  "title_mm": "ငရုတ်ကောင်း",
+                  "image": "peppers.png"
                 },
                 {
-                    "title_en": "potatoes",
-                    "title_cn": "土豆",
-                    "image": "potatoes.png"
+                  "title_en": "potatoes",
+                  "title_cn": "土豆",
+                  "title_mm": "အာလူး",
+                  "image": "potatoes.png"
                 },
                 {
-                    "title_en": "spinach",
-                    "title_cn": "菠菜",
-                    "image": "spinach.png"
+                  "title_en": "spinach",
+                  "title_cn": "菠菜",
+                  "title_mm": "ဟင်းနုနွယ်ရွက်",
+                  "image": "spinach.png"
                 },
                 {
-                    "title_en": "squash",
-                    "title_cn": "壁球",
-                    "image": "squash.png"
+                  "title_en": "squash",
+                  "title_cn": "壁球",
+                  "title_mm": "စကွပ်ရှ်(ဖရုံမျိုးစိတ်)",
+                  "image": "squash.png"
                 },
                 {
-                    "title_en": "zucchini",
-                    "title_cn": "夏南瓜",
-                    "image": "zucchini.png"
+                  "title_en": "zucchini",
+                  "title_cn": "夏南瓜",
+                  "title_mm": "သခွားဖရုံသီး",
+                  "image": "zucchini.png"
                 },
                 {
-                    "title_en": "tomatoes",
-                    "title_cn": "番茄",
-                    "image": "tomatoes.png"
+                  "title_en": "tomatoes",
+                  "title_cn": "番茄",
+                  "title_mm": "ခရမ်းချဉ်သီး",
+                  "image": "tomatoes.png"
                 }
-            ]
+              ]
         },
         {
             "title_en": "fish",
@@ -365,101 +432,120 @@
             "image": "fish.png",
             "details": [
                 {
-                    "title_en": "peeled shrimp",
-                    "title_cn": "虾仁",
-                    "image": "peeled shrimp.png"
+                  "title_en": "peeled shrimp",
+                  "title_cn": "虾仁",
+                  "title_mm": "အခွံခွာထားသောပုဇွန်",
+                  "image": "peeled shrimp.png"
                 },
                 {
-                    "title_en": "ice",
-                    "title_cn": "冰",
-                    "image": "ice.png"
+                  "title_en": "ice",
+                  "title_cn": "冰",
+                  "title_mm": "ရေခဲ",
+                  "image": "ice.png"
                 },
                 {
-                    "title_en": "salmon",
-                    "title_cn": "三文鱼",
-                    "image": "salmon.png"
+                  "title_en": "salmon",
+                  "title_cn": "三文鱼",
+                  "title_mm": "ဆယ်လ်မွန်",
+                  "image": "salmon.png"
                 },
                 {
-                    "title_en": "tuna",
-                    "title_cn": "鲭鱼",
-                    "image": "tuna.png"
+                  "title_en": "tuna",
+                  "title_cn": "鲭鱼",
+                  "title_mm": "တူနာငါး",
+                  "image": "tuna.png"
                 },
                 {
-                    "title_en": "crab",
-                    "title_cn": "螃蟹",
-                    "image": "crab.png"
+                  "title_en": "crab",
+                  "title_cn": "螃蟹",
+                  "title_mm": "ဂဏန်း",
+                  "image": "crab.png"
                 },
                 {
-                    "title_en": "lobster",
-                    "title_cn": "龙虾",
-                    "image": "lobster.png"
+                  "title_en": "lobster",
+                  "title_cn": "龙虾",
+                  "title_mm": "ကျောက်ပုဇွန်",
+                  "image": "lobster.png"
                 },
                 {
-                    "title_en": "mussel",
-                    "title_cn": "蚌",
-                    "image": "mussel.png"
+                  "title_en": "mussel",
+                  "title_cn": "蚌",
+                  "title_mm": "ဂုံး",
+                  "image": "mussel.png"
                 },
                 {
-                    "title_en": "crayfish",
-                    "title_cn": "小龙虾",
-                    "image": "crayfish.png"
+                  "title_en": "crayfish",
+                  "title_cn": "小龙虾",
+                  "title_mm": "ရေချိုကျောက်ပုစွန်",
+                  "image": "crayfish.png"
                 },
                 {
-                    "title_en": "oyster",
-                    "title_cn": "牡蛎",
-                    "image": "oyster.png"
+                  "title_en": "oyster",
+                  "title_cn": "牡蛎",
+                  "title_mm": "ကမာ",
+                  "image": "oyster.png"
                 },
                 {
-                    "title_en": "cockle",
-                    "title_cn": "蜊",
-                    "image": "cockle.png"
+                  "title_en": "cockle",
+                  "title_cn": "蜊",
+                  "title_mm": "ကော့ကလီ",
+                  "image": "cockle.png"
                 },
                 {
-                    "title_en": "octopus",
-                    "title_cn": "章鱼",
-                    "image": "octopus.png"
+                  "title_en": "octopus",
+                  "title_cn": "章鱼",
+                  "title_mm": "ရေဘဝဲ",
+                  "image": "octopus.png"
                 },
                 {
-                    "title_en": "cuttlefish",
-                    "title_cn": "墨鱼",
-                    "image": "cuttlefish.png"
+                  "title_en": "cuttlefish",
+                  "title_cn": "墨鱼",
+                  "title_mm": "ကင်းမွန်",
+                  "image": "cuttlefish.png"
                 },
                 {
-                    "title_en": "squid",
-                    "title_cn": "鱿鱼",
-                    "image": "squid.png"
+                  "title_en": "squid",
+                  "title_cn": "鱿鱼",
+                  "title_mm": "ရေဘဝဲ",
+                  "image": "squid.png"
                 },
                 {
-                    "title_en": "clam",
-                    "title_cn": "蛤",
-                    "image": "clam.png"
+                  "title_en": "clam",
+                  "title_cn": "蛤",
+                  "title_mm": "ဂုံး",
+                  "image": "clam.png"
                 },
                 {
-                    "title_en": "steak",
-                    "title_cn": "鱼排",
-                    "image": "steak.png"
+                  "title_en": "steak",
+                  "title_cn": "鱼排",
+                  "title_mm": "အကင်",
+                  "image": "steak.png"
                 },
                 {
-                    "title_en": "tail",
-                    "title_cn": "鱼尾",
-                    "image": "tail.png"
+                  "title_en": "tail",
+                  "title_cn": "鱼尾",
+                  "title_mm": "အမြီး",
+                  "image": "tail.png"
                 },
                 {
-                    "title_en": "scale",
-                    "title_cn": "鱼鳞",
-                    "image": "scale.png"
+                  "title_en": "scale",
+                  "title_cn": "鱼鳞",
+                  "title_mm": "ငါးကြေးခွံ",
+                  "image": "scale.png"
                 },
                 {
-                    "title_en": "sushi",
-                    "title_cn": "寿司",
-                    "image": "sushi.png"
+                  "title_en": "sushi",
+                  "title_cn": "寿司",
+                  "title_mm": "ဆူရှီ",
+                  "image": "sushi.png"
                 },
                 {
-                    "title_en": "sashimi",
-                    "title_cn": "生鱼片",
-                    "image": "sashimi.png"
+                  "title_en": "sashimi",
+                  "title_cn": "生鱼片",
+                  "title_mm": "ဆာရှိမီ",
+                  "image": "sashimi.png"
                 }
-            ]
+              ]
         }
     ]
 }

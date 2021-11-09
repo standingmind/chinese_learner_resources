@@ -8,672 +8,784 @@
             "title_cn": "哺乳动物",
             "image": "mammals.png",
             "details": [
-                {
-                  "title_en": "giraffe",
-                  "title_cn": "长颈鹿",
-                  "image": "giraffe.png"
-                },
-                {
-                  "title_en": "deer",
-                  "title_cn": "鹿",
-                  "image": "deer.png"
-                },
-                {
-                  "title_en": "horse",
-                  "title_cn": "马",
-                  "image": "horse.png"
-                },
-                {
-                  "title_en": "sheep",
-                  "title_cn": "羊",
-                  "image": "sheep.png"
-                },
-                {
-                  "title_en": "squirrel",
-                  "title_cn": "松鼠",
-                  "image": "squirrel.png"
-                },
-                {
-                  "title_en": "dog",
-                  "title_cn": "狗",
-                  "image": "dog.png"
-                },
-                {
-                  "title_en": "cat",
-                  "title_cn": "猫",
-                  "image": "cat.png"
-                },
-                {
-                  "title_en": "pig",
-                  "title_cn": "猪",
-                  "image": "pig.png"
-                },
-                {
-                  "title_en": "lion",
-                  "title_cn": "狮子",
-                  "image": "lion.png"
-                },
-                {
-                  "title_en": "monkey",
-                  "title_cn": "猴",
-                  "image": "monkey.png"
-                },
-                {
-                  "title_en": "elephant",
-                  "title_cn": "大象",
-                  "image": "elephant.png"
-                },
-                {
-                  "title_en": "mouse",
-                  "title_cn": "鼠",
-                  "image": "mouse.png"
-                },
-                {
-                  "title_en": "fox",
-                  "title_cn": "狐狸",
-                  "image": "fox.png"
-                },
-                {
-                  "title_en": "kangaroo",
-                  "title_cn": "袋鼠",
-                  "image": "kangaroo.png"
-                },
-                {
-                  "title_en": "cow",
-                  "title_cn": "奶牛",
-                  "image": "cow.png"
-                },
-                {
-                  "title_en": "goat",
-                  "title_cn": "山羊",
-                  "image": "goat.png"
-                },
-                {
-                  "title_en": "otter",
-                  "title_cn": "獭",
-                  "image": "otter.png"
-                },
-                {
-                  "title_en": "raccoon",
-                  "title_cn": "狸",
-                  "image": "raccoon.png"
-                },
-                {
-                  "title_en": "hippopotamus",
-                  "title_cn": "河马",
-                  "image": "hippopotamus.png"
-                },
-                {
-                  "title_en": "mole",
-                  "title_cn": "痣",
-                  "image": "mole.png"
-                },
-                {
-                  "title_en": "chimpanzee",
-                  "title_cn": "黑猩猩",
-                  "image": "chimpanzee.png"
-                },
-                {
-                  "title_en": "walrus",
-                  "title_cn": "海象",
-                  "image": "walrus.png"
-                },
-                {
-                  "title_en": "hedgehog",
-                  "title_cn": "刺猬",
-                  "image": "hedgehog.png"
-                },
-                {
-                  "title_en": "panda",
-                  "title_cn": "熊猫",
-                  "image": "panda.png"
-                },
-                {
-                  "title_en": "rabbit",
-                  "title_cn": "兔子",
-                  "image": "rabbit.png"
-                },
-                {
-                  "title_en": "zebra",
-                  "title_cn": "斑马",
-                  "image": "zebra.png"
-                },
-                {
-                  "title_en": "bat",
-                  "title_cn": "蝙蝠",
-                  "image": "bat.png"
-                },
-                {
-                  "title_en": "tiger",
-                  "title_cn": "老虎",
-                  "image": "tiger.png"
-                }
-              ]
+              {
+                "title_en": "giraffe",
+                "title_cn": "长颈鹿",
+                "title_mm": "သစ်ကုလားအုတ်",
+                "image": "giraffe.png"
+              },
+              {
+                "title_en": "deer",
+                "title_cn": "鹿",
+                "title_mm": "သမင်",
+                "image": "deer.png"
+              },
+              {
+                "title_en": "horse",
+                "title_cn": "马",
+                "title_mm": "မြင်း",
+                "image": "horse.png"
+              },
+              {
+                "title_en": "sheep",
+                "title_cn": "羊",
+                "title_mm": "သိုး",
+                "image": "sheep.png"
+              },
+              {
+                "title_en": "squirrel",
+                "title_cn": "松鼠",
+                "title_mm": "ရှဉ့်",
+                "image": "squirrel.png"
+              },
+              {
+                "title_en": "dog",
+                "title_cn": "狗",
+                "title_mm": "ခွေး",
+                "image": "dog.png"
+              },
+              {
+                "title_en": "cat",
+                "title_cn": "猫",
+                "title_mm": "ကြောင်",
+                "image": "cat.png"
+              },
+              {
+                "title_en": "pig",
+                "title_cn": "猪",
+                "title_mm": "ဝက်",
+                "image": "pig.png"
+              },
+              {
+                "title_en": "lion",
+                "title_cn": "狮子",
+                "title_mm": "ခြင်္သေ့",
+                "image": "lion.png"
+              },
+              {
+                "title_en": "monkey",
+                "title_cn": "猴",
+                "title_mm": "မျောက်",
+                "image": "monkey.png"
+              },
+              {
+                "title_en": "elephant",
+                "title_cn": "大象",
+                "title_mm": "ဆင်",
+                "image": "elephant.png"
+              },
+              {
+                "title_en": "mouse",
+                "title_cn": "鼠",
+                "title_mm": "ကြွက်",
+                "image": "mouse.png"
+              },
+              {
+                "title_en": "fox",
+                "title_cn": "狐狸",
+                "title_mm": "မြေခွေး",
+                "image": "fox.png"
+              },
+              {
+                "title_en": "kangaroo",
+                "title_cn": "袋鼠",
+                "title_mm": "သားပိုက်ကောင်",
+                "image": "kangaroo.png"
+              },
+              {
+                "title_en": "cow",
+                "title_cn": "奶牛",
+                "title_mm": "နွားမ",
+                "image": "cow.png"
+              },
+              {
+                "title_en": "goat",
+                "title_cn": "山羊",
+                "title_mm": "ဆိတ်",
+                "image": "goat.png"
+              },
+              {
+                "title_en": "otter",
+                "title_cn": "獭",
+                "title_mm": "ဖျံ",
+                "image": "otter.png"
+              },
+              {
+                "title_en": "raccoon",
+                "title_cn": "狸",
+                "title_mm": "ရက်ကွန်း",
+                "image": "raccoon.png"
+              },
+              {
+                "title_en": "hippopotamus",
+                "title_cn": "河马",
+                "title_mm": "ရေမြင်း",
+                "image": "hippopotamus.png"
+              },
+              {
+                "title_en": "mole",
+                "title_cn": "鼹",
+                "title_mm": "ပွေး",
+                "image": "mole.png"
+              },
+              {
+                "title_en": "chimpanzee",
+                "title_cn": "黑猩猩",
+                "title_mm": "ချင်ပန်ဇီ",
+                "image": "chimpanzee.png"
+              },
+              {
+                "title_en": "walrus",
+                "title_cn": "海象",
+                "title_mm": "ဝါးလရပ်ဖျံ",
+                "image": "walrus.png"
+              },
+              {
+                "title_en": "hedgehog",
+                "title_cn": "刺猬",
+                "title_mm": "ဖြူကောင်",
+                "image": "hedgehog.png"
+              },
+              {
+                "title_en": "panda",
+                "title_cn": "熊猫",
+                "title_mm": "ပန်ဒါ",
+                "image": "panda.png"
+              },
+              {
+                "title_en": "rabbit",
+                "title_cn": "兔子",
+                "title_mm": "ယုန်",
+                "image": "rabbit.png"
+              },
+              {
+                "title_en": "zebra",
+                "title_cn": "斑马",
+                "title_mm": "မြင်းကျား",
+                "image": "zebra.png"
+              },
+              {
+                "title_en": "bat",
+                "title_cn": "蝙蝠",
+                "title_mm": "လင်းနို့",
+                "image": "bat.png"
+              },
+              {
+                "title_en": "tiger",
+                "title_cn": "老虎",
+                "title_mm": "ကျား",
+                "image": "tiger.png"
+              }
+            ]
         },
         {
             "title_en": "birds",
             "title_cn": "鸟",
             "image": "birds.png",
             "details": [
-                {
-                  "title_en": "eagle",
-                  "title_cn": "鹰",
-                  "image": "eagle.png"
-                },
-                {
-                  "title_en": "duck",
-                  "title_cn": "鸭子",
-                  "image": "duck.png"
-                },
-                {
-                  "title_en": "dove",
-                  "title_cn": "鸽子",
-                  "image": "dove.png"
-                },
-                {
-                  "title_en": "cuckoo",
-                  "title_cn": "布谷鸟",
-                  "image": "cuckoo.png"
-                },
-                {
-                  "title_en": "crow",
-                  "title_cn": "乌鸦",
-                  "image": "crow.png"
-                },
-                {
-                  "title_en": "crane",
-                  "title_cn": "鹤",
-                  "image": "crane.png"
-                },
-                {
-                  "title_en": "cormorant",
-                  "title_cn": "鸬鹚",
-                  "image": "cormorant.png"
-                },
-                {
-                  "title_en": "canary",
-                  "title_cn": "金丝雀",
-                  "image": "canary.png"
-                },
-                {
-                  "title_en": "woodpecker",
-                  "title_cn": "啄木鸟",
-                  "image": "woodpecker.png"
-                },
-                {
-                  "title_en": "weaverbird",
-                  "title_cn": "织布鸟",
-                  "image": "weaverbird.png"
-                },
-                {
-                  "title_en": "wagtails",
-                  "title_cn": "鹡鸰",
-                  "image": "wagtails.png"
-                },
-                {
-                  "title_en": "vulture",
-                  "title_cn": "秃鹫",
-                  "image": "vulture.png"
-                },
-                {
-                  "title_en": "turkey",
-                  "title_cn": "火鸡",
-                  "image": "turkey.png"
-                },
-                {
-                  "title_en": "toucans",
-                  "title_cn": "巨嘴鸟",
-                  "image": "toucans.png"
-                },
-                {
-                  "title_en": "tailorbird",
-                  "title_cn": "裁缝鸟",
-                  "image": "tailorbird.png"
-                },
-                {
-                  "title_en": "swan",
-                  "title_cn": "天鹅",
-                  "image": "swan.png"
-                },
-                {
-                  "title_en": "quail",
-                  "title_cn": "鹌鹑",
-                  "image": "quail.png"
-                },
-                {
-                  "title_en": "pigeon",
-                  "title_cn": "鸽子",
-                  "image": "pigeon.png"
-                },
-                {
-                  "title_en": "pheasant",
-                  "title_cn": "野鸡",
-                  "image": "pheasant.png"
-                },
-                {
-                  "title_en": "penguin",
-                  "title_cn": "企鹅",
-                  "image": "penguin.png"
-                },
-                {
-                  "title_en": "swallow",
-                  "title_cn": "燕",
-                  "image": "swallow.png"
-                },
-                {
-                  "title_en": "pelican",
-                  "title_cn": "鹈",
-                  "image": "pelican.png"
-                },
-                {
-                  "title_en": "partridge",
-                  "title_cn": "鹧鸪",
-                  "image": "partridge.png"
-                },
-                {
-                  "title_en": "nightingale",
-                  "title_cn": "夜莺",
-                  "image": "nightingale.png"
-                },
-                {
-                  "title_en": "stork",
-                  "title_cn": "鹳",
-                  "image": "stork.png"
-                },
-                {
-                  "title_en": "peacock",
-                  "title_cn": "孔雀",
-                  "image": "peacock.png"
-                },
-                {
-                  "title_en": "parrot",
-                  "title_cn": "鹦鹉",
-                  "image": "parrot.png"
-                },
-                {
-                  "title_en": "owl",
-                  "title_cn": "猫头鹰",
-                  "image": "owl.png"
-                },
-                {
-                  "title_en": "hummingbird",
-                  "title_cn": "蜂鸟",
-                  "image": "hummingbird.png"
-                },
-                {
-                  "title_en": "starling",
-                  "title_cn": "八哥",
-                  "image": "starling.png"
-                },
-                {
-                  "title_en": "rooster",
-                  "title_cn": "公鸡",
-                  "image": "rooster.png"
-                },
-                {
-                  "title_en": "hornbill",
-                  "title_cn": "犀鸟",
-                  "image": "hornbill.png"
-                },
-                {
-                  "title_en": "hoatzin",
-                  "title_cn": "霍津",
-                  "image": "hoatzin.png"
-                },
-                {
-                  "title_en": "sparrow",
-                  "title_cn": "麻雀",
-                  "image": "sparrow.png"
-                },
-                {
-                  "title_en": "hen",
-                  "title_cn": "母鸡",
-                  "image": "hen.png"
-                },
-                {
-                  "title_en": "guineafowl",
-                  "title_cn": "珍珠鸡",
-                  "image": "guineafowl.png"
-                },
-                {
-                  "title_en": "skylark",
-                  "title_cn": "云雀",
-                  "image": "skylark.png"
-                },
-                {
-                  "title_en": "seagull",
-                  "title_cn": "海鸥",
-                  "image": "seagull.png"
-                },
-                {
-                  "title_en": "hawk",
-                  "title_cn": "鹰",
-                  "image": "hawk.png"
-                },
-                {
-                  "title_en": "raven",
-                  "title_cn": "乌鸦",
-                  "image": "raven.png"
-                },
-                {
-                  "title_en": "goose",
-                  "title_cn": "鹅",
-                  "image": "goose.png"
-                },
-                {
-                  "title_en": "oriole",
-                  "title_cn": "金莺",
-                  "image": "oriole.png"
-                },
-                {
-                  "title_en": "goldfinch",
-                  "title_cn": "金翅雀",
-                  "image": "goldfinch.png"
-                },
-                {
-                  "title_en": "flamingo",
-                  "title_cn": "火烈鸟",
-                  "image": "flamingo.png"
-                },
-                {
-                  "title_en": "myna",
-                  "title_cn": "八哥",
-                  "image": "myna.png"
-                },
-                {
-                  "title_en": "magpie",
-                  "title_cn": "鹊",
-                  "image": "magpie.png"
-                },
-                {
-                  "title_en": "macaw",
-                  "title_cn": "金刚鹦鹉",
-                  "image": "macaw.png"
-                },
-                {
-                  "title_en": "kingfisher",
-                  "title_cn": "翠鸟",
-                  "image": "kingfisher.png"
-                },
-                {
-                  "title_en": "ostrich",
-                  "title_cn": "鸵鸟",
-                  "image": "ostrich.png"
-                },
-                {
-                  "title_en": "kestrel",
-                  "title_cn": "红隼",
-                  "image": "kestrel.png"
-                },
-                {
-                  "title_en": "jay",
-                  "title_cn": "杰",
-                  "image": "jay.png"
-                }
-              ]
+              {
+                "eagle": "duck",
+                "鹰": "鸭子",
+                "လင်းယုန်": "ဘဲ",
+                "eagle.png": "duck.png"
+              },
+              {
+                "eagle": "dove",
+                "鹰": "鸽子",
+                "လင်းယုန်": "ခိုမျိုး",
+                "eagle.png": "dove.png"
+              },
+              {
+                "eagle": "cuckoo",
+                "鹰": "布谷鸟",
+                "လင်းယုန်": "မိုးဆောင်းငှက်",
+                "eagle.png": "cuckoo.png"
+              },
+              {
+                "eagle": "crow",
+                "鹰": "乌鸦",
+                "လင်းယုန်": "ကျီးကန်း",
+                "eagle.png": "crow.png"
+              },
+              {
+                "eagle": "crane",
+                "鹰": "鹤",
+                "လင်းယုန်": "ကရိန်းငှက်",
+                "eagle.png": "crane.png"
+              },
+              {
+                "eagle": "cormorant",
+                "鹰": "鸬鹚",
+                "လင်းယုန်": "တင်ကျီးငှက်",
+                "eagle.png": "cormorant.png"
+              },
+              {
+                "eagle": "canary",
+                "鹰": "金丝雀",
+                "လင်းယုန်": "ကိန္နရီငှက်",
+                "eagle.png": "canary.png"
+              },
+              {
+                "eagle": "woodpecker",
+                "鹰": "啄木鸟",
+                "လင်းယုန်": "သစ်တောက်ငှက်",
+                "eagle.png": "woodpecker.png"
+              },
+              {
+                "eagle": "weaverbird",
+                "鹰": "织布鸟",
+                "လင်းယုန်": "ရက်ကန်းသမားငှက်",
+                "eagle.png": "weaverbird.png"
+              },
+              {
+                "eagle": "wagtails",
+                "鹰": "鹡鸰",
+                "လင်းယုန်": "မြီးညှောင့်ငှက်မျို",
+                "eagle.png": "wagtails.png"
+              },
+              {
+                "eagle": "vulture",
+                "鹰": "秃鹫",
+                "လင်းယုန်": "လင်းတ",
+                "eagle.png": "vulture.png"
+              },
+              {
+                "eagle": "turkey",
+                "鹰": "火鸡",
+                "လင်းယုန်": "ကြက်ဆင်",
+                "eagle.png": "turkey.png"
+              },
+              {
+                "eagle": "toucans",
+                "鹰": "巨嘴鸟",
+                "လင်းယုန်": "ကော့ယင်ငှက်",
+                "eagle.png": "toucans.png"
+              },
+              {
+                "eagle": "tailorbird",
+                "鹰": "裁缝鸟",
+                "လင်းယုန်": "နှံပြည်စုတ်",
+                "eagle.png": "tailorbird.png"
+              },
+              {
+                "eagle": "swan",
+                "鹰": "天鹅",
+                "လင်းယုန်": "ငန်း",
+                "eagle.png": "swan.png"
+              },
+              {
+                "eagle": "quail",
+                "鹰": "鹌鹑",
+                "လင်းယုန်": "ငုံး",
+                "eagle.png": "quail.png"
+              },
+              {
+                "eagle": "pigeon",
+                "鹰": "鸽子",
+                "လင်းယုန်": "ခို",
+                "eagle.png": "pigeon.png"
+              },
+              {
+                "eagle": "pheasant",
+                "鹰": "野鸡",
+                "လင်းယုန်": "ရစ်ငှက်",
+                "eagle.png": "pheasant.png"
+              },
+              {
+                "eagle": "penguin",
+                "鹰": "企鹅",
+                "လင်းယုန်": "ပင်ဂွင်း",
+                "eagle.png": "penguin.png"
+              },
+              {
+                "eagle": "swallow",
+                "鹰": "燕",
+                "လင်းယုန်": "ပျံလွှားငှက်",
+                "eagle.png": "swallow.png"
+              },
+              {
+                "eagle": "pelican",
+                "鹰": "鹈",
+                "လင်းယုန်": "ဝန်ပိုငှက်",
+                "eagle.png": "pelican.png"
+              },
+              {
+                "eagle": "partridge",
+                "鹰": "鹧鸪",
+                "လင်းယုန်": "ခါငှက်မျို",
+                "eagle.png": "partridge.png"
+              },
+              {
+                "eagle": "nightingale",
+                "鹰": "夜莺",
+                "လင်းယုန်": "နိုက်တင်ဂေးလ်",
+                "eagle.png": "nightingale.png"
+              },
+              {
+                "eagle": "stork",
+                "鹰": "鹳",
+                "လင်းယုန်": "ထုံးစပ်ငှက်",
+                "eagle.png": "stork.png"
+              },
+              {
+                "eagle": "peacock",
+                "鹰": "孔雀",
+                "လင်းယုန်": "ဒေါင်း",
+                "eagle.png": "peacock.png"
+              },
+              {
+                "eagle": "parrot",
+                "鹰": "鹦鹉",
+                "လင်းယုန်": "ကြက်တူရွေး",
+                "eagle.png": "parrot.png"
+              },
+              {
+                "eagle": "owl",
+                "鹰": "猫头鹰",
+                "လင်းယုန်": "ဇီးကွက်",
+                "eagle.png": "owl.png"
+              },
+              {
+                "eagle": "hummingbird",
+                "鹰": "蜂鸟",
+                "လင်းယုန်": "ငှက်ပိတုန်း",
+                "eagle.png": "hummingbird.png"
+              },
+              {
+                "eagle": "starling",
+                "鹰": "八哥",
+                "လင်းယုန်": "စတာလင်ဆက်ရက်",
+                "eagle.png": "starling.png"
+              },
+              {
+                "eagle": "rooster",
+                "鹰": "公鸡",
+                "လင်းယုန်": "ကြက်ဖ",
+                "eagle.png": "rooster.png"
+              },
+              {
+                "eagle": "hornbill",
+                "鹰": "犀鸟",
+                "လင်းယုန်": "အောက်ချင်းငှက်",
+                "eagle.png": "hornbill.png"
+              },
+              {
+                "eagle": "sparrow",
+                "鹰": "麻雀",
+                "လင်းယုန်": "စာကလေး",
+                "eagle.png": "sparrow.png"
+              },
+              {
+                "eagle": "hen",
+                "鹰": "母鸡",
+                "လင်းယုန်": "ကြက်မ",
+                "eagle.png": "hen.png"
+              },
+              {
+                "eagle": "guineafowl",
+                "鹰": "珍珠鸡",
+                "လင်းယုန်": "ရစ်ငှက်ကြီး",
+                "eagle.png": "guineafowl.png"
+              },
+              {
+                "eagle": "skylark",
+                "鹰": "云雀",
+                "လင်းယုန်": "ဘီလုံးငှက်",
+                "eagle.png": "skylark.png"
+              },
+              {
+                "eagle": "seagull",
+                "鹰": "海鸥",
+                "လင်းယုန်": "ပင်လယ်ဇင်ယော်",
+                "eagle.png": "seagull.png"
+              },
+              {
+                "eagle": "hawk",
+                "鹰": "鹰",
+                "လင်းယုန်": "သိမ်းငှက်",
+                "eagle.png": "hawk.png"
+              },
+              {
+                "eagle": "raven",
+                "鹰": "乌鸦",
+                "လင်းယုန်": "ကျီး",
+                "eagle.png": "raven.png"
+              },
+              {
+                "eagle": "goose",
+                "鹰": "鹅",
+                "လင်းယုန်": "ဘဲငန်း",
+                "eagle.png": "goose.png"
+              },
+              {
+                "eagle": "oriole",
+                "鹰": "金莺",
+                "လင်းယုန်": "oriole",
+                "eagle.png": "oriole.png"
+              },
+              {
+                "eagle": "goldfinch",
+                "鹰": "金翅雀",
+                "လင်းယုန်": "goldfinch",
+                "eagle.png": "goldfinch.png"
+              },
+              {
+                "eagle": "flamingo",
+                "鹰": "火烈鸟",
+                "လင်းယုန်": "ကြိုးကြာနီ",
+                "eagle.png": "flamingo.png"
+              },
+              {
+                "eagle": "myna",
+                "鹰": "八哥",
+                "လင်းယုန်": "သာလိကာ",
+                "eagle.png": "myna.png"
+              },
+              {
+                "eagle": "magpie",
+                "鹰": "鹊",
+                "လင်းယုန်": "ငှက်ကျား",
+                "eagle.png": "magpie.png"
+              },
+              {
+                "eagle": "macaw",
+                "鹰": "金刚鹦鹉",
+                "လင်းယုန်": "မကောကြက်တူရွေ",
+                "eagle.png": "macaw.png"
+              },
+              {
+                "eagle": "kingfisher",
+                "鹰": "翠鸟",
+                "လင်းယုန်": "ပိန်ညင်းငှက်",
+                "eagle.png": "kingfisher.png"
+              },
+              {
+                "eagle": "ostrich",
+                "鹰": "鸵鸟",
+                "လင်းယုန်": "ငှက်ကုလားအုတ်",
+                "eagle.png": "ostrich.png"
+              },
+              {
+                "eagle": "kestrel",
+                "鹰": "红隼",
+                "လင်းယုန်": "kestrel",
+                "eagle.png": "kestrel.png"
+              },
+              {
+                "eagle": "jay",
+                "鹰": "松鸦",
+                "လင်းယုန်": "ဗွတ်ကုလား",
+                "eagle.png": "jay.png"
+              }
+            ]
         },
         {
             "title_en": "reptiles",
             "title_cn": "爬行动物",
             "image": "reptiles.png",
             "details": [
-                {
-                  "title_en": "aldabra giant tortoise",
-                  "title_cn": "阿尔达布拉巨龟",
-                  "image": "aldabra giant tortoise.png"
-                },
-                {
-                  "title_en": "alligator",
-                  "title_cn": "鳄鱼",
-                  "image": "alligator.png"
-                },
-                {
-                  "title_en": "australian gecko",
-                  "title_cn": "澳大利亚壁虎",
-                  "image": "australian gecko.png"
-                },
-                {
-                  "title_en": "bearded dragon",
-                  "title_cn": "大胡子龙",
-                  "image": "bearded dragon.png"
-                },
-                {
-                  "title_en": "blue iguana",
-                  "title_cn": "蓝鬣蜥",
-                  "image": "blue iguana.png"
-                },
-                {
-                  "title_en": "box turtle",
-                  "title_cn": "箱龟",
-                  "image": "box turtle.png"
-                },
-                {
-                  "title_en": "burmese python",
-                  "title_cn": "缅甸蟒",
-                  "image": "burmese python.png"
-                },
-                {
-                  "title_en": "desert tortoise",
-                  "title_cn": "沙漠龟",
-                  "image": "desert tortoise.png"
-                },
-                {
-                  "title_en": "draco volans",
-                  "title_cn": "天龙人",
-                  "image": "draco volans.png"
-                },
-                {
-                  "title_en": "dwarf crocodile",
-                  "title_cn": "侏儒鳄鱼",
-                  "image": "dwarf crocodile.png"
-                },
-                {
-                  "title_en": "eastern fence lizard",
-                  "title_cn": "东篱蜥蜴",
-                  "image": "eastern fence lizard.png"
-                },
-                {
-                  "title_en": "frilled lizard",
-                  "title_cn": "褶边蜥蜴",
-                  "image": "frilled lizard.png"
-                },
-                {
-                  "title_en": "galapagos tortoise",
-                  "title_cn": "加拉帕戈斯象龟",
-                  "image": "galapagos tortoise.png"
-                },
-                {
-                  "title_en": "gecko",
-                  "title_cn": "壁虎",
-                  "image": "gecko.png"
-                },
-                {
-                  "title_en": "gharial",
-                  "title_cn": "加里亚尔",
-                  "image": "gharial.png"
-                },
-                {
-                  "title_en": "gila monster",
-                  "title_cn": "吉拉怪物",
-                  "image": "gila monster.png"
-                },
-                {
-                  "title_en": "glass lizard",
-                  "title_cn": "玻璃蜥蜴",
-                  "image": "glass lizard.png"
-                },
-                {
-                  "title_en": "gopher tortoise",
-                  "title_cn": "地鼠龟",
-                  "image": "gopher tortoise.png"
-                },
-                {
-                  "title_en": "green anole",
-                  "title_cn": "绿色 Anole",
-                  "image": "green anole.png"
-                },
-                {
-                  "title_en": "horned lizard",
-                  "title_cn": "角蜥蜴",
-                  "image": "horned lizard.png"
-                },
-                {
-                  "title_en": "iguana",
-                  "title_cn": "鬣蜥",
-                  "image": "iguana.png"
-                },
-                {
-                  "title_en": "indian star tortoise",
-                  "title_cn": "印度星龟",
-                  "image": "indian star tortoise.png"
-                },
-                {
-                  "title_en": "jackson’s chameleon",
-                  "title_cn": "杰克逊的变色龙",
-                  "image": "jackson’s chameleon.png"
-                },
-                {
-                  "title_en": "king cobra",
-                  "title_cn": "眼镜王蛇",
-                  "image": "king cobra.png"
-                },
-                {
-                  "title_en": "komodo dragon",
-                  "title_cn": "科莫多巨蜥",
-                  "image": "komodo dragon.png"
-                },
-                {
-                  "title_en": "leaf-tailed gecko",
-                  "title_cn": "叶尾壁虎",
-                  "image": "leaf-tailed gecko.png"
-                },
-                {
-                  "title_en": "leopard tortoise",
-                  "title_cn": "豹龟",
-                  "image": "leopard tortoise.png"
-                },
-                {
-                  "title_en": "lizard",
-                  "title_cn": "蜥蜴",
-                  "image": "lizard.png"
-                },
-                {
-                  "title_en": "marine iguana",
-                  "title_cn": "海鬣蜥",
-                  "image": "marine iguana.png"
-                },
-                {
-                  "title_en": "mexican alligator lizard",
-                  "title_cn": "墨西哥鳄鱼蜥蜴",
-                  "image": "mexican alligator lizard.png"
-                },
-                {
-                  "title_en": "mexican mole lizard",
-                  "title_cn": "墨西哥鼹鼠蜥蜴",
-                  "image": "mexican mole lizard.png"
-                },
-                {
-                  "title_en": "nile crocodile",
-                  "title_cn": "尼罗河鳄鱼",
-                  "image": "nile crocodile.png"
-                },
-                {
-                  "title_en": "northern alligator lizard",
-                  "title_cn": "北鳄鱼蜥蜴",
-                  "image": "northern alligator lizard.png"
-                },
-                {
-                  "title_en": "painted turtle",
-                  "title_cn": "彩绘龟",
-                  "image": "painted turtle.png"
-                },
-                {
-                  "title_en": "radiated tortoise",
-                  "title_cn": "辐射陆龟",
-                  "image": "radiated tortoise.png"
-                },
-                {
-                  "title_en": "rattlesnake",
-                  "title_cn": "响尾蛇",
-                  "image": "rattlesnake.png"
-                },
-                {
-                  "title_en": "river turtle",
-                  "title_cn": "河龟",
-                  "image": "river turtle.png"
-                },
-                {
-                  "title_en": "russian tortoise",
-                  "title_cn": "俄罗斯陆龟",
-                  "image": "russian tortoise.png"
-                },
-                {
-                  "title_en": "sand lizard",
-                  "title_cn": "沙蜥蜴",
-                  "image": "sand lizard.png"
-                },
-                {
-                  "title_en": "satanic leaf-tailed gecko",
-                  "title_cn": "撒旦叶尾壁虎",
-                  "image": "satanic leaf-tailed gecko.png"
-                },
-                {
-                  "title_en": "sea turtle",
-                  "title_cn": "海龟",
-                  "image": "sea turtle.png"
-                },
-                {
-                  "title_en": "sharp-tailed snake",
-                  "title_cn": "尖尾蛇",
-                  "image": "sharp-tailed snake.png"
-                },
-                {
-                  "title_en": "slow worm",
-                  "title_cn": "慢虫",
-                  "image": "slow worm.png"
-                },
-                {
-                  "title_en": "snake",
-                  "title_cn": "蛇",
-                  "image": "snake.png"
-                },
-                {
-                  "title_en": "spiny hill turtle",
-                  "title_cn": "刺山龟",
-                  "image": "spiny hill turtle.png"
-                },
-                {
-                  "title_en": "sulcata tortoise",
-                  "title_cn": "苏卡达陆龟",
-                  "image": "sulcata tortoise.png"
-                },
-                {
-                  "title_en": "thorny devil",
-                  "title_cn": "棘手的恶魔",
-                  "image": "thorny devil.png"
-                },
-                {
-                  "title_en": "tortoise",
-                  "title_cn": "乌龟",
-                  "image": "tortoise.png"
-                },
-                {
-                  "title_en": "virgin islands dwarf gecko",
-                  "title_cn": "维尔京群岛侏儒壁虎",
-                  "image": "virgin islands dwarf gecko.png"
-                },
-                {
-                  "title_en": "wood turtle",
-                  "title_cn": "木龟",
-                  "image": "wood turtle.png"
-                }
-              ]
-        },
-        {
-            "title_en": "weather",
-            "title_cn": "天气",
-            "image": "weather.png",
-            "details": []
+              {
+                "title_en": "aldabra giant tortoise",
+                "title_cn": "阿尔达布拉巨龟",
+                "title_mm": "Aldabra ဧရာမလိပ်",
+                "image": "aldabra giant tortoise.png"
+              },
+              {
+                "title_en": "alligator",
+                "title_cn": "鳄鱼",
+                "title_mm": "မိကျောင်း",
+                "image": "alligator.png"
+              },
+              {
+                "title_en": "australian gecko",
+                "title_cn": "澳大利亚壁虎",
+                "title_mm": "သြစတြေးလျတောက်တဲ့",
+                "image": "australian gecko.png"
+              },
+              {
+                "title_en": "bearded dragon",
+                "title_cn": "大胡子龙",
+                "title_mm": "မုတ်ဆိတ်မွေးနဂါး",
+                "image": "bearded dragon.png"
+              },
+              {
+                "title_en": "blue iguana",
+                "title_cn": "蓝鬣蜥",
+                "title_mm": "အီကွားနာဖွတ်",
+                "image": "blue iguana.png"
+              },
+              {
+                "title_en": "box turtle",
+                "title_cn": "箱龟",
+                "title_mm": "သေတ္တာလိပ်",
+                "image": "box turtle.png"
+              },
+              {
+                "title_en": "burmese python",
+                "title_cn": "缅甸蟒",
+                "title_mm": "ဗမာစပါးအုံး",
+                "image": "burmese python.png"
+              },
+              {
+                "title_en": "desert tortoise",
+                "title_cn": "沙漠龟",
+                "title_mm": "ကန္တာရလိပ်",
+                "image": "desert tortoise.png"
+              },
+              {
+                "title_en": "draco volans",
+                "title_cn": "天龙人",
+                "title_mm": "draco volans",
+                "image": "draco volans.png"
+              },
+              {
+                "title_en": "dwarf crocodile",
+                "title_cn": "侏儒鳄鱼",
+                "title_mm": "dwarf မိကျောင်း",
+                "image": "dwarf crocodile.png"
+              },
+              {
+                "title_en": "eastern fence lizard",
+                "title_cn": "东篱蜥蜴",
+                "title_mm": "eastern fence အိမ်မြှောင်",
+                "image": "eastern fence lizard.png"
+              },
+              {
+                "title_en": "frilled lizard",
+                "title_cn": "褶边蜥蜴",
+                "title_mm": "frilled အိမ်မြှောင်",
+                "image": "frilled lizard.png"
+              },
+              {
+                "title_en": "galapagos tortoise",
+                "title_cn": "加拉帕戈斯象龟",
+                "title_mm": "Galapagos လိပ်",
+                "image": "galapagos tortoise.png"
+              },
+              {
+                "title_en": "gecko",
+                "title_cn": "壁虎",
+                "title_mm": "တောက်တဲ့",
+                "image": "gecko.png"
+              },
+              {
+                "title_en": "gharial",
+                "title_cn": "加里亚尔",
+                "title_mm": "ဂင်္ဂါမိကျောင်း",
+                "image": "gharial.png"
+              },
+              {
+                "title_en": "gila monster",
+                "title_cn": "吉拉怪物",
+                "title_mm": "gila monster",
+                "image": "gila monster.png"
+              },
+              {
+                "title_en": "glass lizard",
+                "title_cn": "玻璃蜥蜴",
+                "title_mm": "ဖန်ခွက်အိမ်မြှောင်",
+                "image": "glass lizard.png"
+              },
+              {
+                "title_en": "gopher tortoise",
+                "title_cn": "地鼠龟",
+                "title_mm": "gopher လိပ်",
+                "image": "gopher tortoise.png"
+              },
+              {
+                "title_en": "green anole",
+                "title_cn": "绿色 Anole",
+                "title_mm": "အစိမ်းရောင် anole",
+                "image": "green anole.png"
+              },
+              {
+                "title_en": "horned lizard",
+                "title_cn": "角蜥蜴",
+                "title_mm": "ချိုမြှောင်",
+                "image": "horned lizard.png"
+              },
+              {
+                "title_en": "iguana",
+                "title_cn": "鬣蜥",
+                "title_mm": "ဖွတ်",
+                "image": "iguana.png"
+              },
+              {
+                "title_en": "indian star tortoise",
+                "title_cn": "印度星龟",
+                "title_mm": "အိန္ဒိယကြယ်လိပ်",
+                "image": "indian star tortoise.png"
+              },
+              {
+                "title_en": "jackson’s chameleon",
+                "title_cn": "杰克逊的变色龙",
+                "title_mm": "jackson ပုတ်သင်ညို",
+                "image": "jackson’s chameleon.png"
+              },
+              {
+                "title_en": "king cobra",
+                "title_cn": "眼镜王蛇",
+                "title_mm": "မြွေဟောက်",
+                "image": "king cobra.png"
+              },
+              {
+                "title_en": "komodo dragon",
+                "title_cn": "科莫多巨蜥",
+                "title_mm": "ကိုမိုဒိုနဂါး",
+                "image": "komodo dragon.png"
+              },
+              {
+                "title_en": "leaf-tailed gecko",
+                "title_cn": "叶尾壁虎",
+                "title_mm": "အရွက်မြီးတောက်တဲ့",
+                "image": "leaf-tailed gecko.png"
+              },
+              {
+                "title_en": "leopard tortoise",
+                "title_cn": "豹龟",
+                "title_mm": "ကျားသစ်လိပ်",
+                "image": "leopard tortoise.png"
+              },
+              {
+                "title_en": "lizard",
+                "title_cn": "蜥蜴",
+                "title_mm": "အိမ်မြှောင်",
+                "image": "lizard.png"
+              },
+              {
+                "title_en": "marine iguana",
+                "title_cn": "海鬣蜥",
+                "title_mm": "အဏ္ဏဝါ ဖွတ်",
+                "image": "marine iguana.png"
+              },
+              {
+                "title_en": "mexican alligator lizard",
+                "title_cn": "墨西哥鳄鱼蜥蜴",
+                "title_mm": "မက္ကဆီကန် မိကျောင်းလိပ်ပြာ",
+                "image": "mexican alligator lizard.png"
+              },
+              {
+                "title_en": "mexican mole lizard",
+                "title_cn": "墨西哥鼹鼠蜥蜴",
+                "title_mm": "မက္ကဆီကန် မှဲ့ပုတ်သင်",
+                "image": "mexican mole lizard.png"
+              },
+              {
+                "title_en": "nile crocodile",
+                "title_cn": "尼罗河鳄鱼",
+                "title_mm": "နိုင်းမိကျောင်း",
+                "image": "nile crocodile.png"
+              },
+              {
+                "title_en": "northern alligator lizard",
+                "title_cn": "北鳄鱼蜥蜴",
+                "title_mm": "မြောက်ပိုင်း မိကျောင်းလိပ်",
+                "image": "northern alligator lizard.png"
+              },
+              {
+                "title_en": "painted turtle",
+                "title_cn": "彩绘龟",
+                "title_mm": "လိပ်ခြယ်",
+                "image": "painted turtle.png"
+              },
+              {
+                "title_en": "radiated tortoise",
+                "title_cn": "辐射陆龟",
+                "title_mm": "ရောင်ခြည်လိပ်",
+                "image": "radiated tortoise.png"
+              },
+              {
+                "title_en": "rattlesnake",
+                "title_cn": "响尾蛇",
+                "title_mm": "မြွေပွေး",
+                "image": "rattlesnake.png"
+              },
+              {
+                "title_en": "river turtle",
+                "title_cn": "河龟",
+                "title_mm": "မြစ်လိပ်",
+                "image": "river turtle.png"
+              },
+              {
+                "title_en": "russian tortoise",
+                "title_cn": "俄罗斯陆龟",
+                "title_mm": "ရုရှားလိပ်",
+                "image": "russian tortoise.png"
+              },
+              {
+                "title_en": "sand lizard",
+                "title_cn": "沙蜥蜴",
+                "title_mm": "သဲလစ်ဇတ်",
+                "image": "sand lizard.png"
+              },
+              {
+                "title_en": "satanic leaf-tailed gecko",
+                "title_cn": "撒旦叶尾壁虎",
+                "title_mm": "ဆာတန် အရွက်မြီးတောက်တဲ့",
+                "image": "satanic leaf-tailed gecko.png"
+              },
+              {
+                "title_en": "sea turtle",
+                "title_cn": "海龟",
+                "title_mm": "ပင်လယ်လိပ်",
+                "image": "sea turtle.png"
+              },
+              {
+                "title_en": "sharp-tailed snake",
+                "title_cn": "尖尾蛇",
+                "title_mm": "အမြီးချွန်မြွေ",
+                "image": "sharp-tailed snake.png"
+              },
+              {
+                "title_en": "slow worm",
+                "title_cn": "慢虫",
+                "title_mm": "သန်ကောင်",
+                "image": "slow worm.png"
+              },
+              {
+                "title_en": "snake",
+                "title_cn": "蛇",
+                "title_mm": "မြွေ",
+                "image": "snake.png"
+              },
+              {
+                "title_en": "spiny hill turtle",
+                "title_cn": "刺山龟",
+                "title_mm": "spiny ကုန်းလိပ်",
+                "image": "spiny hill turtle.png"
+              },
+              {
+                "title_en": "sulcata tortoise",
+                "title_cn": "苏卡达陆龟",
+                "title_mm": "sulcata လိပ်",
+                "image": "sulcata tortoise.png"
+              },
+              {
+                "title_en": "thorny devil",
+                "title_cn": "棘手的恶魔",
+                "title_mm": "ဆူးမာရ်နတ်",
+                "image": "thorny devil.png"
+              },
+              {
+                "title_en": "tortoise",
+                "title_cn": "乌龟",
+                "title_mm": "လိပ်",
+                "image": "tortoise.png"
+              },
+              {
+                "title_en": "virgin islands dwarf gecko",
+                "title_cn": "维尔京群岛侏儒壁虎",
+                "title_mm": "အပျိုစင်ကျွန်းများတောက်တဲ့",
+                "image": "virgin islands dwarf gecko.png"
+              },
+              {
+                "title_en": "wood turtle",
+                "title_cn": "木龟",
+                "title_mm": "သစ်သားလိပ်",
+                "image": "wood turtle.png"
+              }
+            ]
         }
+        
     ]
 }

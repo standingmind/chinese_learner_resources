@@ -8,152 +8,181 @@
             "title_cn": "疾病",
             "image": "illness.png",
             "details": [
-                {
-                  "title_en": "nausea",
-                  "title_cn": "恶心",
-                  "image": "nausea.png"
-                },
-                {
-                  "title_en": "fever",
-                  "title_cn": "发烧",
-                  "image": "fever.png"
-                },
-                {
-                  "title_en": "inhaler",
-                  "title_cn": "吸入器",
-                  "image": "inhaler.png"
-                },
-                {
-                  "title_en": "asthma",
-                  "title_cn": "哮喘",
-                  "image": "asthma.png"
-                },
-                {
-                  "title_en": "cramps",
-                  "title_cn": "抽筋",
-                  "image": "cramps.png"
-                },
-                {
-                  "title_en": "headache",
-                  "title_cn": "头痛",
-                  "image": "headache.png"
-                },
-                {
-                  "title_en": "nosebleed",
-                  "title_cn": "鼻出血",
-                  "image": "nosebleed.png"
-                },
-                {
-                  "title_en": "cough",
-                  "title_cn": "咳嗽",
-                  "image": "cough.png"
-                },
-                {
-                  "title_en": "sneeze",
-                  "title_cn": "喷嚏",
-                  "image": "sneeze.png"
-                },
-                {
-                  "title_en": "cold",
-                  "title_cn": "感冒",
-                  "image": "cold.png"
-                },
-                {
-                  "title_en": "flu",
-                  "title_cn": "流感",
-                  "image": "flu.png"
-                },
-                {
-                  "title_en": "chickenpox",
-                  "title_cn": "水痘",
-                  "image": "chickenpox.png"
-                },
-                {
-                  "title_en": "rash",
-                  "title_cn": "皮疹",
-                  "image": "rash.png"
-                },
-                {
-                  "title_en": "stroke",
-                  "title_cn": "中风",
-                  "image": "stroke.png"
-                },
-                {
-                  "title_en": "blood pressure",
-                  "title_cn": "血压",
-                  "image": "blood pressure.png"
-                },
-                {
-                  "title_en": "heart attack",
-                  "title_cn": "心脏病",
-                  "image": "heart attack.png"
-                },
-                {
-                  "title_en": "diabetes",
-                  "title_cn": "糖尿病",
-                  "image": "diabetes.png"
-                },
-                {
-                  "title_en": "allergy",
-                  "title_cn": "过敏",
-                  "image": "allergy.png"
-                },
-                {
-                  "title_en": "hayfever",
-                  "title_cn": "花粉症",
-                  "image": "hayfever.png"
-                },
-                {
-                  "title_en": "eczema",
-                  "title_cn": "湿疹",
-                  "image": "eczema.png"
-                },
-                {
-                  "title_en": "infection",
-                  "title_cn": "感染",
-                  "image": "infection.png"
-                },
-                {
-                  "title_en": "virus",
-                  "title_cn": "病毒",
-                  "image": "virus.png"
-                },
-                {
-                  "title_en": "chill",
-                  "title_cn": "风寒",
-                  "image": "chill.png"
-                },
-                {
-                  "title_en": "stomach ache",
-                  "title_cn": "拉肚子",
-                  "image": "stomach ache.png"
-                },
-                {
-                  "title_en": "faint",
-                  "title_cn": "昏厥",
-                  "image": "faint.png"
-                },
-                {
-                  "title_en": "vomit",
-                  "title_cn": "呕吐",
-                  "image": "vomit.png"
-                },
-                {
-                  "title_en": "migraine",
-                  "title_cn": "偏头痛",
-                  "image": "migraine.png"
-                },
-                {
-                  "title_en": "diarrhea",
-                  "title_cn": "腹泻",
-                  "image": "diarrhea.png"
-                },
-                {
-                  "title_en": "measles",
-                  "title_cn": "麻疹",
-                  "image": "measles.png"
-                }
-              ]
+              {
+                "title_en": "nausea",
+                "title_cn": "恶心",
+                "title_mm": "ပျို့အန်ခြင်း",
+                "image": "nausea.png"
+              },
+              {
+                "title_en": "fever",
+                "title_cn": "发烧",
+                "title_mm": "ဖျားခြင်း။ ကိုယ်ပူခြင်း",
+                "image": "fever.png"
+              },
+              {
+                "title_en": "inhaler",
+                "title_cn": "吸入器",
+                "title_mm": "ရှူဆေး",
+                "image": "inhaler.png"
+              },
+              {
+                "title_en": "asthma",
+                "title_cn": "哮喘",
+                "title_mm": "ပန်းနာ",
+                "image": "asthma.png"
+              },
+              {
+                "title_en": "cramps",
+                "title_cn": "抽筋",
+                "title_mm": "ကြွက်တက်ခြင်း",
+                "image": "cramps.png"
+              },
+              {
+                "title_en": "headache",
+                "title_cn": "头痛",
+                "title_mm": "ခေါင်းကိုက်ခြင်း",
+                "image": "headache.png"
+              },
+              {
+                "title_en": "nosebleed",
+                "title_cn": "鼻出血",
+                "title_mm": "နှာခေါင်းသွေးယိုခြင်း",
+                "image": "nosebleed.png"
+              },
+              {
+                "title_en": "cough",
+                "title_cn": "咳嗽",
+                "title_mm": "ချောင်းဆိုး",
+                "image": "cough.png"
+              },
+              {
+                "title_en": "sneeze",
+                "title_cn": "喷嚏",
+                "title_mm": "နှာချေ",
+                "image": "sneeze.png"
+              },
+              {
+                "title_en": "cold",
+                "title_cn": "感冒",
+                "title_mm": "အအေးမိ",
+                "image": "cold.png"
+              },
+              {
+                "title_en": "flu",
+                "title_cn": "流感",
+                "title_mm": "တုပ်ကွေး",
+                "image": "flu.png"
+              },
+              {
+                "title_en": "chickenpox",
+                "title_cn": "水痘",
+                "title_mm": "ရေကျောက်",
+                "image": "chickenpox.png"
+              },
+              {
+                "title_en": "rash",
+                "title_cn": "皮疹",
+                "title_mm": "အဖု",
+                "image": "rash.png"
+              },
+              {
+                "title_en": "stroke",
+                "title_cn": "中风",
+                "title_mm": "လေဖြတ်ခြင်း",
+                "image": "stroke.png"
+              },
+              {
+                "title_en": "blood pressure",
+                "title_cn": "血压",
+                "title_mm": "သွေးပေါင်ချိန်",
+                "image": "blood pressure.png"
+              },
+              {
+                "title_en": "heart attack",
+                "title_cn": "心脏病",
+                "title_mm": "နှလုံးရုတ်တရက်ဖောက်ပြန်မှု",
+                "image": "heart attack.png"
+              },
+              {
+                "title_en": "diabetes",
+                "title_cn": "糖尿病",
+                "title_mm": "ဆီးချိုရောဂါ",
+                "image": "diabetes.png"
+              },
+              {
+                "title_en": "allergy",
+                "title_cn": "过敏",
+                "title_mm": "ဓာတ်မတည့်ခြင်း",
+                "image": "allergy.png"
+              },
+              {
+                "title_en": "hayfever",
+                "title_cn": "花粉症",
+                "title_mm": "ပန်းဝတ်မှုန်ကြောင့်ဖြစ်သောဖျားနာခြင်း",
+                "image": "hayfever.png"
+              },
+              {
+                "title_en": "eczema",
+                "title_cn": "湿疹",
+                "title_mm": "နှင်းခူ",
+                "image": "eczema.png"
+              },
+              {
+                "title_en": "infection",
+                "title_cn": "感染",
+                "title_mm": "ကူးစက်မှု",
+                "image": "infection.png"
+              },
+              {
+                "title_en": "virus",
+                "title_cn": "病毒",
+                "title_mm": "ဗိုင်းရပ်စ်",
+                "image": "virus.png"
+              },
+              {
+                "title_en": "chill",
+                "title_cn": "风寒",
+                "title_mm": "အေးစိမ့်ခြင်း",
+                "image": "chill.png"
+              },
+              {
+                "title_en": "stomach ache",
+                "title_cn": "拉肚子",
+                "title_mm": "ဗိုက်နာသည်",
+                "image": "stomach ache.png"
+              },
+              {
+                "title_en": "faint",
+                "title_cn": "昏厥",
+                "title_mm": "မူးမေ့",
+                "image": "faint.png"
+              },
+              {
+                "title_en": "vomit",
+                "title_cn": "呕吐",
+                "title_mm": "အော့အန်ခြင်း",
+                "image": "vomit.png"
+              },
+              {
+                "title_en": "migraine",
+                "title_cn": "偏头痛",
+                "title_mm": "ခေါင်းတစ်ခြမ်းကိုက်ခြင်း",
+                "image": "migraine.png"
+              },
+              {
+                "title_en": "diarrhea",
+                "title_cn": "腹泻",
+                "title_mm": "ဝမ်းလျှောခြင်း",
+                "image": "diarrhea.png"
+              },
+              {
+                "title_en": "measles",
+                "title_cn": "麻疹",
+                "title_mm": "ဝက်သက်",
+                "image": "measles.png"
+              }
+            ]
         
         },
         {
@@ -161,102 +190,121 @@
             "title_cn": "初救",
             "image": "first aid.png",
             "details": [
-                {
-                  "title_en": "gauze",
-                  "title_cn": "纱布",
-                  "image": "gauze.png"
-                },
-                {
-                  "title_en": "ointment",
-                  "title_cn": "药膏",
-                  "image": "ointment.png"
-                },
-                {
-                  "title_en": "adhesive bandage",
-                  "title_cn": "橡皮膏",
-                  "image": "adhesive bandage.png"
-                },
-                {
-                  "title_en": "safety pin",
-                  "title_cn": "别针",
-                  "image": "safety pin.png"
-                },
-                {
-                  "title_en": "bandage",
-                  "title_cn": "绷带",
-                  "image": "bandage.png"
-                },
-                {
-                  "title_en": "analgesics",
-                  "title_cn": "止痛药",
-                  "image": "analgesics.png"
-                },
-                {
-                  "title_en": "dressing",
-                  "title_cn": "敷料",
-                  "image": "dressing.png"
-                },
-                {
-                  "title_en": "resuscitation",
-                  "title_cn": "恢复知觉",
-                  "image": "resuscitation.png"
-                },
-                {
-                  "title_en": "splint",
-                  "title_cn": "夹板",
-                  "image": "splint.png"
-                },
-                {
-                  "title_en": "adhesive tape",
-                  "title_cn": "医用胶带",
-                  "image": "adhesive tape.png"
-                },
-                {
-                  "title_en": "antiseptic wipe",
-                  "title_cn": "防腐",
-                  "image": "antiseptic wipe.png"
-                },
-                {
-                  "title_en": "tweezer",
-                  "title_cn": "镊子",
-                  "image": "tweezer.png"
-                },
-                {
-                  "title_en": "scissors",
-                  "title_cn": "剪刀",
-                  "image": "scissors.png"
-                },
-                {
-                  "title_en": "antiseptics",
-                  "title_cn": "防腐剂",
-                  "image": "antiseptics.png"
-                },
-                {
-                  "title_en": "unconscious",
-                  "title_cn": "不省人事",
-                  "image": "unconscious.png"
-                },
-                {
-                  "title_en": "pulse",
-                  "title_cn": "脉冲",
-                  "image": "pulse.png"
-                },
-                {
-                  "title_en": "breathing",
-                  "title_cn": "呼吸",
-                  "image": "breathing.png"
-                },
-                {
-                  "title_en": "choke",
-                  "title_cn": "窒息",
-                  "image": "choke.png"
-                },
-                {
-                  "title_en": "sterile",
-                  "title_cn": "消毒",
-                  "image": "sterile.png"
-                }
-              ]
+              {
+                "title_en": "gauze",
+                "title_cn": "纱布",
+                "title_mm": "ပိတ်ပတ်တီး",
+                "image": "gauze.png"
+              },
+              {
+                "title_en": "ointment",
+                "title_cn": "药膏",
+                "title_mm": "ဆီမွှေး",
+                "image": "ointment.png"
+              },
+              {
+                "title_en": "adhesive bandage",
+                "title_cn": "橡皮膏",
+                "title_mm": "ကော်ပတ်တီး",
+                "image": "adhesive bandage.png"
+              },
+              {
+                "title_en": "safety pin",
+                "title_cn": "别针",
+                "title_mm": "လုံခြုံရေး ပင်",
+                "image": "safety pin.png"
+              },
+              {
+                "title_en": "bandage",
+                "title_cn": "绷带",
+                "title_mm": "ပတ်တီး",
+                "image": "bandage.png"
+              },
+              {
+                "title_en": "analgesics",
+                "title_cn": "止痛药",
+                "title_mm": "အကိုက်အခဲပျောက်ဆေး",
+                "image": "analgesics.png"
+              },
+              {
+                "title_en": "dressing",
+                "title_cn": "敷料",
+                "title_mm": "ပတ်တီးပတ်ခြင်း",
+                "image": "dressing.png"
+              },
+              {
+                "title_en": "resuscitation",
+                "title_cn": "恢复知觉",
+                "title_mm": "ကယ်တင်ခြင်း",
+                "image": "resuscitation.png"
+              },
+              {
+                "title_en": "splint",
+                "title_cn": "夹板",
+                "title_mm": "ကျောက်ပတ်တီး",
+                "image": "splint.png"
+              },
+              {
+                "title_en": "adhesive tape",
+                "title_cn": "医用胶带",
+                "title_mm": "ကော်တိပ်",
+                "image": "adhesive tape.png"
+              },
+              {
+                "title_en": "antiseptic wipe",
+                "title_cn": "防腐",
+                "title_mm": "ပိုးသတ်ဆေး",
+                "image": "antiseptic wipe.png"
+              },
+              {
+                "title_en": "tweezer",
+                "title_cn": "镊子",
+                "title_mm": "ဇာဂနာ",
+                "image": "tweezer.png"
+              },
+              {
+                "title_en": "scissors",
+                "title_cn": "剪刀",
+                "title_mm": "ကတ်ကြေး",
+                "image": "scissors.png"
+              },
+              {
+                "title_en": "antiseptics",
+                "title_cn": "防腐剂",
+                "title_mm": "ပိုးသတ်ဆေး",
+                "image": "antiseptics.png"
+              },
+              {
+                "title_en": "unconscious",
+                "title_cn": "不省人事",
+                "title_mm": "သတိလစ်ခြင်း။",
+                "image": "unconscious.png"
+              },
+              {
+                "title_en": "pulse",
+                "title_cn": "脉冲",
+                "title_mm": "သွေးခုန်နှုန်း",
+                "image": "pulse.png"
+              },
+              {
+                "title_en": "breathing",
+                "title_cn": "呼吸",
+                "title_mm": "အသက်ရှူခြင်း",
+                "image": "breathing.png"
+              },
+              {
+                "title_en": "choke",
+                "title_cn": "窒息",
+                "title_mm": "ဆို့ခြင်း",
+                "image": "choke.png"
+              },
+              {
+                "title_en": "sterile",
+                "title_cn": "消毒",
+                "title_mm": "ပိုးသန့်ဆေးရည်",
+                "image": "sterile.png"
+              }
+            ]
         }
     ]
 }

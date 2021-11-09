@@ -9,86 +9,102 @@
             "image": "shopping center.png",
             "details": [
                 {
-                    "title_en": "toys",
-                    "title_cn": "玩具",
-                    "image": "toys.png"
+                  "title_en": "toys",
+                  "title_cn": "玩具",
+                  "title_mm": "ကစားစရာ",
+                  "image": "toys.png"
                 },
                 {
-                    "title_en": "escalator",
-                    "title_cn": "自动扶梯",
-                    "image": "escalator.png"
+                  "title_en": "escalator",
+                  "title_cn": "自动扶梯",
+                  "title_mm": "စက်လှေကား",
+                  "image": "escalator.png"
                 },
                 {
-                    "title_en": "customer",
-                    "title_cn": "顾客",
-                    "image": "customer.png"
+                  "title_en": "customer",
+                  "title_cn": "顾客",
+                  "title_mm": "ဖောက်သည်",
+                  "image": "customer.png"
                 },
                 {
-                    "title_en": "customer services",
-                    "title_cn": "客户服务",
-                    "image": "customer services.png"
+                  "title_en": "customer services",
+                  "title_cn": "客户服务",
+                  "title_mm": "ဖောက်သည်ဝန်ဆောင်မှုများ",
+                  "image": "customer services.png"
                 },
                 {
-                    "title_en": "fitting rooms",
-                    "title_cn": "试衣间",
-                    "image": "fitting rooms.png"
+                  "title_en": "fitting rooms",
+                  "title_cn": "试衣间",
+                  "title_mm": "အဝတ်လဲခန်းများ",
+                  "image": "fitting rooms.png"
                 },
                 {
-                    "title_en": "restrooms",
-                    "title_cn": "厕所",
-                    "image": "restrooms.png"
+                  "title_en": "restrooms",
+                  "title_cn": "厕所",
+                  "title_mm": "သန့်စင်ခန်းများ",
+                  "image": "restrooms.png"
                 },
                 {
-                    "title_en": "men's wear",
-                    "title_cn": "男服装",
-                    "image": "men's wear.png"
+                  "title_en": "men's wear",
+                  "title_cn": "男服装",
+                  "title_mm": "အမျိုးသားဝတ်",
+                  "image": "men's wear.png"
                 },
                 {
-                    "title_en": "women's wear",
-                    "title_cn": "女服装",
-                    "image": "women's wear.png"
+                  "title_en": "women's wear",
+                  "title_cn": "女服装",
+                  "title_mm": "အမျိုးသမီးဝတ်",
+                  "image": "women's wear.png"
                 },
                 {
-                    "title_en": "lingerie",
-                    "title_cn": "内衣",
-                    "image": "lingerie.png"
+                  "title_en": "lingerie",
+                  "title_cn": "内衣",
+                  "title_mm": "အတွင်းခံ",
+                  "image": "lingerie.png"
                 },
                 {
-                    "title_en": "perfume",
-                    "title_cn": "香水",
-                    "image": "perfume.png"
+                  "title_en": "perfume",
+                  "title_cn": "香水",
+                  "title_mm": "ရေမွှေး",
+                  "image": "perfume.png"
                 },
                 {
-                    "title_en": "cosmetic",
-                    "title_cn": "化妆品",
-                    "image": "cosmetic.png"
+                  "title_en": "cosmetic",
+                  "title_cn": "化妆品",
+                  "title_mm": "အလှကုန်",
+                  "image": "cosmetic.png"
                 },
                 {
-                    "title_en": "interior furniture",
-                    "title_cn": "家居",
-                    "image": "interior furniture.png"
+                  "title_en": "interior furniture",
+                  "title_cn": "家居",
+                  "title_mm": "အတွင်းပိုင်းပရိဘောဂ",
+                  "image": "interior furniture.png"
                 },
                 {
-                    "title_en": "kitchenware",
-                    "title_cn": "厨具",
-                    "image": "kitchenware.png"
+                  "title_en": "kitchenware",
+                  "title_cn": "厨具",
+                  "title_mm": "မီးဖိုချောင်သုံးပစ္စည်း",
+                  "image": "kitchenware.png"
                 },
                 {
-                    "title_en": "electronics",
-                    "title_cn": "电子产品",
-                    "image": "electronics.png"
+                  "title_en": "electronics",
+                  "title_cn": "电子产品",
+                  "title_mm": "လျှပ်စစ်ပစ္စည်း",
+                  "image": "electronics.png"
                 },
                 {
-                    "title_en": "stationery",
-                    "title_cn": "文具",
-                    "image": "stationery.png"
+                  "title_en": "stationery",
+                  "title_cn": "文具",
+                  "title_mm": "စာရေးကိရိယာ",
+                  "image": "stationery.png"
                 },
                 {
-                    "title_en": "grocery store",
-                    "title_cn": "杂货店",
-                    "image": "grocery store.png"
+                  "title_en": "grocery store",
+                  "title_cn": "杂货店",
+                  "title_mm": "ကုန်စုံဆိုင်",
+                  "image": "grocery store.png"
                 }
-            ]
+              ]
         },
         {
             "title_en": "supermarket",
@@ -96,146 +112,174 @@
             "image": "supermarket.png",
             "details": [
                 {
-                    "title_en": "checkout",
-                    "title_cn": "结账",
-                    "image": "checkout.png"
+                  "title_en": "checkout",
+                  "title_cn": "结账",
+                  "title_mm": "ငွေရှင်းသည်",
+                  "image": "checkout.png"
                 },
                 {
-                    "title_en": "aisle",
-                    "title_cn": "走道",
-                    "image": "aisle.png"
+                  "title_en": "aisle",
+                  "title_cn": "走道",
+                  "title_mm": "အတန်း",
+                  "image": "aisle.png"
                 },
                 {
-                    "title_en": "shelf",
-                    "title_cn": "架",
-                    "image": "shelf.png"
+                  "title_en": "shelf",
+                  "title_cn": "架",
+                  "title_mm": "စင်",
+                  "image": "shelf.png"
                 },
                 {
-                    "title_en": "conveyer belt",
-                    "title_cn": "输送带",
-                    "image": "conveyer belt.png"
+                  "title_en": "conveyer belt",
+                  "title_cn": "输送带",
+                  "title_mm": "conveyer ခါးပတ်",
+                  "image": "conveyer belt.png"
                 },
                 {
-                    "title_en": "cashier",
-                    "title_cn": "收银员",
-                    "image": "cashier.png"
+                  "title_en": "cashier",
+                  "title_cn": "收银员",
+                  "title_mm": "ငွေကိုင်",
+                  "image": "cashier.png"
                 },
                 {
-                    "title_en": "cash register",
-                    "title_cn": "收银机",
-                    "image": "cash register.png"
+                  "title_en": "cash register",
+                  "title_cn": "收银机",
+                  "title_mm": "ငွေပေးကောင်တာ",
+                  "image": "cash register.png"
                 },
                 {
-                    "title_en": "shopping bag",
-                    "title_cn": "购物包",
-                    "image": "shopping bag.png"
+                  "title_en": "shopping bag",
+                  "title_cn": "购物包",
+                  "title_mm": "စျေးဝယ်အိတ်",
+                  "image": "shopping bag.png"
                 },
                 {
-                    "title_en": "cart",
-                    "title_cn": "手推车",
-                    "image": "cart.png"
+                  "title_en": "cart",
+                  "title_cn": "手推车",
+                  "title_mm": "လှည်း",
+                  "image": "cart.png"
                 },
                 {
-                    "title_en": "groceries",
-                    "title_cn": "食品杂货",
-                    "image": "groceries.png"
+                  "title_en": "groceries",
+                  "title_cn": "食品杂货",
+                  "title_mm": "ကုန်စုံဆိုင်",
+                  "image": "groceries.png"
                 },
                 {
-                    "title_en": "basket",
-                    "title_cn": "蓝",
-                    "image": "basket.png"
+                  "title_en": "basket",
+                  "title_cn": "蓝",
+                  "title_mm": "တောင်း",
+                  "image": "basket.png"
                 },
                 {
-                    "title_en": "barcode",
-                    "title_cn": "条码",
-                    "image": "barcode.png"
+                  "title_en": "barcode",
+                  "title_cn": "条码",
+                  "title_mm": "ဘားကုဒ်",
+                  "image": "barcode.png"
                 },
                 {
-                    "title_en": "scanner",
-                    "title_cn": "扫描器",
-                    "image": "scanner.png"
+                  "title_en": "scanner",
+                  "title_cn": "扫描器",
+                  "title_mm": "စကင်နာ",
+                  "image": "scanner.png"
                 },
                 {
-                    "title_en": "bakery",
-                    "title_cn": "面包店",
-                    "image": "bakery.png"
+                  "title_en": "bakery",
+                  "title_cn": "面包店",
+                  "title_mm": "မုန့်ဆိုင်",
+                  "image": "bakery.png"
                 },
                 {
-                    "title_en": "dairy products",
-                    "title_cn": "乳制品",
-                    "image": "dairy products.png"
+                  "title_en": "dairy products",
+                  "title_cn": "乳制品",
+                  "title_mm": "နို့ထွက်ပစ္စည်းများ",
+                  "image": "dairy products.png"
                 },
                 {
-                    "title_en": "breakfast cereals",
-                    "title_cn": "早餐谷物",
-                    "image": "breakfast cereals.png"
+                  "title_en": "breakfast cereals",
+                  "title_cn": "早餐谷物",
+                  "title_mm": "မနက်စာ ကောက်နှံများ",
+                  "image": "breakfast cereals.png"
                 },
                 {
-                    "title_en": "canned food",
-                    "title_cn": "罐头食品",
-                    "image": "canned food.png"
+                  "title_en": "canned food",
+                  "title_cn": "罐头食品",
+                  "title_mm": "စည်သွတ်အစားအစာ",
+                  "image": "canned food.png"
                 },
                 {
-                    "title_en": "confectionery",
-                    "title_cn": "糖果",
-                    "image": "confectionery.png"
+                  "title_en": "confectionery",
+                  "title_cn": "糖果",
+                  "title_mm": "မုန့်များ",
+                  "image": "confectionery.png"
                 },
                 {
-                    "title_en": "vegetables",
-                    "title_cn": "蔬菜",
-                    "image": "vegetables.png"
+                  "title_en": "vegetables",
+                  "title_cn": "蔬菜",
+                  "title_mm": "ဟင်းသီးဟင်းရွက်များ",
+                  "image": "vegetables.png"
                 },
                 {
-                    "title_en": "fruit",
-                    "title_cn": "水果",
-                    "image": "fruit.png"
+                  "title_en": "fruit",
+                  "title_cn": "水果",
+                  "title_mm": "အသီး",
+                  "image": "fruit.png"
                 },
                 {
-                    "title_en": "meat",
-                    "title_cn": "肉",
-                    "image": "meat.png"
+                  "title_en": "meat",
+                  "title_cn": "肉",
+                  "title_mm": "အသား",
+                  "image": "meat.png"
                 },
                 {
-                    "title_en": "fish",
-                    "title_cn": "鱼",
-                    "image": "fish.png"
+                  "title_en": "fish",
+                  "title_cn": "鱼",
+                  "title_mm": "ငါး",
+                  "image": "fish.png"
                 },
                 {
-                    "title_en": "frozen food",
-                    "title_cn": "冷冻食品",
-                    "image": "frozen food.png"
+                  "title_en": "frozen food",
+                  "title_cn": "冷冻食品",
+                  "title_mm": "အေးခဲထားသောအစားအစာ",
+                  "image": "frozen food.png"
                 },
                 {
-                    "title_en": "convenience food",
-                    "title_cn": "方便食品",
-                    "image": "convenience food.png"
+                  "title_en": "convenience food",
+                  "title_cn": "方便食品",
+                  "title_mm": "အဆင်ပြေသောအစားအစာ",
+                  "image": "convenience food.png"
                 },
                 {
-                    "title_en": "drinks",
-                    "title_cn": "饮料",
-                    "image": "drinks.png"
+                  "title_en": "drinks",
+                  "title_cn": "饮料",
+                  "title_mm": "အချိုရည်များ",
+                  "image": "drinks.png"
                 },
                 {
-                    "title_en": "household products",
-                    "title_cn": "家庭用品",
-                    "image": "household products.png"
+                  "title_en": "household products",
+                  "title_cn": "家庭用品",
+                  "title_mm": "အိမ်သုံးပစ္စည်းများ",
+                  "image": "household products.png"
                 },
                 {
-                    "title_en": "baby products",
-                    "title_cn": "婴儿用品",
-                    "image": "baby products.png"
+                  "title_en": "baby products",
+                  "title_cn": "婴儿用品",
+                  "title_mm": "ကလေးထုတ်ကုန်များ",
+                  "image": "baby products.png"
                 },
                 {
-                    "title_en": "pet food",
-                    "title_cn": "宠物食品",
-                    "image": "pet food.png"
+                  "title_en": "pet food",
+                  "title_cn": "宠物食品",
+                  "title_mm": "အိမ်မွေးတိရစ္ဆာန်အစာ",
+                  "image": "pet food.png"
                 },
                 {
-                    "title_en": "magazines",
-                    "title_cn": "杂志",
-                    "image": "magazines.png"
+                  "title_en": "magazines",
+                  "title_cn": "杂志",
+                  "title_mm": "မဂ္ဂဇင်းများ",
+                  "image": "magazines.png"
                 }
-            ]
+              ]
         }
     ]
 }

@@ -8,67 +8,79 @@
             "title_cn": "身体",
             "image": "clothing.png",
             "details": [
-                {
-                  "title_en": "bodysuit",
-                  "title_cn": "连衣服",
-                  "image": "bodysuit.png"
-                },
-                {
-                  "title_en": "skirt",
-                  "title_cn": "裙子",
-                  "image": "skirt.png"
-                },
-                {
-                  "title_en": "raincoat",
-                  "title_cn": "雨衣",
-                  "image": "raincoat.png"
-                },
-                {
-                  "title_en": "bathrobe",
-                  "title_cn": "浴衣",
-                  "image": "bathrobe.png"
-                },
-                {
-                  "title_en": "trousers",
-                  "title_cn": "长裤",
-                  "image": "trousers.png"
-                },
-                {
-                  "title_en": "belt",
-                  "title_cn": "腰带",
-                  "image": "belt.png"
-                },
-                {
-                  "title_en": "pajamas",
-                  "title_cn": "睡衣",
-                  "image": "pajamas.png"
-                },
-                {
-                  "title_en": "socks",
-                  "title_cn": "袜子",
-                  "image": "socks.png"
-                },
-                {
-                  "title_en": "suspenders",
-                  "title_cn": "吊袜带",
-                  "image": "suspenders.png"
-                },
-                {
-                  "title_en": "nightgown",
-                  "title_cn": "睡衣",
-                  "image": "nightgown.png"
-                },
-                {
-                  "title_en": "corset",
-                  "title_cn": "紧身衣",
-                  "image": "corset.png"
-                },
-                {
-                  "title_en": "kimono",
-                  "title_cn": "和服",
-                  "image": "kimono.png"
-                }
-              ]
+              {
+                "title_en": "bodysuit",
+                "title_cn": "连衣服",
+                "title_mm": "ခန္ဓာကိုယ်ဝတ်စုံ",
+                "image": "bodysuit.png"
+              },
+              {
+                "title_en": "skirt",
+                "title_cn": "裙子",
+                "title_mm": "စကတ်",
+                "image": "skirt.png"
+              },
+              {
+                "title_en": "raincoat",
+                "title_cn": "雨衣",
+                "title_mm": "မိုးကာအင်္ကျီ",
+                "image": "raincoat.png"
+              },
+              {
+                "title_en": "bathrobe",
+                "title_cn": "浴衣",
+                "title_mm": "ရေချိုးဝတ်စုံ",
+                "image": "bathrobe.png"
+              },
+              {
+                "title_en": "trousers",
+                "title_cn": "长裤",
+                "title_mm": "ဘောင်းဘီရှည်",
+                "image": "trousers.png"
+              },
+              {
+                "title_en": "belt",
+                "title_cn": "腰带",
+                "title_mm": "ခါးပတ်",
+                "image": "belt.png"
+              },
+              {
+                "title_en": "pajamas",
+                "title_cn": "睡衣",
+                "title_mm": "ညအိပ်ဝတ်စုံ",
+                "image": "pajamas.png"
+              },
+              {
+                "title_en": "socks",
+                "title_cn": "袜子",
+                "title_mm": "ခြေအိတ်",
+                "image": "socks.png"
+              },
+              {
+                "title_en": "suspenders",
+                "title_cn": "吊袜带",
+                "title_mm": "Garter ခါးပတ်",
+                "image": "suspenders.png"
+              },
+              {
+                "title_en": "nightgown",
+                "title_cn": "睡衣",
+                "title_mm": "ညဝတ်ဂါဝန်",
+                "image": "nightgown.png"
+              },
+              {
+                "title_en": "corset",
+                "title_cn": "紧身衣",
+                "title_mm": "ကိုယ်ကျပ်၀တ်",
+                "image": "corset.png"
+              },
+              {
+                "title_en": "kimono",
+                "title_cn": "和服",
+                "title_mm": "ကီမိုနို",
+                "image": "kimono.png"
+              }
+            ]
         }
     ]
 }
