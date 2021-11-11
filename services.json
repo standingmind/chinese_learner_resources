@@ -1,11 +1,13 @@
 {
     "category_en": "services",
     "category_cn": "服务",
+    "category_mm":"ဝန်ဆောင်မှုများ",
     "is_live": true,
     "details": [
         {
             "title_en": "hotel",
             "title_cn": "旅馆",
+            "title_mm":"ဟိုတယ်",
             "image": "hotel.png",
             "details": [
                 {
@@ -145,6 +147,7 @@
         {
             "title_en": "emergency services",
             "title_cn": "紧急服务",
+            "title_mm":"အရေးပေါ်ဝင်ဆောင်မှုများ",
             "image": "emergency services.png",
             "details": [
                 {

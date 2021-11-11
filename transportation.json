@@ -1,11 +1,13 @@
 {
     "category_en": "transportation",
     "category_cn": "交通",
+    "category_mm":"ပို့ဆောင်ဆက်သွယ်ရေး",
     "is_live": true,
     "details": [
         {
             "title_en": "road",
             "title_cn": "道路",
+            "title_mm":"လမ်း",
             "image": "road.png",
             "details": [
                 {
@@ -187,6 +189,7 @@
         {
             "title_en": "bus",
             "title_cn": "巴士",
+            "title_mm":"ဘတ်(စ်)ကား",
             "image": "bus.png",
             "details": [
                 {
@@ -314,6 +317,7 @@
         {
             "title_en": "transportation tools",
             "title_cn": "交通工具",
+            "title_mm":"ပို့ဆောင်ဆက်သွယ်ရေးကိရိယာများ",
             "image": "transportation tools.png",
             "details": [
                 {

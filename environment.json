@@ -1,11 +1,13 @@
 {
     "category_en": "environment",
     "category_cn": "环境",
+    "category_mm":"ပတ်ဝန်းကျင်",
     "is_live": true,
     "details": [
         {
             "title_en": "mammals",
             "title_cn": "哺乳动物",
+            "title_mm":"နို့တိုက်သတ္တဝါများ",
             "image": "mammals.png",
             "details": [
               {
@@ -181,6 +183,7 @@
         {
             "title_en": "birds",
             "title_cn": "鸟",
+            "title_mm":"ငှက်များ",
             "image": "birds.png",
             "details": [
               {
@@ -482,6 +485,7 @@
         {
             "title_en": "reptiles",
             "title_cn": "爬行动物",
+            "title_mm":"တွားသွားသတ္တဝါများ",
             "image": "reptiles.png",
             "details": [
               {

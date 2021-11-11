@@ -1,11 +1,13 @@
 {
     "category_en": "people",
     "category_cn": "人",
+    "category_mm":"လူ",
     "is_live": true,
     "details": [
         {
             "title_en": "body",
             "title_cn": "身体",
+            "title_mm":"ခန္ဓာကိုယ်",
             "image": "body.jpg",
             "details": [
                 {
@@ -151,6 +153,7 @@
         {
             "title_en": "foot",
             "title_cn": "脚丫子",
+            "title_mm":"ခြေထောက်",
             "image": "foot.jpg",
             "details": [
                 {
@@ -200,6 +203,7 @@
         {
             "title_en": "hand",
             "title_cn": "手",
+            "title_mm":"လက်",
             "image": "hand.png",
             "details": [
                 {
@@ -261,6 +265,7 @@
         {
             "title_en": "relationship",
             "title_cn": "关系",
+            "title_mm":"ဆက်ဆံရေး",
             "image": "relationship.png",
             "details": [
                 {

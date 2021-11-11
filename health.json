@@ -1,11 +1,13 @@
 {
     "category_en": "health",
     "category_cn": "健康",
+    "category_mm":"ကျန်းမာ‌ရေး",
     "is_live": true,
     "details": [
         {
             "title_en": "illness",
             "title_cn": "疾病",
+            "title_mm":"နာမကျန်းဖြစ်ခြင်း",
             "image": "illness.png",
             "details": [
               {
@@ -188,6 +190,7 @@
         {
             "title_en": "first aid",
             "title_cn": "初救",
+            "title_mm":"ရှေးဦးသူနာပြု",
             "image": "first aid.png",
             "details": [
               {

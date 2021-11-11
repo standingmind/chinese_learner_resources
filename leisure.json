@@ -1,11 +1,13 @@
 {
     "category_en": "leisure",
     "category_cn": "娱乐",
+    "category_mm":"အပန်းဖြေခြင်း",
     "is_live": true,
     "details": [
         {
             "title_en": "beach",
             "title_cn": "海滩",
+            "title_mm":"ကမ်းခြေ",
             "image": "beach.png",
             "details": [
               {
@@ -157,6 +159,7 @@
         {
             "title_en": "camp",
             "title_cn": "露营",
+            "title_mm":"စခန်းချခြင်း",
             "image": "camp.png",
             "details": [
               {

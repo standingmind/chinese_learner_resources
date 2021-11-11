@@ -1,11 +1,13 @@
 {
     "category_en": "food",
     "category_cn": "食物",
+    "category_mm":"ပတ်ဝန်းကျင်",
     "is_live": true,
     "details": [
         {
             "title_en": "meat",
             "title_cn": "肉",
+            "title_mm":"အသား",
             "image": "meat.png",
             "details": [
                 {
@@ -229,6 +231,7 @@
         {
             "title_en": "fruit",
             "title_cn": "水果",
+            "title_mm":"သစ်သီးဝလံများ",
             "image": "fruit.png",
             "details": [
                 {
@@ -326,6 +329,7 @@
         {
             "title_en": "vegetables",
             "title_cn": "蔬菜",
+            "title_mm":"ဟင်းသီးဟင်းရွက်များ",
             "image": "vegetables.png",
             "details": [
                 {
@@ -429,6 +433,7 @@
         {
             "title_en": "fish",
             "title_cn": "鱼",
+            "title_mm":"ငါး",
             "image": "fish.png",
             "details": [
                 {

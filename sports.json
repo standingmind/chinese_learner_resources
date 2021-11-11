@@ -1,11 +1,13 @@
 {
     "category_en": "sports",
     "category_cn": "体育",
+    "category_mm":"အားကစား",
     "is_live": true,
     "details": [
         {
             "title_en": "sport types",
             "title_cn": "体育类型",
+            "title_mm":"အားကစားနည်းများ",
             "image": "sport types.png",
             "details": [
                 {

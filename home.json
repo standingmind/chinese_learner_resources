@@ -1,11 +1,13 @@
 {
     "category_en": "home",
     "category_cn": "家庭",
+    "category_mm":"မိသားစု",
     "is_live": true,
     "details": [
         {
             "title_en": "house",
             "title_cn": "房屋",
+            "title_mm":"အိမ်",
             "image": "house.png",
             "details": [
                 {
@@ -295,6 +297,7 @@
         {
             "title_en": "living room",
             "title_cn": "客厅",
+            "title_mm":"ဧည့်ခန်း",
             "image": "living room.png",
             "details": [
                 {

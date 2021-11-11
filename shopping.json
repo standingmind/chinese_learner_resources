@@ -1,11 +1,13 @@
 {
     "category_en": "shopping",
     "category_cn": "购物",
+    "category_mm":"စျေးဝယ်ခြင်း",
     "is_live": true,
     "details": [
         {
             "title_en": "shopping center",
             "title_cn": "购物中心",
+            "title_mm":"စျေးဝယ်စင်တာ",
             "image": "shopping center.png",
             "details": [
                 {
@@ -109,6 +111,7 @@
         {
             "title_en": "supermarket",
             "title_cn": "超级市场",
+            "title_mm":"စူပါမားကတ်",
             "image": "supermarket.png",
             "details": [
                 {

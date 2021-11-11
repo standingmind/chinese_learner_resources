@@ -1,11 +1,13 @@
 {
     "category_en": "education",
     "category_cn": "学习",
+    "category_mm":"ပညာရေး",
     "is_live": true,
     "details": [
         {
             "title_en": "school",
             "title_cn": "学校",
+            "title_mm":"ကျောင်း",
             "image": "school.png",
             "details": [
                 {
@@ -295,6 +297,7 @@
         {
             "title_en": "university",
             "title_cn": "大学",
+            "title_mm":"တက္ကသိုလ်",
             "image": "university.png",
             "details": [
                 {

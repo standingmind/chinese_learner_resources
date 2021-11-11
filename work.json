@@ -1,11 +1,13 @@
 {
     "category_en": "work",
     "category_cn": "工作",
+    "category_mm":"အလုပ်",
     "is_live": true,
     "details": [
         {
             "title_en": "office",
             "title_cn": "办公室",
+            "title_mm":"ရုံးခန်း",
             "image": "office.png",
             "details":[
               {
@@ -385,6 +387,7 @@
         {
             "title_en": "occupation",
             "title_cn": "职业",
+            "title_mm":"အလုပ်အကိုင်",
             "image": "occupation.png",
             "details": [
               {

@@ -1,11 +1,13 @@
 {
     "category_en": "apperance",
     "category_cn": "外貌",
+    "category_mm":"အသွင်အပြင်",
     "is_live": true,
     "details": [
         {
             "title_en": "clothing",
             "title_cn": "身体",
+            "title_mm":"အဝတ်အစား",
             "image": "clothing.png",
             "details": [
               {
