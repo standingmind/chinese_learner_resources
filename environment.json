@@ -187,298 +187,298 @@
             "image": "birds.png",
             "details": [
               {
-                "eagle": "duck",
-                "鹰": "鸭子",
-                "လင်းယုန်": "ဘဲ",
-                "eagle.png": "duck.png"
+                "title_en": "duck",
+                "title_cn": "鸭子",
+                "title_mm": "ဘဲ",
+                "image": "duck.png"
               },
               {
-                "eagle": "dove",
-                "鹰": "鸽子",
-                "လင်းယုန်": "ခိုမျိုး",
-                "eagle.png": "dove.png"
+                "title_en": "dove",
+                "title_cn": "鸽子",
+                "title_mm": "ခိုမျိုး",
+                "image": "dove.png"
               },
               {
-                "eagle": "cuckoo",
-                "鹰": "布谷鸟",
-                "လင်းယုန်": "မိုးဆောင်းငှက်",
-                "eagle.png": "cuckoo.png"
+                "title_en": "cuckoo",
+                "title_cn": "布谷鸟",
+                "title_mm": "မိုးဆောင်းငှက်",
+                "image": "cuckoo.png"
               },
               {
-                "eagle": "crow",
-                "鹰": "乌鸦",
-                "လင်းယုန်": "ကျီးကန်း",
-                "eagle.png": "crow.png"
+                "title_en": "crow",
+                "title_cn": "乌鸦",
+                "title_mm": "ကျီးကန်း",
+                "image": "crow.png"
               },
               {
-                "eagle": "crane",
-                "鹰": "鹤",
-                "လင်းယုန်": "ကရိန်းငှက်",
-                "eagle.png": "crane.png"
+                "title_en": "crane",
+                "title_cn": "鹤",
+                "title_mm": "ကရိန်းငှက်",
+                "image": "crane.png"
               },
               {
-                "eagle": "cormorant",
-                "鹰": "鸬鹚",
-                "လင်းယုန်": "တင်ကျီးငှက်",
-                "eagle.png": "cormorant.png"
+                "title_en": "cormorant",
+                "title_cn": "鸬鹚",
+                "title_mm": "တင်ကျီးငှက်",
+                "image": "cormorant.png"
               },
               {
-                "eagle": "canary",
-                "鹰": "金丝雀",
-                "လင်းယုန်": "ကိန္နရီငှက်",
-                "eagle.png": "canary.png"
+                "title_en": "canary",
+                "title_cn": "金丝雀",
+                "title_mm": "ကိန္နရီငှက်",
+                "image": "canary.png"
               },
               {
-                "eagle": "woodpecker",
-                "鹰": "啄木鸟",
-                "လင်းယုန်": "သစ်တောက်ငှက်",
-                "eagle.png": "woodpecker.png"
+                "title_en": "woodpecker",
+                "title_cn": "啄木鸟",
+                "title_mm": "သစ်တောက်ငှက်",
+                "image": "woodpecker.png"
               },
               {
-                "eagle": "weaverbird",
-                "鹰": "织布鸟",
-                "လင်းယုန်": "ရက်ကန်းသမားငှက်",
-                "eagle.png": "weaverbird.png"
+                "title_en": "weaverbird",
+                "title_cn": "织布鸟",
+                "title_mm": "ရက်ကန်းသမားငှက်",
+                "image": "weaverbird.png"
               },
               {
-                "eagle": "wagtails",
-                "鹰": "鹡鸰",
-                "လင်းယုန်": "မြီးညှောင့်ငှက်မျို",
-                "eagle.png": "wagtails.png"
+                "title_en": "wagtails",
+                "title_cn": "鹡鸰",
+                "title_mm": "မြီးညှောင့်ငှက်မျို",
+                "image": "wagtails.png"
               },
               {
-                "eagle": "vulture",
-                "鹰": "秃鹫",
-                "လင်းယုန်": "လင်းတ",
-                "eagle.png": "vulture.png"
+                "title_en": "vulture",
+                "title_cn": "秃鹫",
+                "title_mm": "လင်းတ",
+                "image": "vulture.png"
               },
               {
-                "eagle": "turkey",
-                "鹰": "火鸡",
-                "လင်းယုန်": "ကြက်ဆင်",
-                "eagle.png": "turkey.png"
+                "title_en": "turkey",
+                "title_cn": "火鸡",
+                "title_mm": "ကြက်ဆင်",
+                "image": "turkey.png"
               },
               {
-                "eagle": "toucans",
-                "鹰": "巨嘴鸟",
-                "လင်းယုန်": "ကော့ယင်ငှက်",
-                "eagle.png": "toucans.png"
+                "title_en": "toucans",
+                "title_cn": "巨嘴鸟",
+                "title_mm": "ကော့ယင်ငှက်",
+                "image": "toucans.png"
               },
               {
-                "eagle": "tailorbird",
-                "鹰": "裁缝鸟",
-                "လင်းယုန်": "နှံပြည်စုတ်",
-                "eagle.png": "tailorbird.png"
+                "title_en": "tailorbird",
+                "title_cn": "裁缝鸟",
+                "title_mm": "နှံပြည်စုတ်",
+                "image": "tailorbird.png"
               },
               {
-                "eagle": "swan",
-                "鹰": "天鹅",
-                "လင်းယုန်": "ငန်း",
-                "eagle.png": "swan.png"
+                "title_en": "swan",
+                "title_cn": "天鹅",
+                "title_mm": "ငန်း",
+                "image": "swan.png"
               },
               {
-                "eagle": "quail",
-                "鹰": "鹌鹑",
-                "လင်းယုန်": "ငုံး",
-                "eagle.png": "quail.png"
+                "title_en": "quail",
+                "title_cn": "鹌鹑",
+                "title_mm": "ငုံး",
+                "image": "quail.png"
               },
               {
-                "eagle": "pigeon",
-                "鹰": "鸽子",
-                "လင်းယုန်": "ခို",
-                "eagle.png": "pigeon.png"
+                "title_en": "pigeon",
+                "title_cn": "鸽子",
+                "title_mm": "ခို",
+                "image": "pigeon.png"
               },
               {
-                "eagle": "pheasant",
-                "鹰": "野鸡",
-                "လင်းယုန်": "ရစ်ငှက်",
-                "eagle.png": "pheasant.png"
+                "title_en": "pheasant",
+                "title_cn": "野鸡",
+                "title_mm": "ရစ်ငှက်",
+                "image": "pheasant.png"
               },
               {
-                "eagle": "penguin",
-                "鹰": "企鹅",
-                "လင်းယုန်": "ပင်ဂွင်း",
-                "eagle.png": "penguin.png"
+                "title_en": "penguin",
+                "title_cn": "企鹅",
+                "title_mm": "ပင်ဂွင်း",
+                "image": "penguin.png"
               },
               {
-                "eagle": "swallow",
-                "鹰": "燕",
-                "လင်းယုန်": "ပျံလွှားငှက်",
-                "eagle.png": "swallow.png"
+                "title_en": "swallow",
+                "title_cn": "燕",
+                "title_mm": "ပျံလွှားငှက်",
+                "image": "swallow.png"
               },
               {
-                "eagle": "pelican",
-                "鹰": "鹈",
-                "လင်းယုန်": "ဝန်ပိုငှက်",
-                "eagle.png": "pelican.png"
+                "title_en": "pelican",
+                "title_cn": "鹈",
+                "title_mm": "ဝန်ပိုငှက်",
+                "image": "pelican.png"
               },
               {
-                "eagle": "partridge",
-                "鹰": "鹧鸪",
-                "လင်းယုန်": "ခါငှက်မျို",
-                "eagle.png": "partridge.png"
+                "title_en": "partridge",
+                "title_cn": "鹧鸪",
+                "title_mm": "ခါငှက်မျို",
+                "image": "partridge.png"
               },
               {
-                "eagle": "nightingale",
-                "鹰": "夜莺",
-                "လင်းယုန်": "နိုက်တင်ဂေးလ်",
-                "eagle.png": "nightingale.png"
+                "title_en": "nightingale",
+                "title_cn": "夜莺",
+                "title_mm": "နိုက်တင်ဂေးလ်",
+                "image": "nightingale.png"
               },
               {
-                "eagle": "stork",
-                "鹰": "鹳",
-                "လင်းယုန်": "ထုံးစပ်ငှက်",
-                "eagle.png": "stork.png"
+                "title_en": "stork",
+                "title_cn": "鹳",
+                "title_mm": "ထုံးစပ်ငှက်",
+                "image": "stork.png"
               },
               {
-                "eagle": "peacock",
-                "鹰": "孔雀",
-                "လင်းယုန်": "ဒေါင်း",
-                "eagle.png": "peacock.png"
+                "title_en": "peacock",
+                "title_cn": "孔雀",
+                "title_mm": "ဒေါင်း",
+                "image": "peacock.png"
               },
               {
-                "eagle": "parrot",
-                "鹰": "鹦鹉",
-                "လင်းယုန်": "ကြက်တူရွေး",
-                "eagle.png": "parrot.png"
+                "title_en": "parrot",
+                "title_cn": "鹦鹉",
+                "title_mm": "ကြက်တူရွေး",
+                "image": "parrot.png"
               },
               {
-                "eagle": "owl",
-                "鹰": "猫头鹰",
-                "လင်းယုန်": "ဇီးကွက်",
-                "eagle.png": "owl.png"
+                "title_en": "owl",
+                "title_cn": "猫头title_cn",
+                "title_mm": "ဇီးကွက်",
+                "image": "owl.png"
               },
               {
-                "eagle": "hummingbird",
-                "鹰": "蜂鸟",
-                "လင်းယုန်": "ငှက်ပိတုန်း",
-                "eagle.png": "hummingbird.png"
+                "title_en": "hummingbird",
+                "title_cn": "蜂鸟",
+                "title_mm": "ငှက်ပိတုန်း",
+                "image": "hummingbird.png"
               },
               {
-                "eagle": "starling",
-                "鹰": "八哥",
-                "လင်းယုန်": "စတာလင်ဆက်ရက်",
-                "eagle.png": "starling.png"
+                "title_en": "starling",
+                "title_cn": "八哥",
+                "title_mm": "စတာလင်ဆက်ရက်",
+                "image": "starling.png"
               },
               {
-                "eagle": "rooster",
-                "鹰": "公鸡",
-                "လင်းယုန်": "ကြက်ဖ",
-                "eagle.png": "rooster.png"
+                "title_en": "rooster",
+                "title_cn": "公鸡",
+                "title_mm": "ကြက်ဖ",
+                "image": "rooster.png"
               },
               {
-                "eagle": "hornbill",
-                "鹰": "犀鸟",
-                "လင်းယုန်": "အောက်ချင်းငှက်",
-                "eagle.png": "hornbill.png"
+                "title_en": "hornbill",
+                "title_cn": "犀鸟",
+                "title_mm": "အောက်ချင်းငှက်",
+                "image": "hornbill.png"
               },
               {
-                "eagle": "sparrow",
-                "鹰": "麻雀",
-                "လင်းယုန်": "စာကလေး",
-                "eagle.png": "sparrow.png"
+                "title_en": "sparrow",
+                "title_cn": "麻雀",
+                "title_mm": "စာကလေး",
+                "image": "sparrow.png"
               },
               {
-                "eagle": "hen",
-                "鹰": "母鸡",
-                "လင်းယုန်": "ကြက်မ",
-                "eagle.png": "hen.png"
+                "title_en": "hen",
+                "title_cn": "母鸡",
+                "title_mm": "ကြက်မ",
+                "image": "hen.png"
               },
               {
-                "eagle": "guineafowl",
-                "鹰": "珍珠鸡",
-                "လင်းယုန်": "ရစ်ငှက်ကြီး",
-                "eagle.png": "guineafowl.png"
+                "title_en": "guineafowl",
+                "title_cn": "珍珠鸡",
+                "title_mm": "ရစ်ငှက်ကြီး",
+                "image": "guineafowl.png"
               },
               {
-                "eagle": "skylark",
-                "鹰": "云雀",
-                "လင်းယုန်": "ဘီလုံးငှက်",
-                "eagle.png": "skylark.png"
+                "title_en": "skylark",
+                "title_cn": "云雀",
+                "title_mm": "ဘီလုံးငှက်",
+                "image": "skylark.png"
               },
               {
-                "eagle": "seagull",
-                "鹰": "海鸥",
-                "လင်းယုန်": "ပင်လယ်ဇင်ယော်",
-                "eagle.png": "seagull.png"
+                "title_en": "seagull",
+                "title_cn": "海鸥",
+                "title_mm": "ပင်လယ်ဇင်ယော်",
+                "image": "seagull.png"
               },
               {
-                "eagle": "hawk",
-                "鹰": "鹰",
-                "လင်းယုန်": "သိမ်းငှက်",
-                "eagle.png": "hawk.png"
+                "title_en": "hawk",
+                "title_cn": "title_cn",
+                "title_mm": "သိမ်းငှက်",
+                "image": "hawk.png"
               },
               {
-                "eagle": "raven",
-                "鹰": "乌鸦",
-                "လင်းယုန်": "ကျီး",
-                "eagle.png": "raven.png"
+                "title_en": "raven",
+                "title_cn": "乌鸦",
+                "title_mm": "ကျီး",
+                "image": "raven.png"
               },
               {
-                "eagle": "goose",
-                "鹰": "鹅",
-                "လင်းယုန်": "ဘဲငန်း",
-                "eagle.png": "goose.png"
+                "title_en": "goose",
+                "title_cn": "鹅",
+                "title_mm": "ဘဲငန်း",
+                "image": "goose.png"
               },
               {
-                "eagle": "oriole",
-                "鹰": "金莺",
-                "လင်းယုန်": "oriole",
-                "eagle.png": "oriole.png"
+                "title_en": "oriole",
+                "title_cn": "金莺",
+                "title_mm": "oriole",
+                "image": "oriole.png"
               },
               {
-                "eagle": "goldfinch",
-                "鹰": "金翅雀",
-                "လင်းယုန်": "goldfinch",
-                "eagle.png": "goldfinch.png"
+                "title_en": "goldfinch",
+                "title_cn": "金翅雀",
+                "title_mm": "goldfinch",
+                "image": "goldfinch.png"
               },
               {
-                "eagle": "flamingo",
-                "鹰": "火烈鸟",
-                "လင်းယုန်": "ကြိုးကြာနီ",
-                "eagle.png": "flamingo.png"
+                "title_en": "flamingo",
+                "title_cn": "火烈鸟",
+                "title_mm": "ကြိုးကြာနီ",
+                "image": "flamingo.png"
               },
               {
-                "eagle": "myna",
-                "鹰": "八哥",
-                "လင်းယုန်": "သာလိကာ",
-                "eagle.png": "myna.png"
+                "title_en": "myna",
+                "title_cn": "八哥",
+                "title_mm": "သာလိကာ",
+                "image": "myna.png"
               },
               {
-                "eagle": "magpie",
-                "鹰": "鹊",
-                "လင်းယုန်": "ငှက်ကျား",
-                "eagle.png": "magpie.png"
+                "title_en": "magpie",
+                "title_cn": "鹊",
+                "title_mm": "ငှက်ကျား",
+                "image": "magpie.png"
               },
               {
-                "eagle": "macaw",
-                "鹰": "金刚鹦鹉",
-                "လင်းယုန်": "မကောကြက်တူရွေ",
-                "eagle.png": "macaw.png"
+                "title_en": "macaw",
+                "title_cn": "金刚鹦鹉",
+                "title_mm": "မကောကြက်တူရွေ",
+                "image": "macaw.png"
               },
               {
-                "eagle": "kingfisher",
-                "鹰": "翠鸟",
-                "လင်းယုန်": "ပိန်ညင်းငှက်",
-                "eagle.png": "kingfisher.png"
+                "title_en": "kingfisher",
+                "title_cn": "翠鸟",
+                "title_mm": "ပိန်ညင်းငှက်",
+                "image": "kingfisher.png"
               },
               {
-                "eagle": "ostrich",
-                "鹰": "鸵鸟",
-                "လင်းယုန်": "ငှက်ကုလားအုတ်",
-                "eagle.png": "ostrich.png"
+                "title_en": "ostrich",
+                "title_cn": "鸵鸟",
+                "title_mm": "ငှက်ကုလားအုတ်",
+                "image": "ostrich.png"
               },
               {
-                "eagle": "kestrel",
-                "鹰": "红隼",
-                "လင်းယုန်": "kestrel",
-                "eagle.png": "kestrel.png"
+                "title_en": "kestrel",
+                "title_cn": "红隼",
+                "title_mm": "kestrel",
+                "image": "kestrel.png"
               },
               {
-                "eagle": "jay",
-                "鹰": "松鸦",
-                "လင်းယုန်": "ဗွတ်ကုလား",
-                "eagle.png": "jay.png"
+                "title_en": "jay",
+                "title_cn": "松鸦",
+                "title_mm": "ဗွတ်ကုလား",
+                "image": "jay.png"
               }
             ]
         },
